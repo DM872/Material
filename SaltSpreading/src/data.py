@@ -38,15 +38,12 @@ class Data:
                          2: {"home": 130,"capacity": capacity}} # start and end location for vehicle 1 and 2
 
         self.depots = {1: {"refill": capacity}, 179: {"refill":capacity}}
-        
-        for _ in range(7):
-            next(reader, None)  # skip the headers
         # process data
         # note: it assumes that edges are listed in the data in both directions
         for elem in reader:
             try:
-                _from = int(elem[0].strip())
-                self.nodes[_from] = () # no coordinates given :(
+                _fro = int(elem[0].strip())
+                self.nodes[_fro] = () # no coordinates given :(
                 for k in range(1,len(elem),4):
                     _to = int(elem[k].strip())
                     length = int(elem[k+2].strip())
@@ -54,34 +51,33 @@ class Data:
                     status = int(elem[k+1].strip())
                     demand = length * width
                     
-                    if (_from,_to) not in self.A:
-                        self.A.update({(_from, _to): {"len": length}})
+                    if (_fro,_to) not in self.A:
+                        self.A.update({(_fro, _to): {"len": length}})
 
-                    if (_to,_from) not in self.A:
-                        self.A.update({(_to, _from): {"len": length}})
+                    if (_to,_fro) not in self.A:
+                        self.A.update({(_to, _fro): {"len": length}})
 
                     if status == 1: # saltes i valgfri retning
-                        #self.R.append((_from, _to))
-                        if not self.is_req_edge( (_from,_to) ):
-                            if _from < _to:
-                                self.E_R.update( {(_from, _to): {"dem":demand}} )
+                        #self.R.append((_fro, _to))
+                        if not self.is_req_edge( (_fro,_to) ):
+                            if _fro < _to:
+                                self.E_R.update( {(_fro, _to): {"dem":demand}} )
                             else:
-                                self.E_R.update( {(_to, _from): {"dem":demand}} )
+                                self.E_R.update( {(_to, _fro): {"dem":demand}} )
                     elif status == 2:# saltes i denne retning
-                        #self.R.append((_from, _to))
-                        if (_from,_to) not in self.A_R:
-                            self.A_R.update( {(_from, _to): {"dem":demand}} )
+                        #self.R.append((_fro, _to))
+                        if (_fro,_to) not in self.A_R:
+                            self.A_R.update( {(_fro, _to): {"dem":demand}} )
                     ## status 3 is redundant: if an arc is named but not declared with status 1 or 2 then
                     ## no need _to visit it
                     elif status == 3:# can be left out
                         continue
                         ## POSSIBLE ERROR: can we visit this in both directions???
-                    #    self.A.append((_from, _to))
+                    #    self.A.append((_fro, _to))
                     else:
                         sys.exit("Status of arc not recognised")
-            except ValueError as ve:
-                pass 
-                #raise ValueError(elem) from ve
+            except ValueError:
+                pass
 
 
 
@@ -96,16 +92,16 @@ class Data:
         self.depots = {}
 
         multidict = { 
-                (1,2): [3,1],
-                (1,3): [4,1],
-                (1,4): [4,1],
-                (1,5): [3,1],
+                (1,2): [1,3],
+                (1,3): [1,4],
+                (1,4): [1,4],
+                (1,5): [1,3],
                 (2,3): [1,1],
                 (3,4): [1,1],
-                (3,6): [5,1],
+                (3,6): [1,5],
                 (4,5): [1,1],
-                (4,7): [0,1],
-                (6,7): [14,1]
+                (4,7): [1,0],
+                (6,7): [1,14]
                 }
 
         #E = [(i,j) for (i,j) in multidict]
@@ -127,27 +123,52 @@ class Data:
         self.depots = {}
 
         multidict_edges = {
-            (1,2): [4,1],
-            (1,5): [3,1],
-            (2,3): [3,1],
+            (1,2): [1,4],
+            (1,5): [1,3],
+            (2,3): [1,3],
             (3,4): [1,1],
-            (3,5): [2,1]
+            (3,5): [1,2]
             }
 
         multidict_arcs = {
-            (1,3): [5,1],
-            (4,5): [0,1]
+            (1,3): [1,5],
+            (4,5): [1,0]
             }
 
         #E = [(i,j) for (i,j) in multidict]
-        self.A = {(i,j): {"len": multidict[(i,j)][0]} for (i,j) in multidict_edges}
-        self.A.update({(j,i): {"len": multidict[(i,j)][0]} for (i,j) in multidict_edges})
-        self.A.update({(i,j): {"len": multidict[(i,j)][0]} for (i,j) in multidict_arcs})
+        self.A = {(i,j): {"len": multidict_edges[(i,j)][0]} for (i,j) in multidict_edges}
+        self.A.update({(j,i): {"len": multidict_edges[(i,j)][0]} for (i,j) in multidict_edges})
+        self.A.update({(i,j): {"len": multidict_arcs[(i,j)][0]} for (i,j) in multidict_arcs})
         
         self.E_R = {(i,j): {"dem": multidict_edges[(i,j)][1]} for (i,j) in multidict_edges if multidict_edges[(i,j)][1]>0}
         self.A_R = {(i,j): {"dem": multidict_arcs[(i,j)][1]} for (i,j) in multidict_arcs if multidict_arcs[(i,j)][1]>0}
 
-        
+        self.U = u_turn_set()
+        print(self.U)
+ 
+
+    def u_turn_set(self):
+        U = set()
+        for node in self.nodes:
+            a_u = set()
+            a_plus_u = set()
+            a_minus_u = set()
+            for edge in self.E_R:
+                if edge[0]==node: 
+                    a_u.add(edge[1])
+                elif edge[1]==node:
+                    a_u.add(edge[0])
+            for arc in list(self.A.keys()) + list(self.A_R.keys()):
+                if arc[0]==node:
+                    a_plus_u.add(arc[1])
+                if arc[1]==node:
+                    a_minus_u.add(arc[0])
+            if len(a_u)==1 and len(a_minus_u)==0 and len(a_plus_u)==0:
+                U.add(node)
+            if len(a_u)==0 and len(a_minus_u)==1 and a_minus_u==a_plus_u:
+                U.add(node)
+            print(a_u,a_minus_u,a_plus_u)
+        return U
 
 
 
@@ -161,18 +182,18 @@ class Data:
         self.depots = {}
 
         multidict_edges = { 
-            (1,2): [4,1],
-            (1,3): [3,1],
-            (2,5): [3,1],
+            (1,2): [1,4],
+            (1,3): [1,3],
+            (2,5): [1,3],
             (5,6): [1,1],
-            (6,7): [2,1],
-            (3,4): [4,1]
+            (6,7): [1,2],
+            (3,4): [1,4]
             }
         multidict_arcs = { 
-            (3,2): [5,1],
+            (3,2): [1,5],
             (4,1): [1,1],
-            (6,3): [2,1],
-            (7,4): [3,1]
+            (6,3): [1,2],
+            (7,4): [1,3]
             }
 
         self.A = {(i,j): {"len": multidict[(i,j)][0]} for (i,j) in multidict_edges}
@@ -205,6 +226,8 @@ class Data:
         self.A_R = {(i,j): {"dem": A_R[(i,j)]} for (i,j) in A_R}
         self.E_R = {(i,j): {"dem": E_R[(i,j)]} for (i,j) in E_R}
 
+        self.U = self.u_turn_set()
+        print(self.U)
 
 
 
