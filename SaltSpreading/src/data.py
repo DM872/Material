@@ -215,7 +215,8 @@ class Data:
 
         self.depots = {7: {"refill":50.0}}
 
-        E = {(0,1), (1,2), (2,4), (2,3), (1,3), (3,4), (2,5), (5,7), (4,7), (5,7), (5,6)}
+        E = {(0,1), (2,4), (2,3), (1,3), (2,5), (5,7), (4,7), (5,7)}
+        A = {(4,3), (5,6)}
         A_R = {(3,4): 20,(6,5): 30}
         E_R={(1,2): 30}
         def distance(node1,node2):
@@ -223,7 +224,8 @@ class Data:
 
         self.A = {(i,j): {"len": distance(self.nodes[i],self.nodes[j])} for (i,j) in E}
         self.A.update({(j,i): {"len": distance(self.nodes[i],self.nodes[j])} for (i,j) in E})
-        
+        self.A.update({(i,j): {"len": distance(self.nodes[i],self.nodes[j])} for (i,j) in A})
+
         self.A_R = {(i,j): {"len": distance(self.nodes[i],self.nodes[j]), "dem": A_R[(i,j)]} for (i,j) in A_R}
         self.E_R = {(i,j): {"len": distance(self.nodes[i],self.nodes[j]), "dem": E_R[(i,j)]} for (i,j) in E_R}
 
