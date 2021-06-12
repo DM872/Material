@@ -90,6 +90,10 @@ class Data:
                         #self.R.append((_fro, _to))
                         if (_from,_to) not in self.A_R:
                             self.A_R.update( {(_from, _to): {"dem":demand, "len": length}} )
+                            if (_from,_to) in self.E_R:
+                                self.E_R.pop((_from,_to))
+                            elif (_to,_from) in self.E_R:
+                                self.E_R.pop((_to,_from))
                     ## status 3 is redundant: if an arc is named but not declared with status 1 or 2 then
                     ## no need _to visit it
                     elif status == 3:# can be left out ## POSSIBLE ERROR: can we visit this in both directions???
