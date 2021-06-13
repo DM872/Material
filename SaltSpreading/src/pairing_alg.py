@@ -29,7 +29,7 @@ def recurr(i, path):
 def derive_route(data,Arcs):
     for h in data.vehicles:
         print('\nRoute for veichle %d:' % h)
-        s = data.depots[h]
+        s = data.vehicles[h].home
         global Ar
         Ar = list(Arcs[h])
         global route
