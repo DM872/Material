@@ -1,0 +1,3112 @@
+{
+    "N220010102": {
+        "STADS_ID": "N220010101",
+        "NAT_code": "SPKE802",
+        "title": "SPKE802: Speciale i medicinalkemi",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N220010102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "d6b268132fca503eea7d38313b0b2f8a",
+            "91feabd695b2afe04e4af1ef5e2a8711",
+            "4c33b3ba3b1ced80d63c06e9b892e589",
+            "e818549092dcea654242c970ec5dc9f7"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N220013102": {
+        "STADS_ID": "N220013101",
+        "NAT_code": "SPNA801",
+        "title": "SPNA801: Speciale i nanobioscience",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N220013102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N500002102": {
+        "STADS_ID": "N500002101",
+        "NAT_code": "BAFY500",
+        "title": "BAFY500: Bachelorprojekt i fysik ",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500002102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "8e9d3b58c4d836e786caf8816eef5f03",
+            "373f329d6bc97965ef505133dbda80d3",
+            "538ddb719d13deeefc1c21dbabd4ea85"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N500003102": {
+        "STADS_ID": "N500003101",
+        "NAT_code": "BAFY501",
+        "title": "BAFY501: Bachelorprojekt i fysik ",
+        "ECTS": 15,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500003102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "24d843326f54160e37c8fd42f5664f81",
+            "5734bc1c6524213ab6a69f6905a04760",
+            "b7d7d61ff10d9c8d5e4046c7f0539032",
+            "e076398105ec913a48c44ca344c282f9",
+            "8f88d0741b82117ab705b48cbc60b342",
+            "d30a0f405b7b5745571d8a051737b362",
+            "d7db539d55f7f41dc6856941dd0cd698",
+            "bd1cdd713b50af6280bc40b62565f566",
+            "9815486662faa8144b47b2e2ae1038e0",
+            "626ec65ecac9a8800530ccaac7e06c62"
+        ],
+        "nstds": 10,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N500033102": {
+        "STADS_ID": "N500033101",
+        "NAT_code": "FY542",
+        "title": "Eksperimentel fysik og halvledere",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500033102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "3a6e3e1f36965cf9e2e9c1f9ec15f196",
+            "a68229b6795f50342ded7d7d0d7c5e3d",
+            "50b58ea79c5257c91a982d764e73580a",
+            "65fde243959102541f6096a202453c75",
+            "9575eac777d6432a4ff47a0b1d2a4379",
+            "91b4d6131142b04501536f5ae6585855",
+            "0a1e2fedb438120ebc932ea86261dcd2",
+            "d814e0c39074003297c92d019b46902c",
+            "54936df6ad0520fb5635967cf20f08de",
+            "48439aa901ee02c2630aa0cadb9b53de",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "1a745f531e9797187ba0abf0b90b0daf",
+            "977655d852fbb76091010e56247e4283",
+            "dbd40d476e2608faa9c5765ca99cba68",
+            "7f19603a2fc674c48c30147fc6d5f024",
+            "54d3181d45daf15ade9d079ee81a92f6",
+            "3c8359a932ee42db5a5271bc6a19e273",
+            "aa761a6bc144619a4252cbd39274a741",
+            "016acd09bf6fba19b4f160437698856a",
+            "d9022727a9003ace55cea4d04dc8f64f",
+            "ad3e29a40a101180b83301c4a2853859",
+            "67a9abeae520baa85e9cbc89ec331a4f",
+            "9d1d32b3557a7efa3c1e9dca858a6963",
+            "d96e511b019426497108580931a2c7a5",
+            "e2e65e6dce19a7321fbad4a4e3f60d1f",
+            "49224630fa6c037240f672497fa1c819",
+            "4b0065076e10d23c0dbae18dadf6d536",
+            "3b3660cf1a163909328e96fd1e43d4c1",
+            "f51cf20433a1adb3532b9eef966b8f07",
+            "186e2d91ceec09ebcaf7ec3726f34d26",
+            "cd47f634b6976fa0e47a13b42486c06f",
+            "b92826caa0613bcecedcae77d1468c19"
+        ],
+        "nstds": 34,
+        "rdays": 3,
+        "conflicting": [
+            "N500039102",
+            "T460028112",
+            "T460018102",
+            "N500052102",
+            "N500047102",
+            "N500050102",
+            "N500049102",
+            "N500048102"
+        ],
+        "schedule": [
+            [
+                172,
+                "2022-06-21"
+            ],
+            [
+                173,
+                "2022-06-22"
+            ],
+            [
+                174,
+                "2022-06-23"
+            ]
+        ]
+    },
+    "N500039102": {
+        "STADS_ID": "N500039101",
+        "NAT_code": "FT504",
+        "title": "Elektromagnetisme og optik",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500039102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "402fa08a225f3791cc66b26b2de90d92",
+            "4722048fbdaef815b2af9aa7ebaf5ac8",
+            "883f6e66d76bc49c928f2c74d186719b",
+            "069da2f485bda853d8bbdc473047d574",
+            "065fe6ae0559399976cacd8bb4d66989",
+            "f47e8f833f38945711fe7a41d51e4af2",
+            "10597f1532d7025fac92043bcef9662d",
+            "a0c3f6b97eda8e156adb858a0cfb963f",
+            "eebe149fb15ca37af00867ff7a8c2eb5",
+            "28ded10df7618ff8539a8812b74650cb",
+            "0cac880449e7ab6c336e4d3c7f59c104",
+            "82235517867bb4d013d8227ca91cccec",
+            "b386279fc333b19717be3cd656c74168",
+            "4a450805447c43bc3f6c527598c73c72",
+            "991e48dfe0b1fa341072356175e6e0c0",
+            "e4882661c2ce21e5502b1e990704cb6d",
+            "e45be26df565cd79e8dc0b929466debc",
+            "d62f9d25df96dd569cf835c418930bd9",
+            "2255b1e0052024b2afdc44d5b56e7cd5",
+            "69e472273cc44b008ce9e312df945718",
+            "fb6e1d046e338128a7b920ec46f977fa",
+            "594233eeae5256a2c2eb9f13846146bf",
+            "d35517031aaa31eafc994f0097c18cf9",
+            "5d2c114d0fab22e4f758bf6822ffc0da",
+            "8528b16da66fc800cc3687b68ca3bcaa",
+            "977537ccbe993153ef86b8cca574f110",
+            "9df1ab09b9c9fb6894e7fd9c842113d5",
+            "a2206eae6d15883f003d150a21b914ee",
+            "a9e1be5e9cbfd87bef88194454791176",
+            "2d0cb93f9668612289ad687dc2bc9852",
+            "bab018370a7f85c5f23637810921f7f8",
+            "2024357c90f65166f8c5dfb375459e16",
+            "569a1710dfc7b36d320a311871fa6cb8",
+            "893b9c5c874f5f1c78f19727767cf5c4",
+            "96a946d29a2dfa7186c0679845b6013b",
+            "e883ebbc32445e1d449d0b4690abfdc3",
+            "66582000dcc880b5c9a90457f8ccbca2"
+        ],
+        "nstds": 37,
+        "rdays": 1,
+        "forbidden": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ]
+        ],
+        "conflicting": [
+            "T460028112",
+            "T460018102",
+            "N500052102",
+            "N500047102",
+            "N500050102",
+            "N500033102",
+            "N500049102"
+        ],
+        "schedule": [
+            [
+                164,
+                "2022-06-13"
+            ]
+        ]
+    },
+    "N500042102": {
+        "STADS_ID": "N500042101",
+        "NAT_code": "FY544",
+        "title": "Kvantemekanik I",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500042102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                159,
+                "2022-06-08"
+            ]
+        ]
+    },
+    "N500047102": {
+        "STADS_ID": "N500047101",
+        "NAT_code": "FY537",
+        "title": "Grundlæggende astronomi",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500047102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "3a6e3e1f36965cf9e2e9c1f9ec15f196",
+            "65fde243959102541f6096a202453c75",
+            "9575eac777d6432a4ff47a0b1d2a4379",
+            "91b4d6131142b04501536f5ae6585855",
+            "54936df6ad0520fb5635967cf20f08de",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "1a745f531e9797187ba0abf0b90b0daf",
+            "977655d852fbb76091010e56247e4283",
+            "7f19603a2fc674c48c30147fc6d5f024",
+            "3c8359a932ee42db5a5271bc6a19e273",
+            "ad3e29a40a101180b83301c4a2853859",
+            "9d1d32b3557a7efa3c1e9dca858a6963",
+            "d96e511b019426497108580931a2c7a5",
+            "e2e65e6dce19a7321fbad4a4e3f60d1f",
+            "49224630fa6c037240f672497fa1c819",
+            "48388a35e2eb16db2863fb8961f2d120"
+        ],
+        "nstds": 18,
+        "rdays": 2,
+        "available": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ],
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ]
+        ],
+        "conflicting": [
+            "N510027102",
+            "N500049102",
+            "N500039102",
+            "T460028112",
+            "T460018102",
+            "N500052102",
+            "N500050102",
+            "N500033102",
+            "N500048102"
+        ],
+        "schedule": [
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ]
+        ]
+    },
+    "N500048102": {
+        "STADS_ID": "N500048101",
+        "NAT_code": "FY545",
+        "title": "Partikelfysik",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500048102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "24d843326f54160e37c8fd42f5664f81",
+            "5734bc1c6524213ab6a69f6905a04760",
+            "b7d7d61ff10d9c8d5e4046c7f0539032",
+            "8e9d3b58c4d836e786caf8816eef5f03",
+            "e076398105ec913a48c44ca344c282f9",
+            "8f88d0741b82117ab705b48cbc60b342",
+            "d30a0f405b7b5745571d8a051737b362",
+            "d7db539d55f7f41dc6856941dd0cd698",
+            "373f329d6bc97965ef505133dbda80d3",
+            "bd1cdd713b50af6280bc40b62565f566",
+            "538ddb719d13deeefc1c21dbabd4ea85",
+            "9815486662faa8144b47b2e2ae1038e0",
+            "626ec65ecac9a8800530ccaac7e06c62",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "b0af48737a27811cd7a9e1286efa97ba"
+        ],
+        "nstds": 15,
+        "rdays": 1,
+        "forbidden": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ]
+        ],
+        "conflicting": [
+            "N500052102",
+            "N500047102",
+            "N500050102",
+            "N500033102",
+            "N500049102"
+        ],
+        "schedule": [
+            [
+                179,
+                "2022-06-28"
+            ]
+        ]
+    },
+    "N500049102": {
+        "STADS_ID": "N500049101",
+        "NAT_code": "FY547",
+        "title": "Kvantemekanik II",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500049102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "b68fd2844bda2094dc3d882e3be18c70",
+            "df67f0d4abff213de8cbf43c0da44d66",
+            "053b279c55be2a0bd59e7c43d6b6f953",
+            "3a6e3e1f36965cf9e2e9c1f9ec15f196",
+            "08f63b2d6c51224fa4d115264d552cd4",
+            "085c3bef1118d072b31fccc9ba6e8e2e",
+            "65fde243959102541f6096a202453c75",
+            "5cd966aae2b3b522831471947194d9c9",
+            "9575eac777d6432a4ff47a0b1d2a4379",
+            "91b4d6131142b04501536f5ae6585855",
+            "b367ef3b8c8643ec98c8fd8142f00a56",
+            "54936df6ad0520fb5635967cf20f08de",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "1a745f531e9797187ba0abf0b90b0daf",
+            "977655d852fbb76091010e56247e4283",
+            "7f19603a2fc674c48c30147fc6d5f024",
+            "3c8359a932ee42db5a5271bc6a19e273",
+            "ad3e29a40a101180b83301c4a2853859",
+            "9d1d32b3557a7efa3c1e9dca858a6963",
+            "d96e511b019426497108580931a2c7a5",
+            "e2e65e6dce19a7321fbad4a4e3f60d1f",
+            "49224630fa6c037240f672497fa1c819",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "3c9e83ac49a4970fcf49da2b227b4d3a"
+        ],
+        "nstds": 26,
+        "rdays": 2,
+        "available": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ],
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ]
+        ],
+        "conflicting": [
+            "N500047102",
+            "N500039102",
+            "T460028112",
+            "T460018102",
+            "N500052102",
+            "N500050102",
+            "N500033102",
+            "N500048102"
+        ],
+        "schedule": [
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ]
+        ]
+    },
+    "N500050102": {
+        "STADS_ID": "N500050101",
+        "NAT_code": "FY549",
+        "title": "Elektrodynamik",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500050102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "3a6e3e1f36965cf9e2e9c1f9ec15f196",
+            "65fde243959102541f6096a202453c75",
+            "9575eac777d6432a4ff47a0b1d2a4379",
+            "91b4d6131142b04501536f5ae6585855",
+            "b367ef3b8c8643ec98c8fd8142f00a56",
+            "54936df6ad0520fb5635967cf20f08de",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "1a745f531e9797187ba0abf0b90b0daf",
+            "977655d852fbb76091010e56247e4283",
+            "7f19603a2fc674c48c30147fc6d5f024",
+            "3c8359a932ee42db5a5271bc6a19e273",
+            "ad3e29a40a101180b83301c4a2853859",
+            "9d1d32b3557a7efa3c1e9dca858a6963",
+            "d96e511b019426497108580931a2c7a5",
+            "e2e65e6dce19a7321fbad4a4e3f60d1f",
+            "49224630fa6c037240f672497fa1c819"
+        ],
+        "nstds": 18,
+        "rdays": 1,
+        "conflicting": [
+            "N500039102",
+            "T460028112",
+            "T460018102",
+            "N500052102",
+            "N500047102",
+            "N500033102",
+            "N500049102",
+            "N500048102"
+        ],
+        "schedule": [
+            [
+                179,
+                "2022-06-28"
+            ]
+        ]
+    },
+    "N500052102": {
+        "STADS_ID": "N500052101",
+        "NAT_code": "FY550",
+        "title": "Statistisk fysik",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N500052102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "b68fd2844bda2094dc3d882e3be18c70",
+            "053b279c55be2a0bd59e7c43d6b6f953",
+            "3a6e3e1f36965cf9e2e9c1f9ec15f196",
+            "08f63b2d6c51224fa4d115264d552cd4",
+            "71773e69e58f990ecac2dd475ac976be",
+            "085c3bef1118d072b31fccc9ba6e8e2e",
+            "50b58ea79c5257c91a982d764e73580a",
+            "65fde243959102541f6096a202453c75",
+            "9575eac777d6432a4ff47a0b1d2a4379",
+            "91b4d6131142b04501536f5ae6585855",
+            "0a1e2fedb438120ebc932ea86261dcd2",
+            "b367ef3b8c8643ec98c8fd8142f00a56",
+            "54936df6ad0520fb5635967cf20f08de",
+            "48439aa901ee02c2630aa0cadb9b53de",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "1a745f531e9797187ba0abf0b90b0daf",
+            "977655d852fbb76091010e56247e4283",
+            "dbd40d476e2608faa9c5765ca99cba68",
+            "7f19603a2fc674c48c30147fc6d5f024",
+            "54d3181d45daf15ade9d079ee81a92f6",
+            "3c8359a932ee42db5a5271bc6a19e273",
+            "aa761a6bc144619a4252cbd39274a741",
+            "016acd09bf6fba19b4f160437698856a",
+            "d9022727a9003ace55cea4d04dc8f64f",
+            "ad3e29a40a101180b83301c4a2853859",
+            "67a9abeae520baa85e9cbc89ec331a4f",
+            "9d1d32b3557a7efa3c1e9dca858a6963",
+            "d96e511b019426497108580931a2c7a5",
+            "e2e65e6dce19a7321fbad4a4e3f60d1f",
+            "49224630fa6c037240f672497fa1c819",
+            "4b0065076e10d23c0dbae18dadf6d536",
+            "3b3660cf1a163909328e96fd1e43d4c1",
+            "f51cf20433a1adb3532b9eef966b8f07",
+            "186e2d91ceec09ebcaf7ec3726f34d26",
+            "cd47f634b6976fa0e47a13b42486c06f",
+            "b92826caa0613bcecedcae77d1468c19"
+        ],
+        "nstds": 38,
+        "rdays": 1,
+        "conflicting": [
+            "N500039102",
+            "T460028112",
+            "T460018102",
+            "N500047102",
+            "N500050102",
+            "N500033102",
+            "N500049102",
+            "N500048102"
+        ],
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510000102": {
+        "STADS_ID": "N510000101",
+        "NAT_code": "FY807",
+        "title": "Fysiske undervisningsforsøg",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510000102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "402fa08a225f3791cc66b26b2de90d92",
+            "b68fd2844bda2094dc3d882e3be18c70",
+            "71e5f212f40ae30627348d8d0fb2575b",
+            "23b53d72b856383e1d00064fa6829a70",
+            "053b279c55be2a0bd59e7c43d6b6f953",
+            "08f63b2d6c51224fa4d115264d552cd4",
+            "a2c71978118c61497e032f18f9acd40b",
+            "085c3bef1118d072b31fccc9ba6e8e2e",
+            "93b402cf7d222e7809b26fb755d2c33d",
+            "1f5fc5dcf37740b1d28c76461b465831"
+        ],
+        "nstds": 10,
+        "rdays": 1,
+        "available": [
+            [
+                175,
+                "2022-06-24"
+            ],
+            [
+                178,
+                "2022-06-27"
+            ],
+            [
+                179,
+                "2022-06-28"
+            ]
+        ],
+        "schedule": [
+            [
+                178,
+                "2022-06-27"
+            ]
+        ]
+    },
+    "N510005102": {
+        "STADS_ID": "N510005101",
+        "NAT_code": "SPFY800",
+        "title": "SPFY800: Speciale i fysik",
+        "ECTS": 30,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510005102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510014102": {
+        "STADS_ID": "N510014101",
+        "NAT_code": "SPFY801",
+        "title": "SPFY801: Speciale i fysik",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510014102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "fbf92af68c69cdbd96ab3ce7d8b393f7",
+            "f90e308fb16974d3e244dd9c39c6cac4",
+            "ff85220940da8d96af5fe4296b2716d2",
+            "0bc0b3d1f7cf6dc52b2ee574fa4bdcf8",
+            "57f30764c2c78490454b5f05de29beb7",
+            "8fb5566d6ea62a89cae2d1f586096399",
+            "0190148abace16fd79ffc9274fa81cb4"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510017102": {
+        "STADS_ID": "N510017101",
+        "NAT_code": "SPFY802",
+        "title": "SPFY802: Speciale i fysik",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510017102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510020102": {
+        "STADS_ID": "N510020101",
+        "NAT_code": "SPFY803",
+        "title": "SPFY803: Speciale i fysik",
+        "ECTS": 40,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510020102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 40.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510027102": {
+        "STADS_ID": "N510027101",
+        "NAT_code": "FY812",
+        "title": "Almen relativitetsteori og kosmologi",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510027102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "f878b81478c759c7a72ce509485d0118",
+            "71e5f212f40ae30627348d8d0fb2575b",
+            "a2c71978118c61497e032f18f9acd40b",
+            "ac0d59adf63d77a9cc52801947974ea1",
+            "becc3d8ace6657777d8d01ea93e12783",
+            "24d843326f54160e37c8fd42f5664f81",
+            "5734bc1c6524213ab6a69f6905a04760",
+            "b7d7d61ff10d9c8d5e4046c7f0539032",
+            "8f88d0741b82117ab705b48cbc60b342",
+            "373f329d6bc97965ef505133dbda80d3",
+            "538ddb719d13deeefc1c21dbabd4ea85",
+            "0190148abace16fd79ffc9274fa81cb4",
+            "e0e9e7d09e24889f59a343e232cb64c1",
+            "b0af48737a27811cd7a9e1286efa97ba",
+            "272cad5ce5e5e1955a0ca98a39762532",
+            "21cdb09d84430f54d1936a33aee4e733"
+        ],
+        "nstds": 16,
+        "rdays": 1,
+        "conflicting": [
+            "N500047102"
+        ],
+        "schedule": [
+            [
+                168,
+                "2022-06-17"
+            ]
+        ]
+    },
+    "N510030102": {
+        "STADS_ID": "N510030101",
+        "NAT_code": "VPFKF803",
+        "title": "VPFKF803: Virksomhedsprojekt ved FKF",
+        "ECTS": 30,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510030102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                178,
+                "2022-06-27"
+            ]
+        ]
+    },
+    "N510035102": {
+        "STADS_ID": "N510035101",
+        "NAT_code": "FY809",
+        "title": "Kvantefeltteori",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510035102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "ac0d59adf63d77a9cc52801947974ea1",
+            "d6a770723b447cb577b9d61c0edf9126",
+            "e0e9e7d09e24889f59a343e232cb64c1",
+            "b0af48737a27811cd7a9e1286efa97ba",
+            "21cdb09d84430f54d1936a33aee4e733"
+        ],
+        "nstds": 5,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510037102": {
+        "STADS_ID": "N510037101",
+        "NAT_code": "SPFY804",
+        "title": "SPFY804: Kandidatspeciale i fysik for PhD-studerende på 4+4 ordning",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510037102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N510041102": {
+        "STADS_ID": "N510041101",
+        "NAT_code": "FY833",
+        "title": "Biofysik",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N510041102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "f878b81478c759c7a72ce509485d0118",
+            "e076398105ec913a48c44ca344c282f9",
+            "d30a0f405b7b5745571d8a051737b362",
+            "bd1cdd713b50af6280bc40b62565f566",
+            "538ddb719d13deeefc1c21dbabd4ea85",
+            "4764efd6c54a474c5a4a00a1810c6280",
+            "92fd1b25915ea87bc625e6a9286d536b",
+            "e0e9e7d09e24889f59a343e232cb64c1",
+            "b0af48737a27811cd7a9e1286efa97ba",
+            "272cad5ce5e5e1955a0ca98a39762532"
+        ],
+        "nstds": 10,
+        "rdays": 1,
+        "forbidden": [
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "schedule": [
+            [
+                159,
+                "2022-06-08"
+            ]
+        ]
+    },
+    "N530001102": {
+        "STADS_ID": "N530001101",
+        "NAT_code": "BAKE501",
+        "title": "BAKE501: Bachelorprojekt i kemi ",
+        "ECTS": 15,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530001102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N530003102": {
+        "STADS_ID": "N530003101",
+        "NAT_code": "KE525",
+        "title": "Uorganisk Kemi A",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530003102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "70a73f550a6ee2a8345dd7bbc7b577f5",
+            "185c19c4f35f3d3b70393923553835f7",
+            "8175e36508c7b5fbca70ba2a889b65dc",
+            "7ec2db54cc620588be8e468ad8d225ad",
+            "4468d98774c512199854d2bd1bef5661",
+            "bccee0856168fbbbe75a037e6b664703",
+            "3ef046a498fd916e577319fdd6a7b8f4",
+            "591029ce2ff641f51c5649666cf5f5f3",
+            "0fd68dc09be3338b46838cff15c1618b",
+            "a3c8a839a281970d99f40cb4a229c915",
+            "0d0bb0b48bd7f1a3e0c13239c43d578d",
+            "43e6b8b377a0da9fed76c88506f2374f",
+            "bde60ad045949338dffb7305859d81f1",
+            "8678576316b5b716d169897eff86e64a",
+            "93132d0d2fef518ca687d73f7648c187",
+            "afaa5136f8529062bfcf9288385b226c",
+            "2ef732beb50a6114c10a825a142d0f31",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "54267fdb4ba7ebf14ffa7a3f821f097f",
+            "996bda694679da9534e3c48e50cf829d",
+            "dfdb16dfcdd0a35014bb15edcba1558f",
+            "9b18caa5679fc182f4f04eb36285053c",
+            "cc60ce7e0f2dd25087450b675789c367",
+            "dfb60355135875269a0a1e50e564d2c2",
+            "51fc359e3628987238bee0b3e0b3e9b0",
+            "b3710f6fa0f53e1ab2dc7dd1ec26c4da",
+            "0e20f5749b7e1c1d26f8ad325bcf36dd",
+            "b83b56dd38e655c863ab142ea5b2e5c1",
+            "4a67a3523d59a8e1a2ae779889ddf567",
+            "4b79e05acd264e91186bfc7d313a2e02",
+            "e3a9a63aa4b0ac9725424a978af906bb",
+            "e4557d981b7afb3a7a7c4796be10a4bd",
+            "7603ba5ce12260821cb80206a84af0aa",
+            "1d2e54441c50f34cc59d285bd5b83215",
+            "46051f2792d30b82b95232ec7890f759"
+        ],
+        "nstds": 35,
+        "rdays": 3,
+        "conflicting": [
+            "N530021102",
+            "N700006102",
+            "N530005102",
+            "N530013102",
+            "N530030102"
+        ],
+        "schedule": [
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ]
+        ]
+    },
+    "N530005102": {
+        "STADS_ID": "N530005101",
+        "NAT_code": "KE522",
+        "title": "Kvantekemi og teoretisk spektroskopi",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530005102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "a3c8a839a281970d99f40cb4a229c915",
+            "43e6b8b377a0da9fed76c88506f2374f",
+            "93132d0d2fef518ca687d73f7648c187",
+            "ba4c5fbd61578723016f71e0cc4816e5",
+            "2ef732beb50a6114c10a825a142d0f31",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "54267fdb4ba7ebf14ffa7a3f821f097f",
+            "dfdb16dfcdd0a35014bb15edcba1558f",
+            "9b18caa5679fc182f4f04eb36285053c",
+            "cc60ce7e0f2dd25087450b675789c367",
+            "dfb60355135875269a0a1e50e564d2c2",
+            "51fc359e3628987238bee0b3e0b3e9b0",
+            "b3710f6fa0f53e1ab2dc7dd1ec26c4da",
+            "0e20f5749b7e1c1d26f8ad325bcf36dd",
+            "b83b56dd38e655c863ab142ea5b2e5c1",
+            "4a67a3523d59a8e1a2ae779889ddf567",
+            "e3a9a63aa4b0ac9725424a978af906bb"
+        ],
+        "nstds": 17,
+        "rdays": 2,
+        "forbidden": [
+            [
+                178,
+                "2022-06-27"
+            ],
+            [
+                179,
+                "2022-06-28"
+            ]
+        ],
+        "conflicting": [
+            "N530021102",
+            "N700006102",
+            "N530013102",
+            "N530030102",
+            "N530003102"
+        ],
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ]
+        ]
+    },
+    "N530013102": {
+        "STADS_ID": "N530013101",
+        "NAT_code": "KE537",
+        "title": "Mikro- og Makroskopisk fysisk kemi",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530013102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "18eafafc02c4217b722b14f835808f9e",
+            "2ce6aea9e7c2dd1d878c56ad66bdbb99",
+            "43e6b8b377a0da9fed76c88506f2374f",
+            "2ef732beb50a6114c10a825a142d0f31",
+            "9aa734e21ef09fa0e39bec1350c4570b",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "54267fdb4ba7ebf14ffa7a3f821f097f",
+            "dfdb16dfcdd0a35014bb15edcba1558f",
+            "9b18caa5679fc182f4f04eb36285053c",
+            "cc60ce7e0f2dd25087450b675789c367",
+            "dfb60355135875269a0a1e50e564d2c2",
+            "51fc359e3628987238bee0b3e0b3e9b0",
+            "b3710f6fa0f53e1ab2dc7dd1ec26c4da",
+            "0e20f5749b7e1c1d26f8ad325bcf36dd",
+            "b83b56dd38e655c863ab142ea5b2e5c1",
+            "4a67a3523d59a8e1a2ae779889ddf567",
+            "e3a9a63aa4b0ac9725424a978af906bb",
+            "e4557d981b7afb3a7a7c4796be10a4bd"
+        ],
+        "nstds": 18,
+        "rdays": 1,
+        "conflicting": [
+            "N530021102",
+            "N700006102",
+            "N530005102",
+            "N530030102",
+            "N530003102"
+        ],
+        "schedule": [
+            [
+                168,
+                "2022-06-17"
+            ]
+        ]
+    },
+    "N530014102": {
+        "STADS_ID": "N530014101",
+        "NAT_code": "KE539",
+        "title": "Makroskopisk Fysisk Kemi",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530014102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "b4a7d89d56c49bbbaf62a74015d6c5da",
+            "0d0bb0b48bd7f1a3e0c13239c43d578d",
+            "bde60ad045949338dffb7305859d81f1",
+            "6c7c9db92140b5571e527a61de7f7905"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "schedule": [
+            [
+                164,
+                "2022-06-13"
+            ]
+        ]
+    },
+    "N530019102": {
+        "STADS_ID": "N530019101",
+        "NAT_code": "BAKE500",
+        "title": "BAKE500: Bachelorprojekt i kemi ",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530019102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "b3f8c9ddd172db9d1366982427ee35a2",
+            "ea1baa0695b7c2bb4700361b1c715e50",
+            "fb1e68daeed2ceefeaf9e129b8a9492c"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N530021102": {
+        "STADS_ID": "N530021101",
+        "NAT_code": "KE505",
+        "title": "Organisk Kemi",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530021102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "5a097d95f7ff84a600a48c10c6a9e865",
+            "3ef046a498fd916e577319fdd6a7b8f4",
+            "42bb8c9b826e80ef1a56c4153c3ff562",
+            "f160cc01a463d718d62af1a6120cc10b",
+            "96efb08f8acc36588809caadda75052f",
+            "36eb3ea3a99d970d35c1178d589469aa",
+            "5881adbfffc02977c111ce3d12ae66e9",
+            "5f2f6682d21a9a31f6ba1c435d39ce23",
+            "2da86c92b7cf21caf3f2debcd66cbc20",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "73d44383059ba56d5b69b62fad89f674",
+            "1f852a144c1e95eae6b0be975e2c5db9",
+            "883f66b87f6650ebfacea61c3524e5a4",
+            "8f6211d7d93c8d0d102caf8a72fa0e41",
+            "137b4ce62d59e3c4e3d3bf72c73eff2a",
+            "e10ca5cd5a60ff44029a81bae28e2c94",
+            "fa3f5c0ed4ed91aa9b05664e4f604206",
+            "23dbfe8a1abae8e2c9ec2bd6e65625c3",
+            "bda4c25a401581e050876f8f819c4635",
+            "b959608b50416fe3736b3c5cbdea3328",
+            "0b26ea70feca5d3d78c109324ee0c645",
+            "a1fefc75c2b871a930db2fe6622d1cfa",
+            "eacb92df6f4914aab79f3b5683801c7b",
+            "8603c531260aeb91b7311b07d52a9469",
+            "33d9ebdc38a03cb16af314c331417c54",
+            "36f32644973edf6d3525f1c4b772fe68",
+            "6ae60f6a3ba87ce7fcaef21eb2932e8a",
+            "1b216df81c605deb0a83b302dabbdd1e",
+            "2a39d51bb35c14cb0dc7a62309429cf3",
+            "9aa734e21ef09fa0e39bec1350c4570b",
+            "b7fae8d121987d0587204dd73edf7e4b",
+            "5eb0d4bbf1f720a1f434293caa2e015b",
+            "c749bd53242533f42bb9ce1f6f18abc7",
+            "1634a6c4b5d6601e2d060ab1e0876f3b",
+            "98797f5c1f27cb738c1480cbe63fadc9",
+            "23b7d7c82e29b5d4a599c5bdbde585f3",
+            "95b34193d2c90de3888fd8f662c84035",
+            "1f11fcc59bec8e7406e9e7b928ef1017",
+            "830401a5fcbca9895956293c89683f6e",
+            "30f2cb0016f8ad656aabb0a983d54ca2",
+            "996bda694679da9534e3c48e50cf829d",
+            "ce0db6c6cdb523c559622b5c79ee7941",
+            "8ad9d2fe824431ccdbd6d4477b19cb04",
+            "27f80ed5eedd2c8dfdaaf866d85ff2ae",
+            "89790c24007e51c693b7b9f36c2d134d",
+            "44909baffe2c85338fa7b792fc1bd40d",
+            "ffb6d0e298ac0662ff133346a47be7bf",
+            "b467951fe4cd212f9c581b3c1626fc62",
+            "f3b8a284d80f37b61765a41bb52511eb",
+            "8c8cec712e256956759a3ec13aa863c5",
+            "d52f85f4e33ad813b19c9a76b9774b3c",
+            "f3cec59874726f635f8f62ccce70b545",
+            "ba05f9008f7960dc28e65c8e70404e65",
+            "c8f10e1fc82f6a74e4b8226a81c74a96",
+            "58fa7f5274afbf3615fda22ca278eaa9",
+            "c1d0f947298f355983b344b13a13cd60",
+            "3fd63c7e4e78fe6797269a18c1b00387",
+            "804fe1b3fdfc499c9540760c48fdd763",
+            "c0a38aa1b4af660d2f81e392f6b76f21",
+            "f9ed8438a121e11afea578ba87192abc",
+            "95fe6b30d66ca56e9c08a55273d6c770",
+            "f6b159ad04675cc5bb069e3affa014f9",
+            "c2dbe141942d0854a5ff4da56c8dee9c",
+            "1fd40268310288cc43ea70e6b5d78e4e",
+            "c421204394225a49920355038d4ddfe0",
+            "6a56e1c4308bac098242c074cd02312a",
+            "840cce5e3fb872bbf1264feffe0e2643",
+            "6bef55b0fedb56a74d203110f96361fd",
+            "f6349b3da58280049f4a077a5265fdb5",
+            "33078bc773f3129fd32dc82990e42f96",
+            "af7df580251ca3eb70c05c4bacb59bb4",
+            "303285c9ad5be40e118dff13cd2da84b",
+            "a00173eb7c039ada3ff0412034bcc51d",
+            "b9b08ae33c440807192ca898002b2ae3",
+            "2b5770acc907ad8a03edf3eb624c85f6",
+            "465e623a94f62d5670cd7ccab3ad45ca",
+            "5ab43fb0b65270fd1a0d11237a2b83e4",
+            "610f602da7f0eb393bdbb4f2f3c97e5c",
+            "3a3a179b65a2735a4a9dc8720e5cbd30",
+            "642f8be323b4b43077dd201ba3a3e297",
+            "74cc83f091ff486f328210822f1b50d1",
+            "4bbde1f889a96a670fe21886e0ae6299",
+            "2f8551a29e8512a5c1f668093fc3f529",
+            "3fe75247a786c19b8fb4906bff8da319",
+            "1927a46addcde47b3c14397270e20fec",
+            "e5b41b9240052a51eda2de2a61ffa82a",
+            "5912d82228db0ca2e3e85a608dbca146",
+            "117215440c07c6af7a3d6bd89c913a61",
+            "7539e207898051eafaa0953054b2dd97",
+            "997110135961c212231c2214c0487d98",
+            "156289ea6d18b4cc170eb3541d3feb19",
+            "4f3db73a4d29b5a529b70bfe41a53220",
+            "5f4474db02a0c666601bc9cead3a7998",
+            "4b79e05acd264e91186bfc7d313a2e02",
+            "b84ad10e588bca12d9e241761ca03467",
+            "ff80af697165b56b8ff83974acd48035",
+            "73df4e2f0c8fbba392863c091ae5773b",
+            "5bb55c23fe97cf3cb1a6490d9546d3b2",
+            "996335964607070d9e4c2a4defe5cb64",
+            "2a3145ae1faf1390f08b3e485d4dc96e",
+            "cd3d7f16871e95e75c6b36202eb927fb",
+            "c20abbbba4afa8c29dc563e9305ae7be",
+            "f267f709ce9e4a74032de7d5a8bb1cb3",
+            "a9878fb22a8c3a63bb4bd123178802ba",
+            "e4557d981b7afb3a7a7c4796be10a4bd",
+            "bfb5aaf9cd33c8dcdffab25feaf10e5a",
+            "956dcb8316c4bc4aa79b968fcd5b17b9",
+            "eaf9a33b1e769be3ec2a1722d56d9197",
+            "a9aad4e904ca6cbdcbe417c2f471e876",
+            "3c1b3de5a2465c8a2b525fab14b26325",
+            "7bf1720da6f8383e92aa72113c023752",
+            "1b0a57e008b2c21889f1a5638031575c",
+            "4b20fb27b2632e4885c1d07923f2e39e",
+            "67f6f9cf1f886f4b49ccbd696495001b",
+            "c440cb1ac7bd41bccbd292f727694d48",
+            "ed927de9e6b13a9cc5be1b528ff5a0dd",
+            "6a96467455ea902838087bfd982f78ac",
+            "8020a019b06a327db6eb6471f0ffee82",
+            "2b014196228659cbfa84ae94a9b0447d"
+        ],
+        "nstds": 119,
+        "rdays": 1,
+        "forbidden": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ],
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "conflicting": [
+            "N560030102",
+            "N700006102",
+            "N200025102",
+            "N560007102",
+            "N560024102",
+            "N560029102",
+            "N560021102",
+            "N560021112",
+            "N530005102",
+            "N530013102",
+            "N530030102",
+            "N530003102"
+        ],
+        "schedule": [
+            [
+                173,
+                "2022-06-22"
+            ]
+        ]
+    },
+    "N530023102": {
+        "STADS_ID": "N530023101",
+        "NAT_code": "KE518",
+        "title": "Videregående organisk syntese",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530023102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "forbidden": [
+            [
+                171,
+                "2022-06-20"
+            ],
+            [
+                172,
+                "2022-06-21"
+            ],
+            [
+                173,
+                "2022-06-22"
+            ],
+            [
+                174,
+                "2022-06-23"
+            ],
+            [
+                175,
+                "2022-06-24"
+            ]
+        ],
+        "joined": [
+            "N540031102"
+        ],
+        "schedule": [
+            [
+                179,
+                "2022-06-28"
+            ]
+        ]
+    },
+    "N530030102": {
+        "STADS_ID": "N530030101",
+        "NAT_code": "KE530",
+        "title": "Kvantitativ analytisk kemi",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530030102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "ded30a2d32b754caaf31902fb861ef5d",
+            "ba4c5fbd61578723016f71e0cc4816e5",
+            "2ef732beb50a6114c10a825a142d0f31",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "54267fdb4ba7ebf14ffa7a3f821f097f",
+            "996bda694679da9534e3c48e50cf829d",
+            "dfdb16dfcdd0a35014bb15edcba1558f",
+            "9b18caa5679fc182f4f04eb36285053c",
+            "cc60ce7e0f2dd25087450b675789c367",
+            "dfb60355135875269a0a1e50e564d2c2",
+            "51fc359e3628987238bee0b3e0b3e9b0",
+            "b3710f6fa0f53e1ab2dc7dd1ec26c4da",
+            "0e20f5749b7e1c1d26f8ad325bcf36dd",
+            "b83b56dd38e655c863ab142ea5b2e5c1",
+            "4a67a3523d59a8e1a2ae779889ddf567",
+            "e3a9a63aa4b0ac9725424a978af906bb"
+        ],
+        "nstds": 16,
+        "rdays": 1,
+        "conflicting": [
+            "N530021102",
+            "N700006102",
+            "N530005102",
+            "N530013102",
+            "N530003102"
+        ],
+        "schedule": [
+            [
+                179,
+                "2022-06-28"
+            ]
+        ]
+    },
+    "N530032102": {
+        "STADS_ID": "N530032101",
+        "NAT_code": "KE535",
+        "title": "Kemi for biologer",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530032102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "72b18e4595b050988ace311fffc508fe",
+            "bfaeeded7846cd55dd87c8601af6a2dc",
+            "e178fb71ebb1cdc6fa0265e1e8a10986",
+            "2b8bbaf537f8f18ab28743903054671a",
+            "44445559093513f6dcd489231bb05116",
+            "05dcf4cda123cd2f8fbff944fcf466d0",
+            "d9c9db25ebcaeacf8b56b28af25a94f0",
+            "cb1e5059a41c6a08037e4a946f286120",
+            "b67a7c3fd61006b8bd16530b2547ae86",
+            "92156d4186bc7158d3a9e6bc651cc717",
+            "0d6f98e9468999c0c01dc3f9993088bd",
+            "661d43bbe57cf27c41782a8c8f64fa5a",
+            "8b42b6383031cdfffd6fd21e8ce26d08",
+            "048751c45b77f34389dd0d5b47f31b10",
+            "898702ca2c3d311a53db50b36fbeef63",
+            "5715b2af756ce7d7e51498a674777e5a",
+            "f067fb9821b7df0b1beccff7681d9f2b",
+            "4359ab23b1fea03e1057f48a7461f1a7",
+            "6cfa20f95c4b323527cc7a14db5b6006",
+            "3dd2b1048af115aba29a9a7430554ee6",
+            "9ac691928c827f0b884ba0722e04d443",
+            "416f8cf4bca88f1207a9c66dfc91e513",
+            "0a0b44e531c52f147e3415680621092e",
+            "47dfe04ec58bf3a631b656385f6126ad",
+            "d4ec85e4db090e7b2889a9bfb6c9807a",
+            "b1d5e2af35fd6a6e5c08b2f4d72be581",
+            "8c34629a86cfbfbf3c8a917d6be66130",
+            "5604dfecc183cff108051b545bea4e89",
+            "d503fe9f799dd0c516c15499a74e7529",
+            "c8bc3c440c9e09aadebd5e73f9e24b9e",
+            "2ec92e0bad7c6447d2184d6839bec1e6",
+            "0d4f56bbe80321c4ccb34d182e032466",
+            "1ce447de8c192837f1afc2c2e2eb4880",
+            "b7360d39ea459222448d687c4346bd17",
+            "19fee7bc136f1a3a599405c7d95f385b",
+            "c819c71c0d6fdfe74875a51c0ef525ce",
+            "a229a83372106670aa183b6092dfd274",
+            "624b78d25039697f70393c5e7dad8cb0",
+            "d0f42c72e4ca9b5d614e51fe8df0f415",
+            "899304d85b624be85ae56a3781ac9496",
+            "5b0d222000b05803135be7cb39be4f27",
+            "7099ea1fa16d818709d27b852f282761",
+            "1fbdae82fa49f5c66df96c7a679ab201",
+            "a7d71276df2ec02c4e258d7068f0fe9a",
+            "ed93e1a778271f35a8b458846721050d",
+            "a63b1391d7ebe7b386d3d6ac1f8c1de0",
+            "0a5cae13ad70c502c858bcd0dad92938",
+            "405a5da60543eabb37fb9a1125e23a9f",
+            "79e9bf549f1f58a80d4c1ef7e3718723",
+            "459c11c4f8f2a9fbe2f33f8cd5bd043c",
+            "61c750e0837aeaaf008ee1133e8f7184",
+            "f744c83890d7b3f0bf88298fad760701",
+            "3e7940164d78d0a2a7197f33593daf31",
+            "9a69378aa71135e09e8bce4588070cdb",
+            "e92610d48786a40de3b25efbd999fcd4",
+            "85e1841c6dedbbc8e640ef7711510261",
+            "7e77976c295fb274a894f72f9bb7fc40",
+            "2b32e7ea8a13ba842abda48d3967169d",
+            "d6f3798ecc4c1c3fd7b1522023305809",
+            "3a4dbd73ff4b16f46db0da0102115cf4",
+            "126211c2a0742a3603ce296c5932c0ed",
+            "f4ad0db0919304294a3058313c2ce3d9",
+            "0cd528083224ae204a6b4dc2e66965d9",
+            "8a1f2b400c9c51c26689c53a9e79d41e",
+            "f5f6f47876d7d6ed9ed0d217d7953d6f",
+            "031ce7eb1f0be59e429852c616c3223c",
+            "1a2ac3098021f1206f522107f9c2cb33",
+            "738dbf73736eaada3047323433a7e685",
+            "9ec6a63ed5d77df49ba970ba689772e3",
+            "3f78d46656096bc4a89cc1bd4693c6a3"
+        ],
+        "nstds": 70,
+        "rdays": 1,
+        "available": [
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ]
+        ],
+        "conflicting": [
+            "N700006102",
+            "N100008102",
+            "N100038102",
+            "N100040102"
+        ],
+        "schedule": [
+            [
+                158,
+                "2022-06-07"
+            ]
+        ]
+    },
+    "N530035102": {
+        "STADS_ID": "N530035101",
+        "NAT_code": "BAKE502",
+        "title": "BAKE502: Bachelorprojekt i kemi ",
+        "ECTS": 20,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530035102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 20.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "2ce6aea9e7c2dd1d878c56ad66bdbb99",
+            "d1a5b4ee0e6e79fe477dc954bc3c03fe",
+            "1a19c534bcf3bd3aa304253f4854c884",
+            "00976045cb5adca53ac7cd8f3b54c34c",
+            "a74c6c16b9b028b17f520497f41c3c95",
+            "ea5de95888776a8b9c1a468da8f5cec9",
+            "fd8e355b36db83ce5e5cb69e9fa15ae6",
+            "bf315c398ed6a0848ec994b9a3360d09",
+            "f98210a976a6fd79670e00abf0ae8c52",
+            "4f9e1d61ead50f8e5d54f50368907a9a",
+            "32d738bec4971a334dc0d2e969df290c"
+        ],
+        "nstds": 11,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N530051102": {
+        "STADS_ID": "N530051101",
+        "NAT_code": "KE553",
+        "title": "Heterocyklisk kemi",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N530051102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "a3c8a839a281970d99f40cb4a229c915",
+            "2ce6aea9e7c2dd1d878c56ad66bdbb99",
+            "bdc4ecf24a2ce43c5631b700ec6ce8d7",
+            "93132d0d2fef518ca687d73f7648c187",
+            "cacaffea35b47246d67add541ebd0a6d",
+            "a74c6c16b9b028b17f520497f41c3c95",
+            "99c156d48c07471b0192288c803463fa",
+            "56cba55bc98b04199944648d0ad27475",
+            "f7433d8d829155df1dc892fe7f2797ff",
+            "6040f7c3d1e77b14db5cc7a870a6024c",
+            "fd8e355b36db83ce5e5cb69e9fa15ae6",
+            "ba4c5fbd61578723016f71e0cc4816e5",
+            "f98210a976a6fd79670e00abf0ae8c52",
+            "47c72591d4ccc82aeeb82ac3ee58c118",
+            "4f9e1d61ead50f8e5d54f50368907a9a",
+            "931688611f29b5091dbda9a3a2850d27",
+            "fb1e68daeed2ceefeaf9e129b8a9492c",
+            "cb4f578913fa494d6c6993cf2467bafd",
+            "996bda694679da9534e3c48e50cf829d",
+            "68f61a398253ed45f3400720cd2fa2da"
+        ],
+        "nstds": 20,
+        "rdays": 2,
+        "available": [
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "joined": [
+            "N540046102"
+        ],
+        "schedule": [
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ]
+        ]
+    },
+    "N540001102": {
+        "STADS_ID": "N540001101",
+        "NAT_code": "SPKE800",
+        "title": "SPKE800: Speciale i kemi",
+        "ECTS": 30,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540001102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "4ae3ae6970e9fa5314871bd69c4db2ed"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540019102": {
+        "STADS_ID": "N540019101",
+        "NAT_code": "SPKE801",
+        "title": "SPKE801: Speciale i kemi",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540019102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "766f4dfd2bdc1a50e854a67bb60ad986",
+            "7c0f5ab4d2d9bb2a7337ab1d1a2f2f4a",
+            "ff556e5984b39b8be6f56c846338aefd",
+            "42b9513fd12004a0c5f547bc30d4ab1f"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540021102": {
+        "STADS_ID": "N540021101",
+        "NAT_code": "SPKE803",
+        "title": "SPKE803: Speciale i medicinalkemi",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540021102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "62cf6b55ea316eb89e5d475879de7aa0"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540024102": {
+        "STADS_ID": "N540024101",
+        "NAT_code": "SPKE804",
+        "title": "SPKE804: Speciale i kemi",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540024102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540030102": {
+        "STADS_ID": "N540030101",
+        "NAT_code": "KE812",
+        "title": "Kemiske undervisningsforsøg",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540030102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "5a097d95f7ff84a600a48c10c6a9e865",
+            "4468d98774c512199854d2bd1bef5661",
+            "ded30a2d32b754caaf31902fb861ef5d",
+            "d6b268132fca503eea7d38313b0b2f8a",
+            "f7beaed72b8e510bf2fd35440847e67a",
+            "ce2c11503724bf1bee6aca2175a9001b",
+            "b09960615185038d752369d710e57aba",
+            "82d032185a6d4b08df1905beae0adc3f",
+            "0d0bb0b48bd7f1a3e0c13239c43d578d",
+            "bde60ad045949338dffb7305859d81f1",
+            "e1b412395733120c7450095cca7eeeae",
+            "ffde55c0992178a6ba61cce1c00c8ae9"
+        ],
+        "nstds": 12,
+        "rdays": 1,
+        "available": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ]
+        ],
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540031102": {
+        "STADS_ID": "N540031101",
+        "NAT_code": "KE814",
+        "title": "Videregående organisk syntese",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540031102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "4468d98774c512199854d2bd1bef5661",
+            "a72aef76cb736d61949499e94ef2625a",
+            "82d032185a6d4b08df1905beae0adc3f",
+            "0a78514e2d02bb92d910751096c138a2",
+            "cf91ab37bf498c78a224cebf4d068b45",
+            "5dcef60384f3fda6dbf516ff4cac0e74",
+            "65e98ab78fd3d4c5fc3cdbc9b2c55131",
+            "56fdca71923eab55d70dfc1c74f16be7",
+            "850f23d285e0b433679413370e7b19cc",
+            "c9421daca0ddcb8b6e8f70713e8880e2",
+            "7a73888ba16a638eaead63cb3a8891e8",
+            "e818549092dcea654242c970ec5dc9f7",
+            "4e4a6ebd8f85332cfd93691fc8991ce4",
+            "7603ba5ce12260821cb80206a84af0aa",
+            "32a69d315089f036f75c5abd150b95fd",
+            "46051f2792d30b82b95232ec7890f759"
+        ],
+        "nstds": 16,
+        "rdays": 1,
+        "forbidden": [
+            [
+                171,
+                "2022-06-20"
+            ],
+            [
+                172,
+                "2022-06-21"
+            ],
+            [
+                173,
+                "2022-06-22"
+            ],
+            [
+                174,
+                "2022-06-23"
+            ],
+            [
+                175,
+                "2022-06-24"
+            ]
+        ],
+        "joined": [
+            "N530023102"
+        ],
+        "conflicting": [
+            "N540040102"
+        ],
+        "schedule": [
+            [
+                179,
+                "2022-06-28"
+            ]
+        ]
+    },
+    "N540035102": {
+        "STADS_ID": "N540035101",
+        "NAT_code": "KE829",
+        "title": "Beregningskvantekemi II: optiske, elektriske og magnetiske egenskaber",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540035102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                171,
+                "2022-06-20"
+            ]
+        ]
+    },
+    "N540036102": {
+        "STADS_ID": "N540036101",
+        "NAT_code": "KE830",
+        "title": "Karakterisering af materialer",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540036102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "26f7f7e1141e1a2c6f37262e656acde9",
+            "379c0d9feb411313254fe0cd772c5a77",
+            "65e98ab78fd3d4c5fc3cdbc9b2c55131",
+            "850f23d285e0b433679413370e7b19cc",
+            "d2b1ede1fba6523ed8a3025a2a228738"
+        ],
+        "nstds": 5,
+        "rdays": 1,
+        "schedule": [
+            [
+                168,
+                "2022-06-17"
+            ]
+        ]
+    },
+    "N540038102": {
+        "STADS_ID": "N540038101",
+        "NAT_code": "KE825",
+        "title": "Nukleinsyrer i Medicinalkemi og Nanobioteknologi",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540038102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "29fc9c48daa8d3cc70c136154b3cb035",
+            "6037ce466bfe3e628ef9867ea7ddab0b",
+            "95d2de7796fbe5fecd93c9b4de1fd7f5",
+            "b09960615185038d752369d710e57aba",
+            "82e36a796db0009b1961c4d3c68ef596",
+            "7aa80d2f64071ee9795d3a95ae56ed0b",
+            "56fdca71923eab55d70dfc1c74f16be7",
+            "e331d4d6387354098774e29bd5239179",
+            "739222376538d2a659da14f63ee84bc7",
+            "5672c483a159e9f989665f7d69672111",
+            "067e23840259e6d6225cd8182dd40d38"
+        ],
+        "nstds": 11,
+        "rdays": 1,
+        "schedule": [
+            [
+                159,
+                "2022-06-08"
+            ]
+        ]
+    },
+    "N540040102": {
+        "STADS_ID": "N540040101",
+        "NAT_code": "KE828",
+        "title": "Medicinalkemi B",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540040102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "4468d98774c512199854d2bd1bef5661",
+            "82e36a796db0009b1961c4d3c68ef596",
+            "5dcef60384f3fda6dbf516ff4cac0e74",
+            "56fdca71923eab55d70dfc1c74f16be7",
+            "e331d4d6387354098774e29bd5239179",
+            "4e4a6ebd8f85332cfd93691fc8991ce4",
+            "7603ba5ce12260821cb80206a84af0aa",
+            "46051f2792d30b82b95232ec7890f759"
+        ],
+        "nstds": 8,
+        "rdays": 1,
+        "conflicting": [
+            "N540031102"
+        ],
+        "schedule": [
+            [
+                172,
+                "2022-06-21"
+            ]
+        ]
+    },
+    "N540042102": {
+        "STADS_ID": "N540042101",
+        "NAT_code": "SPKE805",
+        "title": "SPKE805: Kandidatspeciale i kemi for PhD-studerende på 4+4 ordning",
+        "ECTS": 60,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540042102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "m",
+        "institute": "fkf",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N540046102": {
+        "STADS_ID": "N540046101",
+        "NAT_code": "KE835",
+        "title": "Heterocyklisk kemi",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N540046102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "591029ce2ff641f51c5649666cf5f5f3",
+            "82e36a796db0009b1961c4d3c68ef596",
+            "0a78514e2d02bb92d910751096c138a2",
+            "4e4a6ebd8f85332cfd93691fc8991ce4",
+            "32a69d315089f036f75c5abd150b95fd",
+            "46051f2792d30b82b95232ec7890f759",
+            "e1b412395733120c7450095cca7eeeae"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "available": [
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "joined": [
+            "N530051102"
+        ],
+        "schedule": [
+            [
+                164,
+                "2022-06-13"
+            ]
+        ]
+    },
+    "N560000102": {
+        "STADS_ID": "N560000101",
+        "NAT_code": "BAFA500",
+        "title": "BAFA500: Bachelorprojekt i farmaci ",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560000102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "8a2f3a25d5917a3c2aebe21cb13d9e6a",
+            "fee3717fb45f422910c8478837da17b2",
+            "d9fd0f07ab3d5bf4dcd7687d11ccccfa",
+            "4ed7d81eb69f6ca62c549c81d80d875f",
+            "1c70155327290c44398fb58aa00ba76f"
+        ],
+        "nstds": 5,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N560001102": {
+        "STADS_ID": "N560001101",
+        "NAT_code": "BAFA501",
+        "title": "BAFA501: Bachelorprojekt i farmaci ",
+        "ECTS": 15,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560001102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "1",
+        "stype": "u",
+        "institute": "fkf",
+        "students": [
+            "0e253b18de7480eea8d37390b8cffc7e",
+            "898eb5f16d2bb92ddf134ac935b5c783",
+            "eec2347a93a734114480dc87065a6e25",
+            "3561136aec200e6a54f89a0d7f55ce7f",
+            "0a7bb7537797d800baad5c6dfc4babdd",
+            "d4de0b933e0bbb4f1bdd45cac94e85ab",
+            "31e6f496ebdae201278cfa449a24cf9e",
+            "76e7c8f5ea4e40d56034614e15215a25",
+            "8f7d59896cc3f5b5166887f9277a3ad9",
+            "18efec4776276f9a583c4253cfca5333",
+            "134200122124b01377b991ee1ae30f75",
+            "56075efed2e4cca673b3201d578970bd",
+            "6a9ebf6c323d4068b42e8c5e4fa545e7",
+            "ef30d598b62d7d25a5f19e0740125db9",
+            "bc771f11f0b014d97c0be9371e90ae21",
+            "f1fce2148711e72aa7923331ce9d3220",
+            "dda730070aa84dccde36f70938e7460f",
+            "434778c6dd332a8e909ae99aeffca76b",
+            "e9734a966a73a6b7a6541af5b2379386",
+            "625bb12708bf0139aed2abbba3942b30",
+            "4e7f61342e45d368cf603b901bf229a2",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "0971f7f0cccf034d1489f7511e8cf8c6",
+            "abcfbfed90d09d163d6f233628e804c8",
+            "6e7bfcce703b16f979708b0bf2fbaecd",
+            "0e1590aced6bd0ea1a46b57f65cd4bc5",
+            "c2b63f29472dd9c4dcd4b663c6860e54",
+            "d4dfabd8b379c473b277eef40301a38b",
+            "402b393a3547905942f1a8c0ee0aa198",
+            "33aae2255a34d18c814f2f54534fbed9",
+            "0d4295ce1f11d7ed678dc7a9f5bca903",
+            "cc2c9d086ddbbe877b60ae18a965bcc3",
+            "42a7ec31e87189e5f386784602e1436c",
+            "a989c4d727fbf3fd9821cfacb320f911",
+            "6a29fa65a00172c6812da806a07144aa",
+            "27605984057224aa3585ab39488dc30c",
+            "d573e45fa8a28d440277efe0b163676e",
+            "fb9c6a87028dba27152f87906e77cbc6",
+            "b04af41861c0e09b501b723f5f4e9bd1",
+            "73d44383059ba56d5b69b62fad89f674",
+            "540f0cf71945789ff597b1bb2144f32d",
+            "bf364c0e96e635737a86bc99946c22f1",
+            "29171849cac30785619e2fa575787f56",
+            "137b4ce62d59e3c4e3d3bf72c73eff2a",
+            "3864ac7b1be6c18d6acf64d75d72cc4b",
+            "e10ca5cd5a60ff44029a81bae28e2c94",
+            "576430688f585be037c969331e94b61b",
+            "4dbe96591106e9e6c7f78eb8188aa1da",
+            "b215c1e49ec05d7708d73d4aff140e8f",
+            "18f73996e99db10858aef9396db62d78",
+            "18836bb865c4e9f2d2135b206abe09ba",
+            "3830b1911005ebfcc46dcc8e28703500",
+            "7263a8174af9d7b16c2d15a8faa8fbff",
+            "6d8373ac74ea21c0d85c4ae7b2b5a8f2",
+            "9fd1a57cdf6b1bdd43e8f3d52e931e34",
+            "1ff609107ce4587300595f34a89f568f",
+            "2d089810b97cb83c31db203f341ebbd9",
+            "cb5f6516b6b7ebaaf66f09f0dcc7d333",
+            "bdbb1e07b6f103de2cc94c14dc34c953",
+            "6a0e7ce3c048459585efb89b65ae5455",
+            "9797008a18f0a63ada60888a3b6d9839",
+            "5d953ecb04b45cc8915e5a97b0f51496",
+            "0e152e74de357801d3008572ec5120a2",
+            "55fca01f5f06992888ad0d8fb493f87c",
+            "4b86d4b1c1cba549392ddcbbbc0c2b5d",
+            "b7c222c5b871fc9bdda232f1c98f911b",
+            "59a4e65e2560f14d86bd7a4dea4bf909",
+            "6a7d00c52156c41d50d4d36219cede59",
+            "65013004d8cf3514b073578639b909e6"
+        ],
+        "nstds": 69,
+        "rdays": 1,
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ]
+        ]
+    },
+    "N560007102": {
+        "STADS_ID": "N560007101",
+        "NAT_code": "FA503",
+        "title": "Lægemiddelformulering og fremstilling B",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560007102",
+        "Prøveform": "Mundtligt prøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "96efb08f8acc36588809caadda75052f",
+            "dda730070aa84dccde36f70938e7460f",
+            "434778c6dd332a8e909ae99aeffca76b",
+            "2da86c92b7cf21caf3f2debcd66cbc20",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "d4dfabd8b379c473b277eef40301a38b",
+            "33aae2255a34d18c814f2f54534fbed9",
+            "85ef11968191e01bd5d5afbaaf8946d8",
+            "1f852a144c1e95eae6b0be975e2c5db9",
+            "883f66b87f6650ebfacea61c3524e5a4",
+            "8f6211d7d93c8d0d102caf8a72fa0e41",
+            "bda4c25a401581e050876f8f819c4635",
+            "9f5867969089a22703a170eea57995dc",
+            "eacb92df6f4914aab79f3b5683801c7b",
+            "8603c531260aeb91b7311b07d52a9469",
+            "33d9ebdc38a03cb16af314c331417c54",
+            "36f32644973edf6d3525f1c4b772fe68",
+            "6ae60f6a3ba87ce7fcaef21eb2932e8a",
+            "1b216df81c605deb0a83b302dabbdd1e",
+            "2a39d51bb35c14cb0dc7a62309429cf3",
+            "8cdaa222295709b4cd962594458cf7c0",
+            "b7fae8d121987d0587204dd73edf7e4b",
+            "5eb0d4bbf1f720a1f434293caa2e015b",
+            "c749bd53242533f42bb9ce1f6f18abc7",
+            "1634a6c4b5d6601e2d060ab1e0876f3b",
+            "98797f5c1f27cb738c1480cbe63fadc9",
+            "23b7d7c82e29b5d4a599c5bdbde585f3",
+            "95b34193d2c90de3888fd8f662c84035",
+            "1f11fcc59bec8e7406e9e7b928ef1017",
+            "830401a5fcbca9895956293c89683f6e",
+            "30f2cb0016f8ad656aabb0a983d54ca2",
+            "ce0db6c6cdb523c559622b5c79ee7941",
+            "8ad9d2fe824431ccdbd6d4477b19cb04",
+            "27f80ed5eedd2c8dfdaaf866d85ff2ae",
+            "89790c24007e51c693b7b9f36c2d134d",
+            "44909baffe2c85338fa7b792fc1bd40d",
+            "ffb6d0e298ac0662ff133346a47be7bf",
+            "b467951fe4cd212f9c581b3c1626fc62",
+            "f3b8a284d80f37b61765a41bb52511eb",
+            "8c8cec712e256956759a3ec13aa863c5",
+            "d52f85f4e33ad813b19c9a76b9774b3c",
+            "f3cec59874726f635f8f62ccce70b545",
+            "ba05f9008f7960dc28e65c8e70404e65",
+            "c8f10e1fc82f6a74e4b8226a81c74a96",
+            "58fa7f5274afbf3615fda22ca278eaa9",
+            "c1d0f947298f355983b344b13a13cd60",
+            "3fd63c7e4e78fe6797269a18c1b00387",
+            "804fe1b3fdfc499c9540760c48fdd763",
+            "c0a38aa1b4af660d2f81e392f6b76f21",
+            "f9ed8438a121e11afea578ba87192abc",
+            "95fe6b30d66ca56e9c08a55273d6c770",
+            "f6b159ad04675cc5bb069e3affa014f9",
+            "c2dbe141942d0854a5ff4da56c8dee9c",
+            "12d09202ec41e499787c3ea2d01531d8",
+            "1fd40268310288cc43ea70e6b5d78e4e",
+            "c421204394225a49920355038d4ddfe0",
+            "6a56e1c4308bac098242c074cd02312a",
+            "840cce5e3fb872bbf1264feffe0e2643",
+            "6bef55b0fedb56a74d203110f96361fd",
+            "f6349b3da58280049f4a077a5265fdb5",
+            "33078bc773f3129fd32dc82990e42f96",
+            "af7df580251ca3eb70c05c4bacb59bb4",
+            "a00173eb7c039ada3ff0412034bcc51d",
+            "2b5770acc907ad8a03edf3eb624c85f6",
+            "465e623a94f62d5670cd7ccab3ad45ca",
+            "5ab43fb0b65270fd1a0d11237a2b83e4",
+            "610f602da7f0eb393bdbb4f2f3c97e5c",
+            "3a3a179b65a2735a4a9dc8720e5cbd30",
+            "642f8be323b4b43077dd201ba3a3e297",
+            "74cc83f091ff486f328210822f1b50d1",
+            "4bbde1f889a96a670fe21886e0ae6299",
+            "2f8551a29e8512a5c1f668093fc3f529",
+            "3fe75247a786c19b8fb4906bff8da319",
+            "1927a46addcde47b3c14397270e20fec",
+            "e5b41b9240052a51eda2de2a61ffa82a",
+            "5912d82228db0ca2e3e85a608dbca146",
+            "117215440c07c6af7a3d6bd89c913a61",
+            "7539e207898051eafaa0953054b2dd97",
+            "997110135961c212231c2214c0487d98",
+            "156289ea6d18b4cc170eb3541d3feb19",
+            "4f3db73a4d29b5a529b70bfe41a53220",
+            "5f4474db02a0c666601bc9cead3a7998",
+            "b84ad10e588bca12d9e241761ca03467",
+            "ff80af697165b56b8ff83974acd48035",
+            "73df4e2f0c8fbba392863c091ae5773b",
+            "5bb55c23fe97cf3cb1a6490d9546d3b2",
+            "996335964607070d9e4c2a4defe5cb64",
+            "2a3145ae1faf1390f08b3e485d4dc96e",
+            "cd3d7f16871e95e75c6b36202eb927fb",
+            "c20abbbba4afa8c29dc563e9305ae7be",
+            "f267f709ce9e4a74032de7d5a8bb1cb3",
+            "a9878fb22a8c3a63bb4bd123178802ba",
+            "e07f9a1f76a752be24f230d831fa0eb9"
+        ],
+        "nstds": 93,
+        "rdays": 6,
+        "forbidden": [
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                172,
+                "2022-06-21"
+            ],
+            [
+                173,
+                "2022-06-22"
+            ],
+            [
+                174,
+                "2022-06-23"
+            ],
+            [
+                175,
+                "2022-06-24"
+            ]
+        ],
+        "conflicting": [
+            "N560030102",
+            "N700006102",
+            "N200025102",
+            "N530021102",
+            "N560024102",
+            "N560029102",
+            "N560021102",
+            "N560021112"
+        ],
+        "schedule": [
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ],
+            [
+                171,
+                "2022-06-20"
+            ]
+        ]
+    },
+    "N560021102": {
+        "STADS_ID": "N560021101",
+        "NAT_code": "SU519",
+        "title": "Fysiologi og farmakologi for farmaceuter - Modul 4: Hormoner, kirtler, knogler og nervesystem",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560021102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "72b15261029b1ea009ea321b59bb8d1f",
+            "42bb8c9b826e80ef1a56c4153c3ff562",
+            "0e253b18de7480eea8d37390b8cffc7e",
+            "8a2f3a25d5917a3c2aebe21cb13d9e6a",
+            "0491cf202c8201b23777c15247c2464d",
+            "898eb5f16d2bb92ddf134ac935b5c783",
+            "eec2347a93a734114480dc87065a6e25",
+            "3561136aec200e6a54f89a0d7f55ce7f",
+            "ef7f4c4f6d6e0aeb1d97dde4107ed5a9",
+            "0a7bb7537797d800baad5c6dfc4babdd",
+            "f5a7e8640a7d8c6406401f5be37921b0",
+            "d4de0b933e0bbb4f1bdd45cac94e85ab",
+            "fee3717fb45f422910c8478837da17b2",
+            "31e6f496ebdae201278cfa449a24cf9e",
+            "76e7c8f5ea4e40d56034614e15215a25",
+            "8f7d59896cc3f5b5166887f9277a3ad9",
+            "18efec4776276f9a583c4253cfca5333",
+            "134200122124b01377b991ee1ae30f75",
+            "56075efed2e4cca673b3201d578970bd",
+            "d9fd0f07ab3d5bf4dcd7687d11ccccfa",
+            "6a9ebf6c323d4068b42e8c5e4fa545e7",
+            "ef30d598b62d7d25a5f19e0740125db9",
+            "bc771f11f0b014d97c0be9371e90ae21",
+            "f1fce2148711e72aa7923331ce9d3220",
+            "dda730070aa84dccde36f70938e7460f",
+            "99d14cb3bfce32908b24ad25bf4d499e",
+            "434778c6dd332a8e909ae99aeffca76b",
+            "e9734a966a73a6b7a6541af5b2379386",
+            "625bb12708bf0139aed2abbba3942b30",
+            "4e7f61342e45d368cf603b901bf229a2",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "0971f7f0cccf034d1489f7511e8cf8c6",
+            "abcfbfed90d09d163d6f233628e804c8",
+            "6e7bfcce703b16f979708b0bf2fbaecd",
+            "0e1590aced6bd0ea1a46b57f65cd4bc5",
+            "c2b63f29472dd9c4dcd4b663c6860e54",
+            "d4dfabd8b379c473b277eef40301a38b",
+            "402b393a3547905942f1a8c0ee0aa198",
+            "33aae2255a34d18c814f2f54534fbed9",
+            "0d4295ce1f11d7ed678dc7a9f5bca903",
+            "cc2c9d086ddbbe877b60ae18a965bcc3",
+            "42a7ec31e87189e5f386784602e1436c",
+            "a989c4d727fbf3fd9821cfacb320f911",
+            "6a29fa65a00172c6812da806a07144aa",
+            "27605984057224aa3585ab39488dc30c",
+            "d573e45fa8a28d440277efe0b163676e",
+            "fb9c6a87028dba27152f87906e77cbc6",
+            "b04af41861c0e09b501b723f5f4e9bd1",
+            "73d44383059ba56d5b69b62fad89f674",
+            "540f0cf71945789ff597b1bb2144f32d",
+            "bf364c0e96e635737a86bc99946c22f1",
+            "29171849cac30785619e2fa575787f56",
+            "137b4ce62d59e3c4e3d3bf72c73eff2a",
+            "3864ac7b1be6c18d6acf64d75d72cc4b",
+            "e10ca5cd5a60ff44029a81bae28e2c94",
+            "576430688f585be037c969331e94b61b",
+            "4dbe96591106e9e6c7f78eb8188aa1da",
+            "b215c1e49ec05d7708d73d4aff140e8f",
+            "18f73996e99db10858aef9396db62d78",
+            "18836bb865c4e9f2d2135b206abe09ba",
+            "4ed7d81eb69f6ca62c549c81d80d875f",
+            "3830b1911005ebfcc46dcc8e28703500",
+            "7263a8174af9d7b16c2d15a8faa8fbff",
+            "6d8373ac74ea21c0d85c4ae7b2b5a8f2",
+            "9fd1a57cdf6b1bdd43e8f3d52e931e34",
+            "1ff609107ce4587300595f34a89f568f",
+            "2d089810b97cb83c31db203f341ebbd9",
+            "cb5f6516b6b7ebaaf66f09f0dcc7d333",
+            "bdbb1e07b6f103de2cc94c14dc34c953",
+            "6a0e7ce3c048459585efb89b65ae5455",
+            "9f5867969089a22703a170eea57995dc",
+            "9797008a18f0a63ada60888a3b6d9839",
+            "1c70155327290c44398fb58aa00ba76f",
+            "5d953ecb04b45cc8915e5a97b0f51496",
+            "0e152e74de357801d3008572ec5120a2",
+            "55fca01f5f06992888ad0d8fb493f87c",
+            "4b86d4b1c1cba549392ddcbbbc0c2b5d",
+            "b7c222c5b871fc9bdda232f1c98f911b",
+            "59a4e65e2560f14d86bd7a4dea4bf909",
+            "6a7d00c52156c41d50d4d36219cede59",
+            "65013004d8cf3514b073578639b909e6",
+            "e07f9a1f76a752be24f230d831fa0eb9"
+        ],
+        "nstds": 82,
+        "rdays": 1,
+        "available": [
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "conflicting": [
+            "N530021102",
+            "N560007102",
+            "N560024102",
+            "N560029102",
+            "N560021112"
+        ],
+        "schedule": [
+            [
+                167,
+                "2022-06-16"
+            ]
+        ]
+    },
+    "N560021112": {
+        "STADS_ID": "N560021101",
+        "NAT_code": "SU519",
+        "title": "Fysiologi og farmakologi for farmaceuter - Modul 4: Hormoner, kirtler, knogler og nervesystem",
+        "ECTS": 5,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560021112",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 0.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "72b15261029b1ea009ea321b59bb8d1f",
+            "42bb8c9b826e80ef1a56c4153c3ff562",
+            "0e253b18de7480eea8d37390b8cffc7e",
+            "8a2f3a25d5917a3c2aebe21cb13d9e6a",
+            "0491cf202c8201b23777c15247c2464d",
+            "898eb5f16d2bb92ddf134ac935b5c783",
+            "eec2347a93a734114480dc87065a6e25",
+            "3561136aec200e6a54f89a0d7f55ce7f",
+            "ef7f4c4f6d6e0aeb1d97dde4107ed5a9",
+            "0a7bb7537797d800baad5c6dfc4babdd",
+            "d4de0b933e0bbb4f1bdd45cac94e85ab",
+            "fee3717fb45f422910c8478837da17b2",
+            "31e6f496ebdae201278cfa449a24cf9e",
+            "76e7c8f5ea4e40d56034614e15215a25",
+            "8f7d59896cc3f5b5166887f9277a3ad9",
+            "18efec4776276f9a583c4253cfca5333",
+            "134200122124b01377b991ee1ae30f75",
+            "56075efed2e4cca673b3201d578970bd",
+            "d9fd0f07ab3d5bf4dcd7687d11ccccfa",
+            "6a9ebf6c323d4068b42e8c5e4fa545e7",
+            "ef30d598b62d7d25a5f19e0740125db9",
+            "bc771f11f0b014d97c0be9371e90ae21",
+            "f1fce2148711e72aa7923331ce9d3220",
+            "dda730070aa84dccde36f70938e7460f",
+            "99d14cb3bfce32908b24ad25bf4d499e",
+            "434778c6dd332a8e909ae99aeffca76b",
+            "e9734a966a73a6b7a6541af5b2379386",
+            "625bb12708bf0139aed2abbba3942b30",
+            "4e7f61342e45d368cf603b901bf229a2",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "0971f7f0cccf034d1489f7511e8cf8c6",
+            "abcfbfed90d09d163d6f233628e804c8",
+            "6e7bfcce703b16f979708b0bf2fbaecd",
+            "0e1590aced6bd0ea1a46b57f65cd4bc5",
+            "c2b63f29472dd9c4dcd4b663c6860e54",
+            "d4dfabd8b379c473b277eef40301a38b",
+            "402b393a3547905942f1a8c0ee0aa198",
+            "33aae2255a34d18c814f2f54534fbed9",
+            "0d4295ce1f11d7ed678dc7a9f5bca903",
+            "cc2c9d086ddbbe877b60ae18a965bcc3",
+            "42a7ec31e87189e5f386784602e1436c",
+            "a989c4d727fbf3fd9821cfacb320f911",
+            "6a29fa65a00172c6812da806a07144aa",
+            "27605984057224aa3585ab39488dc30c",
+            "d573e45fa8a28d440277efe0b163676e",
+            "fb9c6a87028dba27152f87906e77cbc6",
+            "b04af41861c0e09b501b723f5f4e9bd1",
+            "73d44383059ba56d5b69b62fad89f674",
+            "540f0cf71945789ff597b1bb2144f32d",
+            "bf364c0e96e635737a86bc99946c22f1",
+            "29171849cac30785619e2fa575787f56",
+            "137b4ce62d59e3c4e3d3bf72c73eff2a",
+            "3864ac7b1be6c18d6acf64d75d72cc4b",
+            "e10ca5cd5a60ff44029a81bae28e2c94",
+            "576430688f585be037c969331e94b61b",
+            "4dbe96591106e9e6c7f78eb8188aa1da",
+            "b215c1e49ec05d7708d73d4aff140e8f",
+            "18f73996e99db10858aef9396db62d78",
+            "18836bb865c4e9f2d2135b206abe09ba",
+            "4ed7d81eb69f6ca62c549c81d80d875f",
+            "3830b1911005ebfcc46dcc8e28703500",
+            "7263a8174af9d7b16c2d15a8faa8fbff",
+            "6d8373ac74ea21c0d85c4ae7b2b5a8f2",
+            "9fd1a57cdf6b1bdd43e8f3d52e931e34",
+            "1ff609107ce4587300595f34a89f568f",
+            "2d089810b97cb83c31db203f341ebbd9",
+            "cb5f6516b6b7ebaaf66f09f0dcc7d333",
+            "bdbb1e07b6f103de2cc94c14dc34c953",
+            "6a0e7ce3c048459585efb89b65ae5455",
+            "9f5867969089a22703a170eea57995dc",
+            "9797008a18f0a63ada60888a3b6d9839",
+            "1c70155327290c44398fb58aa00ba76f",
+            "5d953ecb04b45cc8915e5a97b0f51496",
+            "0e152e74de357801d3008572ec5120a2",
+            "55fca01f5f06992888ad0d8fb493f87c",
+            "4b86d4b1c1cba549392ddcbbbc0c2b5d",
+            "b7c222c5b871fc9bdda232f1c98f911b",
+            "59a4e65e2560f14d86bd7a4dea4bf909",
+            "6a7d00c52156c41d50d4d36219cede59",
+            "65013004d8cf3514b073578639b909e6",
+            "e07f9a1f76a752be24f230d831fa0eb9"
+        ],
+        "nstds": 81,
+        "rdays": 6,
+        "available": [
+            [
+                158,
+                "2022-06-07"
+            ],
+            [
+                159,
+                "2022-06-08"
+            ],
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ],
+            [
+                168,
+                "2022-06-17"
+            ]
+        ],
+        "conflicting": [
+            "N530021102",
+            "N560007102",
+            "N560024102",
+            "N560029102",
+            "N560021102"
+        ],
+        "schedule": [
+            [
+                160,
+                "2022-06-09"
+            ],
+            [
+                161,
+                "2022-06-10"
+            ],
+            [
+                164,
+                "2022-06-13"
+            ],
+            [
+                165,
+                "2022-06-14"
+            ],
+            [
+                166,
+                "2022-06-15"
+            ],
+            [
+                167,
+                "2022-06-16"
+            ]
+        ]
+    },
+    "N560024102": {
+        "STADS_ID": "N560024101",
+        "NAT_code": "FA507",
+        "title": "Instrumentel farmaceutisk analyse",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "N560024102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "s",
+        "institute": "fkf",
+        "students": [
+            "96efb08f8acc36588809caadda75052f",
+            "2da86c92b7cf21caf3f2debcd66cbc20",
+            "76fa12a3afed34f71205c4cec2eb5506",
+            "d573e45fa8a28d440277efe0b163676e",
+            "bf364c0e96e635737a86bc99946c22f1",
+            "883f66b87f6650ebfacea61c3524e5a4",
+            "8f6211d7d93c8d0d102caf8a72fa0e41",
+            "bda4c25a401581e050876f8f819c4635",
+            "0b26ea70feca5d3d78c109324ee0c645",
+            "eacb92df6f4914aab79f3b5683801c7b",
+            "8603c531260aeb91b7311b07d52a9469",
+            "33d9ebdc38a03cb16af314c331417c54",
+            "36f32644973edf6d3525f1c4b772fe68",
+            "6ae60f6a3ba87ce7fcaef21eb2932e8a",
+            "1b216df81c605deb0a83b302dabbdd1e",
+            "2a39d51bb35c14cb0dc7a62309429cf3",
+            "b7fae8d121987d0587204dd73edf7e4b",
+            "5eb0d4bbf1f720a1f434293caa2e015b",
+            "c749bd53242533f42bb9ce1f6f18abc7",
+            "1634a6c4b5d6601e2d060ab1e0876f3b",
+            "98797f5c1f27cb738c1480cbe63fadc9",
+            "23b7d7c82e29b5d4a599c5bdbde585f3",
+            "95b34193d2c90de3888fd8f662c84035",
+            "1f11fcc59bec8e7406e9e7b928ef1017",
+            "830401a5fcbca9895956293c89683f6e",
+            "30f2cb0016f8ad656aabb0a983d54ca2",
+            "ce0db6c6cdb523c559622b5c79ee7941",
+            "8ad9d2fe824431ccdbd6d4477b19cb04",
+            "27f80ed5eedd2c8dfdaaf866d85ff2ae",
+            "89790c24007e51c693b7b9f36c2d134d",
+            "44909baffe2c85338fa7b792fc1bd40d",
+            "ffb6d0e298ac0662ff133346a47be7bf",
+            "b467951fe4cd212f9c581b3c1626fc62",
+            "f3b8a284d80f37b61765a41bb52511eb",
+            "8c8cec712e256956759a3ec13aa863c5",
+            "d52f85f4e33ad813b19c9a76b9774b3c",
+            "f3cec59874726f635f8f62ccce70b545",
+            "ba05f9008f7960dc28e65c8e70404e65",
+            "c8f10e1fc82f6a74e4b8226a81c74a96",
+            "58fa7f5274afbf3615fda22ca278eaa9",
+            "c1d0f947298f355983b344b13a13cd60",
+            "3fd63c7e4e78fe6797269a18c1b00387",
+            "804fe1b3fdfc499c9540760c48fdd763",
+            "c0a38aa1b4af660d2f81e392f6b76f21",
+            "f9ed8438a121e11afea578ba87192abc",
+            "95fe6b30d66ca56e9c08a55273d6c770",
+            "f6b159ad04675cc5bb069e3affa014f9",
+            "c2dbe141942d0854a5ff4da56c8dee9c",
+            "12d09202ec41e499787c3ea2d01531d8",
+            "1fd40268310288cc43ea70e6b5d78e4e",
+            "c421204394225a49920355038d4ddfe0",
+            "6a56e1c4308bac098242c074cd02312a",
+            "840cce5e3fb872bbf1264feffe0e2643",
+            "6bef55b0fedb56a74d203110f96361fd",
+            "f6349b3da58280049f4a077a5265fdb5",
+            "33078bc773f3129fd32dc82990e42f96",
+            "af7df580251ca3eb70c05c4bacb59bb4",
+            "a00173eb7c039ada3ff0412034bcc51d",
+            "2b5770acc907ad8a03edf3eb624c85f6",
+            "465e623a94f62d5670cd7ccab3ad45ca",
+            "5ab43fb0b65270fd1a0d11237a2b83e4",
+            "610f602da7f0eb393bdbb4f2f3c97e5c",
+            "3a3a179b65a2735a4a9dc8720e5cbd30",
+            "642f8be323b4b43077dd201ba3a3e297",
+            "74cc83f091ff486f328210822f1b50d1",
+            "4bbde1f889a96a670fe21886e0ae6299",
+            "2f8551a29e8512a5c1f668093fc3f529",
+            "3fe75247a786c19b8fb4906bff8da319",
+            "1927a46addcde47b3c14397270e20fec",
+            "e5b41b9240052a51eda2de2a61ffa82a",
+            "5912d82228db0ca2e3e85a608dbca146",
+            "117215440c07c6af7a3d6bd89c913a61",
+            "7539e207898051eafaa0953054b2dd97",
+            "997110135961c212231c2214c0487d98",
+            "156289ea6d18b4cc170eb3541d3feb19",
+            "4f3db73a4d29b5a529b70bfe41a53220",
+            "5f4474db02a0c666601bc9cead3a7998",
+            "b84ad10e588bca12d9e241761ca03467",
+            "ff80af697165b56b8ff83974acd48035",
+            "73df4e2f0c8fbba392863c091ae5773b",
+            "5bb55c23fe97cf3cb1a6490d9546d3b2",
+            "996335964607070d9e4c2a4defe5cb64",
+            "2a3145ae1faf1390f08b3e485d4dc96e",
+            "cd3d7f16871e95e75c6b36202eb927fb",
+            "c20abbbba4afa8c29dc563e9305ae7be",
+            "f267f709ce9e4a74032de7d5a8bb1cb3",
+            "a9878fb22a8c3a63bb4bd123178802ba"
+        ],
+        "nstds": 87,
+        "rdays": 1,
+        "forbidden": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ]
+        ],
+        "conflicting": [
+            "N560030102",
+            "N700006102",
+            "N200025102",
+            "N530021102",
+            "N560007102",
+            "N560029102",
+            "N560021102",
+            "N560021112"
+        ],
+        "schedule": [
+            [
+                158,
+                "2022-06-07"
+            ]
+        ]
+    },
+    "T460018102": {
+        "STADS_ID": "T460018101",
+        "NAT_code": "FT505",
+        "title": "Digital elektronik og programmering",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "T460018102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "069da2f485bda853d8bbdc473047d574",
+            "065fe6ae0559399976cacd8bb4d66989",
+            "f47e8f833f38945711fe7a41d51e4af2",
+            "10597f1532d7025fac92043bcef9662d",
+            "a0c3f6b97eda8e156adb858a0cfb963f",
+            "eebe149fb15ca37af00867ff7a8c2eb5",
+            "0cac880449e7ab6c336e4d3c7f59c104",
+            "82235517867bb4d013d8227ca91cccec",
+            "b386279fc333b19717be3cd656c74168",
+            "4a450805447c43bc3f6c527598c73c72",
+            "991e48dfe0b1fa341072356175e6e0c0",
+            "e4882661c2ce21e5502b1e990704cb6d",
+            "e45be26df565cd79e8dc0b929466debc",
+            "d62f9d25df96dd569cf835c418930bd9",
+            "2255b1e0052024b2afdc44d5b56e7cd5",
+            "69e472273cc44b008ce9e312df945718",
+            "fb6e1d046e338128a7b920ec46f977fa",
+            "594233eeae5256a2c2eb9f13846146bf",
+            "d35517031aaa31eafc994f0097c18cf9",
+            "5d2c114d0fab22e4f758bf6822ffc0da",
+            "8528b16da66fc800cc3687b68ca3bcaa",
+            "977537ccbe993153ef86b8cca574f110",
+            "9df1ab09b9c9fb6894e7fd9c842113d5",
+            "a2206eae6d15883f003d150a21b914ee",
+            "a9e1be5e9cbfd87bef88194454791176",
+            "2d0cb93f9668612289ad687dc2bc9852",
+            "bab018370a7f85c5f23637810921f7f8",
+            "2024357c90f65166f8c5dfb375459e16",
+            "569a1710dfc7b36d320a311871fa6cb8",
+            "893b9c5c874f5f1c78f19727767cf5c4",
+            "96a946d29a2dfa7186c0679845b6013b",
+            "e883ebbc32445e1d449d0b4690abfdc3",
+            "66582000dcc880b5c9a90457f8ccbca2"
+        ],
+        "nstds": 33,
+        "rdays": 3,
+        "conflicting": [
+            "N500039102",
+            "T460028112",
+            "N500052102",
+            "N500047102",
+            "N500050102",
+            "N500033102",
+            "N500049102"
+        ],
+        "schedule": [
+            [
+                152,
+                "2022-06-01"
+            ],
+            [
+                153,
+                "2022-06-02"
+            ],
+            [
+                154,
+                "2022-06-03"
+            ]
+        ]
+    },
+    "T460028112": {
+        "STADS_ID": "T460028101",
+        "NAT_code": "FT506",
+        "title": "Førsteårsprojekt",
+        "ECTS": 10,
+        "Administrationsenhed": "FKF",
+        "EKA": "T460028112",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": null,
+        "stype": "m",
+        "institute": "fkf",
+        "students": [
+            "883f6e66d76bc49c928f2c74d186719b",
+            "069da2f485bda853d8bbdc473047d574",
+            "065fe6ae0559399976cacd8bb4d66989",
+            "f47e8f833f38945711fe7a41d51e4af2",
+            "10597f1532d7025fac92043bcef9662d",
+            "a0c3f6b97eda8e156adb858a0cfb963f",
+            "eebe149fb15ca37af00867ff7a8c2eb5",
+            "28ded10df7618ff8539a8812b74650cb",
+            "0cac880449e7ab6c336e4d3c7f59c104",
+            "82235517867bb4d013d8227ca91cccec",
+            "4a450805447c43bc3f6c527598c73c72",
+            "991e48dfe0b1fa341072356175e6e0c0",
+            "e4882661c2ce21e5502b1e990704cb6d",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "e45be26df565cd79e8dc0b929466debc",
+            "d62f9d25df96dd569cf835c418930bd9",
+            "2255b1e0052024b2afdc44d5b56e7cd5",
+            "69e472273cc44b008ce9e312df945718",
+            "fb6e1d046e338128a7b920ec46f977fa",
+            "594233eeae5256a2c2eb9f13846146bf",
+            "d35517031aaa31eafc994f0097c18cf9",
+            "5d2c114d0fab22e4f758bf6822ffc0da",
+            "8528b16da66fc800cc3687b68ca3bcaa",
+            "977537ccbe993153ef86b8cca574f110",
+            "9df1ab09b9c9fb6894e7fd9c842113d5",
+            "a2206eae6d15883f003d150a21b914ee",
+            "a9e1be5e9cbfd87bef88194454791176",
+            "2d0cb93f9668612289ad687dc2bc9852",
+            "bab018370a7f85c5f23637810921f7f8",
+            "2024357c90f65166f8c5dfb375459e16",
+            "569a1710dfc7b36d320a311871fa6cb8",
+            "893b9c5c874f5f1c78f19727767cf5c4",
+            "96a946d29a2dfa7186c0679845b6013b",
+            "e883ebbc32445e1d449d0b4690abfdc3",
+            "66582000dcc880b5c9a90457f8ccbca2"
+        ],
+        "nstds": 35,
+        "rdays": 3,
+        "conflicting": [
+            "N500039102",
+            "T460018102",
+            "N500052102",
+            "N500047102",
+            "N500050102",
+            "N500033102",
+            "N500049102"
+        ],
+        "schedule": [
+            [
+                172,
+                "2022-06-21"
+            ],
+            [
+                173,
+                "2022-06-22"
+            ],
+            [
+                174,
+                "2022-06-23"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,762 @@
+{
+    "nodes": [
+        {
+            "id": "SPKE802",
+            "group": "fkf"
+        },
+        {
+            "id": "SPNA801",
+            "group": "fkf"
+        },
+        {
+            "id": "BAFY500",
+            "group": "fkf"
+        },
+        {
+            "id": "BAFY501",
+            "group": "fkf"
+        },
+        {
+            "id": "FY542",
+            "group": "fkf"
+        },
+        {
+            "id": "FT504",
+            "group": "fkf"
+        },
+        {
+            "id": "FY544",
+            "group": "fkf"
+        },
+        {
+            "id": "FY537",
+            "group": "fkf"
+        },
+        {
+            "id": "FY545",
+            "group": "fkf"
+        },
+        {
+            "id": "FY547",
+            "group": "fkf"
+        },
+        {
+            "id": "FY549",
+            "group": "fkf"
+        },
+        {
+            "id": "FY550",
+            "group": "fkf"
+        },
+        {
+            "id": "FY807",
+            "group": "fkf"
+        },
+        {
+            "id": "SPFY800",
+            "group": "fkf"
+        },
+        {
+            "id": "SPFY801",
+            "group": "fkf"
+        },
+        {
+            "id": "SPFY802",
+            "group": "fkf"
+        },
+        {
+            "id": "SPFY803",
+            "group": "fkf"
+        },
+        {
+            "id": "FY812",
+            "group": "fkf"
+        },
+        {
+            "id": "VPFKF803",
+            "group": "fkf"
+        },
+        {
+            "id": "FY809",
+            "group": "fkf"
+        },
+        {
+            "id": "SPFY804",
+            "group": "fkf"
+        },
+        {
+            "id": "FY833",
+            "group": "fkf"
+        },
+        {
+            "id": "BAKE501",
+            "group": "fkf"
+        },
+        {
+            "id": "KE525",
+            "group": "fkf"
+        },
+        {
+            "id": "KE522",
+            "group": "fkf"
+        },
+        {
+            "id": "KE537",
+            "group": "fkf"
+        },
+        {
+            "id": "KE539",
+            "group": "fkf"
+        },
+        {
+            "id": "BAKE500",
+            "group": "fkf"
+        },
+        {
+            "id": "KE505",
+            "group": "fkf"
+        },
+        {
+            "id": "KE518",
+            "group": "fkf"
+        },
+        {
+            "id": "KE530",
+            "group": "fkf"
+        },
+        {
+            "id": "KE535",
+            "group": "fkf"
+        },
+        {
+            "id": "BAKE502",
+            "group": "fkf"
+        },
+        {
+            "id": "KE553",
+            "group": "fkf"
+        },
+        {
+            "id": "SPKE800",
+            "group": "fkf"
+        },
+        {
+            "id": "SPKE801",
+            "group": "fkf"
+        },
+        {
+            "id": "SPKE803",
+            "group": "fkf"
+        },
+        {
+            "id": "SPKE804",
+            "group": "fkf"
+        },
+        {
+            "id": "KE812",
+            "group": "fkf"
+        },
+        {
+            "id": "KE814",
+            "group": "fkf"
+        },
+        {
+            "id": "KE829",
+            "group": "fkf"
+        },
+        {
+            "id": "KE830",
+            "group": "fkf"
+        },
+        {
+            "id": "KE825",
+            "group": "fkf"
+        },
+        {
+            "id": "KE828",
+            "group": "fkf"
+        },
+        {
+            "id": "SPKE805",
+            "group": "fkf"
+        },
+        {
+            "id": "KE835",
+            "group": "fkf"
+        },
+        {
+            "id": "BAFA500",
+            "group": "fkf"
+        },
+        {
+            "id": "BAFA501",
+            "group": "fkf"
+        },
+        {
+            "id": "FA503",
+            "group": "fkf"
+        },
+        {
+            "id": "SU519",
+            "group": "fkf"
+        },
+        {
+            "id": "SU519",
+            "group": "fkf"
+        },
+        {
+            "id": "FA507",
+            "group": "fkf"
+        },
+        {
+            "id": "FT505",
+            "group": "fkf"
+        },
+        {
+            "id": "FT506",
+            "group": "fkf"
+        }
+    ],
+    "links": [
+        {
+            "source": "BAFY500",
+            "target": "FY545",
+            "value": 3
+        },
+        {
+            "source": "BAFY500",
+            "target": "FY812",
+            "value": 2
+        },
+        {
+            "source": "BAFY500",
+            "target": "FY833",
+            "value": 1
+        },
+        {
+            "source": "BAFY501",
+            "target": "FY545",
+            "value": 10
+        },
+        {
+            "source": "BAFY501",
+            "target": "FY812",
+            "value": 4
+        },
+        {
+            "source": "BAFY501",
+            "target": "FY833",
+            "value": 3
+        },
+        {
+            "source": "FY542",
+            "target": "FY537",
+            "value": 17
+        },
+        {
+            "source": "FY542",
+            "target": "FY547",
+            "value": 17
+        },
+        {
+            "source": "FY542",
+            "target": "FY549",
+            "value": 17
+        },
+        {
+            "source": "FY542",
+            "target": "FY550",
+            "value": 32
+        },
+        {
+            "source": "FT504",
+            "target": "FY807",
+            "value": 1
+        },
+        {
+            "source": "FT504",
+            "target": "FT505",
+            "value": 33
+        },
+        {
+            "source": "FT504",
+            "target": "FT506",
+            "value": 34
+        },
+        {
+            "source": "FY537",
+            "target": "FY545",
+            "value": 1
+        },
+        {
+            "source": "FY537",
+            "target": "FY547",
+            "value": 18
+        },
+        {
+            "source": "FY537",
+            "target": "FY549",
+            "value": 17
+        },
+        {
+            "source": "FY537",
+            "target": "FY550",
+            "value": 17
+        },
+        {
+            "source": "FY537",
+            "target": "FT506",
+            "value": 1
+        },
+        {
+            "source": "FY545",
+            "target": "FY547",
+            "value": 1
+        },
+        {
+            "source": "FY545",
+            "target": "FY812",
+            "value": 7
+        },
+        {
+            "source": "FY545",
+            "target": "FY809",
+            "value": 1
+        },
+        {
+            "source": "FY545",
+            "target": "FY833",
+            "value": 5
+        },
+        {
+            "source": "FY545",
+            "target": "FT506",
+            "value": 1
+        },
+        {
+            "source": "FY547",
+            "target": "FY549",
+            "value": 18
+        },
+        {
+            "source": "FY547",
+            "target": "FY550",
+            "value": 22
+        },
+        {
+            "source": "FY547",
+            "target": "FY807",
+            "value": 4
+        },
+        {
+            "source": "FY547",
+            "target": "FT506",
+            "value": 1
+        },
+        {
+            "source": "FY549",
+            "target": "FY550",
+            "value": 18
+        },
+        {
+            "source": "FY550",
+            "target": "FY807",
+            "value": 4
+        },
+        {
+            "source": "FY807",
+            "target": "FY812",
+            "value": 2
+        },
+        {
+            "source": "FY812",
+            "target": "FY809",
+            "value": 4
+        },
+        {
+            "source": "FY812",
+            "target": "FY833",
+            "value": 5
+        },
+        {
+            "source": "FY809",
+            "target": "FY833",
+            "value": 2
+        },
+        {
+            "source": "KE525",
+            "target": "KE522",
+            "value": 16
+        },
+        {
+            "source": "KE525",
+            "target": "KE537",
+            "value": 15
+        },
+        {
+            "source": "KE525",
+            "target": "KE539",
+            "value": 2
+        },
+        {
+            "source": "KE525",
+            "target": "KE505",
+            "value": 4
+        },
+        {
+            "source": "KE525",
+            "target": "KE530",
+            "value": 14
+        },
+        {
+            "source": "KE525",
+            "target": "KE553",
+            "value": 3
+        },
+        {
+            "source": "KE525",
+            "target": "KE812",
+            "value": 3
+        },
+        {
+            "source": "KE525",
+            "target": "KE814",
+            "value": 3
+        },
+        {
+            "source": "KE525",
+            "target": "KE828",
+            "value": 3
+        },
+        {
+            "source": "KE525",
+            "target": "KE835",
+            "value": 2
+        },
+        {
+            "source": "KE522",
+            "target": "KE537",
+            "value": 14
+        },
+        {
+            "source": "KE522",
+            "target": "KE530",
+            "value": 14
+        },
+        {
+            "source": "KE522",
+            "target": "KE553",
+            "value": 3
+        },
+        {
+            "source": "KE537",
+            "target": "KE505",
+            "value": 2
+        },
+        {
+            "source": "KE537",
+            "target": "KE530",
+            "value": 13
+        },
+        {
+            "source": "KE537",
+            "target": "BAKE502",
+            "value": 1
+        },
+        {
+            "source": "KE537",
+            "target": "KE553",
+            "value": 1
+        },
+        {
+            "source": "KE539",
+            "target": "KE812",
+            "value": 2
+        },
+        {
+            "source": "BAKE500",
+            "target": "KE553",
+            "value": 1
+        },
+        {
+            "source": "KE505",
+            "target": "KE530",
+            "value": 1
+        },
+        {
+            "source": "KE505",
+            "target": "KE553",
+            "value": 1
+        },
+        {
+            "source": "KE505",
+            "target": "KE812",
+            "value": 1
+        },
+        {
+            "source": "KE505",
+            "target": "BAFA501",
+            "value": 3
+        },
+        {
+            "source": "KE505",
+            "target": "FA503",
+            "value": 83
+        },
+        {
+            "source": "KE505",
+            "target": "SU519",
+            "value": 4
+        },
+        {
+            "source": "KE505",
+            "target": "SU519",
+            "value": 4
+        },
+        {
+            "source": "KE505",
+            "target": "FA507",
+            "value": 83
+        },
+        {
+            "source": "KE530",
+            "target": "KE553",
+            "value": 2
+        },
+        {
+            "source": "KE530",
+            "target": "KE812",
+            "value": 1
+        },
+        {
+            "source": "BAKE502",
+            "target": "KE553",
+            "value": 5
+        },
+        {
+            "source": "KE812",
+            "target": "KE814",
+            "value": 2
+        },
+        {
+            "source": "KE812",
+            "target": "KE825",
+            "value": 1
+        },
+        {
+            "source": "KE812",
+            "target": "KE828",
+            "value": 1
+        },
+        {
+            "source": "KE812",
+            "target": "KE835",
+            "value": 1
+        },
+        {
+            "source": "KE814",
+            "target": "KE830",
+            "value": 2
+        },
+        {
+            "source": "KE814",
+            "target": "KE825",
+            "value": 1
+        },
+        {
+            "source": "KE814",
+            "target": "KE828",
+            "value": 6
+        },
+        {
+            "source": "KE814",
+            "target": "KE835",
+            "value": 4
+        },
+        {
+            "source": "KE825",
+            "target": "KE828",
+            "value": 3
+        },
+        {
+            "source": "KE825",
+            "target": "KE835",
+            "value": 1
+        },
+        {
+            "source": "KE828",
+            "target": "KE835",
+            "value": 3
+        },
+        {
+            "source": "BAFA500",
+            "target": "SU519",
+            "value": 5
+        },
+        {
+            "source": "BAFA500",
+            "target": "SU519",
+            "value": 5
+        },
+        {
+            "source": "BAFA501",
+            "target": "FA503",
+            "value": 4
+        },
+        {
+            "source": "BAFA501",
+            "target": "SU519",
+            "value": 68
+        },
+        {
+            "source": "BAFA501",
+            "target": "SU519",
+            "value": 68
+        },
+        {
+            "source": "BAFA501",
+            "target": "FA507",
+            "value": 2
+        },
+        {
+            "source": "FA503",
+            "target": "SU519",
+            "value": 6
+        },
+        {
+            "source": "FA503",
+            "target": "SU519",
+            "value": 6
+        },
+        {
+            "source": "FA503",
+            "target": "FA507",
+            "value": 83
+        },
+        {
+            "source": "SU519",
+            "target": "SU519",
+            "value": 80
+        },
+        {
+            "source": "SU519",
+            "target": "FA507",
+            "value": 2
+        },
+        {
+            "source": "SU519",
+            "target": "FA507",
+            "value": 2
+        },
+        {
+            "source": "FT505",
+            "target": "FT506",
+            "value": 32
+        },
+        {
+            "source": "BAFY500",
+            "target": "BAFY500",
+            "value": 3
+        },
+        {
+            "source": "BAFY501",
+            "target": "BAFY501",
+            "value": 10
+        },
+        {
+            "source": "FY545",
+            "target": "BAFY500",
+            "value": 3
+        },
+        {
+            "source": "FY545",
+            "target": "BAFY501",
+            "value": 10
+        },
+        {
+            "source": "FY812",
+            "target": "BAFY500",
+            "value": 2
+        },
+        {
+            "source": "FY812",
+            "target": "BAFY501",
+            "value": 4
+        },
+        {
+            "source": "FY833",
+            "target": "BAFY500",
+            "value": 1
+        },
+        {
+            "source": "FY833",
+            "target": "BAFY501",
+            "value": 3
+        },
+        {
+            "source": "BAKE500",
+            "target": "BAKE500",
+            "value": 3
+        },
+        {
+            "source": "BAKE502",
+            "target": "BAKE502",
+            "value": 11
+        },
+        {
+            "source": "KE553",
+            "target": "BAKE500",
+            "value": 1
+        },
+        {
+            "source": "KE553",
+            "target": "BAKE502",
+            "value": 5
+        },
+        {
+            "source": "SPKE800",
+            "target": "SPKE800",
+            "value": 1
+        },
+        {
+            "source": "BAFA500",
+            "target": "BAFA500",
+            "value": 5
+        },
+        {
+            "source": "BAFA501",
+            "target": "BAFA501",
+            "value": 68
+        },
+        {
+            "source": "FA503",
+            "target": "BAFA501",
+            "value": 4
+        },
+        {
+            "source": "SU519",
+            "target": "BAFA500",
+            "value": 5
+        },
+        {
+            "source": "SU519",
+            "target": "BAFA501",
+            "value": 68
+        },
+        {
+            "source": "SU519",
+            "target": "BAFA500",
+            "value": 5
+        },
+        {
+            "source": "SU519",
+            "target": "BAFA501",
+            "value": 68
+        },
+        {
+            "source": "FA507",
+            "target": "BAFA501",
+            "value": 2
+        }
+    ]
+}

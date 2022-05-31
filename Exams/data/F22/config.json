@@ -1,0 +1,49 @@
+{
+    "DISTANCE": 3,
+    "SEMESTER": "f2022",
+    "SESSION": 0,
+    "MAX_SEATS_PER_DAY": 300,
+    "MAX_ROOMS_PER_DAY": 15,
+    "MAX_STUDENTS_PER_DAY": 16,
+    "WEIGHT_PROGRAMS": 100,
+    "YEAR": 2022,
+    "MAX_EXAMS": 15,
+    "MAX_ECTS": 40,
+    "FIRST_DAY": [
+        6,
+        1
+    ],
+    "LAST_DAY": [
+        6,
+        28
+    ],
+    "HOLIDAYS": [
+        [
+            6,
+            6
+        ]
+    ],
+    "MONTH": 6,
+    "DAYS": [
+        152,
+        153,
+        154,
+        158,
+        159,
+        160,
+        161,
+        164,
+        165,
+        166,
+        167,
+        168,
+        171,
+        172,
+        173,
+        174,
+        175,
+        178,
+        179
+    ],
+    "DAYONE": "2022-01-01"
+}

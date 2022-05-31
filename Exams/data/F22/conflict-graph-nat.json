@@ -1,0 +1,19 @@
+{
+    "nodes": [
+        {
+            "id": "FF501",
+            "group": "nat"
+        },
+        {
+            "id": "NAT805",
+            "group": "nat"
+        }
+    ],
+    "links": [
+        {
+            "source": "FF501",
+            "target": "FF501",
+            "value": 322
+        }
+    ]
+}
