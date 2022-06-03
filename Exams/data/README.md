@@ -13,7 +13,7 @@ each instance with a triple indicating in the order: the number of
 exams, the number of exam days to schedule and the number of room days
 available.
 
-|---------+--------------+--------------+--------------+--------------+--------------|
+
 |         | E21          | F21          | F21re        | F22          | F22re        |
 |---------+--------------+--------------+--------------+--------------+--------------|
 | samf    | 9/9/1950     |              |              |              |              |
