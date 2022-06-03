@@ -13,15 +13,17 @@ each instance with a triple indicating in the order: the number of
 exams, the number of exam days to schedule and the number of room days
 available.
 
-
+```
+|---------+--------------+--------------+--------------+--------------+--------------|
 |         | E21          | F21          | F21re        | F22          | F22re        |
+|---------+--------------+--------------+--------------+--------------+--------------|
 | samf    | 9/9/1950     |              |              |              |              |
 | biologi | 21/28/1950   | 15/17/2482   | 11/11/1496   | 21/24/1775   | 18/18/1386   |
 | bmb     | 36/42/1950   | 24/30/2482   | 17/17/1496   | 34/40/1775   | 29/29/1386   |
 | fkf     | 60/67/1950   | 58/68/2482   | 47/47/1496   | 54/76/1775   | 47/47/1386   |
 | imada   | 76/124/1950  | 57/79/2482   | 44/44/1496   | 97/140/1775  | 85/85/1386   |
 | all     | 205/275/1950 | 167/233/2482 | 121/121/1496 | 208/288/1775 | 181/181/1386 |
-
+```
 
 There are other instances as well, E20 and E21re, however you can focus
 on the above only with precedence to F22, F21 and E21. 
