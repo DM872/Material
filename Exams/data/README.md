@@ -1,11 +1,45 @@
 ### Input Data
 
-You are given a starting package containing data on the exams for the last semesters at the Faculty of Science, SDU and some Python code to read the
-data.
+You are given a starting package containing data on the exams for the
+last semesters at the Faculty of Science, SDU and some Python code to
+read the data.
+
+
+An instance of the *exam scheduling problem* consists of two files:
+`config.json` and a file containing details about the exams to schedule.
+Specifically, you are given exams composing different instances of the
+problem with different size and difficulty. The following tabels resumes
+each instance with a triple indicating in the order: the number of
+exams, the number of exam days to schedule and the number of room days
+available.
+
+|---------+--------------+--------------+--------------+--------------+--------------|
+|         | E21          | F21          | F21re        | F22          | F22re        |
+|---------+--------------+--------------+--------------+--------------+--------------|
+| samf    | 9/9/1950     |              |              |              |              |
+| biologi | 21/28/1950   | 15/17/2482   | 11/11/1496   | 21/24/1775   | 18/18/1386   |
+| bmb     | 36/42/1950   | 24/30/2482   | 17/17/1496   | 34/40/1775   | 29/29/1386   |
+| fkf     | 60/67/1950   | 58/68/2482   | 47/47/1496   | 54/76/1775   | 47/47/1386   |
+| imada   | 76/124/1950  | 57/79/2482   | 44/44/1496   | 97/140/1775  | 85/85/1386   |
+| all     | 205/275/1950 | 167/233/2482 | 121/121/1496 | 208/288/1775 | 181/181/1386 |
+
+
+There are other instances as well, E20 and E21re, however you can focus
+on the above only with precedence to F22, F21 and E21. 
+
+The Python code provided reads the instances and makes available:
+- `config` a dictionary with the `DAYS` available for scheduling exams
+- `exams` a dictionary with information on the exams to schedule 
+- `adj` a dictionary reporting for each pair of exams the list of shared students
+- `share` a dictionary reporting for each pair of exams the number of
+  shared students
+- `rooms` a dictionary with information on the rooms available for scheduling
+
+
+#### config.json
 
 Data about the days available for scheduling and the parameter
-`WEIGHT_PROGRAMS` is
-provided in a json file `config.json` (see below for an example). The
+`WEIGHT_PROGRAMS` is provided in a json file `config.json` (see below for an example). The
 field `DAYS` contains a list of days with weekends and holidays already
 removed. The days are given as a number from `DAYONE`. You do NOT need
 to convert them back in dates. The other fields in the input data are
@@ -32,6 +66,7 @@ not relevant for this assignment.
 } 
 ```
 
+#### Exams
 
 Data about the exams is provided in a json file consisting of a
 dictionary, whose elements are the exams e in E. See the code snippet
@@ -121,23 +156,35 @@ provided (not all the information is relevant for this assignment):
 }
 ```
 
+##### rooms.json and room_unavailabilities
 
-An instance of the exam schedule problem consists of two files:
-`config.json` and a file containing details about the exams to schedule.
-Specifically, you are given exams composing five different instances of
-the problem with different size and difficulty:
+Details about the rooms are contained in the files `rooms.json` and `room_unavailabilities.json`, which are read and joined together to provide a dictionary `rooms`. See excerpt example below. From this dictionary you will need only the fields: `roomCode`, `seats` and `available`.
 
-|--|-|-|
-||E20|E21|
-|--|-|-|
-| Exams in samf |      |6|
-| Exams in biologi |      8|21|
-| Exams in bmb     |     17|36|
-| Exams in imada   |     41|76|
-| Exams in fkf     |     45|60|
-| Exams in all     |    123|205|
+```
+{
+  "room.U93": {
+        "id": "room.U93",
+        "name": "Odense U93",
+        "roomCode": "U93",
+        "seats": 50,
+        "campus": {
+            "name": "Odense"
+        },
+        "building": {
+            "name": "O Campus vej"
+        },
+        "equipments": "2 Tavler,Fladt gulv,Fleksible møbler,Microfon,Mørklægning,Netstik,Projektor",
+        "roomFunctions": [
+            {
+                "name": "Undervisning"
+            }
+        ],
+        "available": [152, 153, 154, 158, 159, 160, 161, 164, 165, 166, 167, 168, 171, 172, 173, 174, 175, 178, 179]
+    }
+...
+}
+```
 
 
 
-The Python code calculates a matrix with the number of shared students
-between exams that can turn out relevant for the assignment.
+

@@ -25,16 +25,16 @@ def solve(data):
     #print(s)
     #s = json.dumps(exams, sort_keys=False,  indent=4, separators=(',', ': '), ensure_ascii=False)
     #print(s)
-
-    print(data.adj)      
+    #print(data.adj)      
     #ext = {x + " " + y: shared[(x,y)] for (x,y) in shared if adj[(x, y)] > 0}
     #ext = {x + " " + y: adj[(x,y)] for (x,y) in adj} 
     #s = json.dumps(ext, sort_keys=False, indent=4, separators=(',', ': '), ensure_ascii=False)
     #print(s)
-    print(f"exams to schedule: {len(data.exams)}")
+    #s = json.dumps(rooms, sort_keys=False,  indent=4, separators=(',', ': '), ensure_ascii=False)
+    #print(s)
 
     ## Your Task
-    
+    pass    
 
 
 if __name__ == "__main__":
