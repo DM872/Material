@@ -61,6 +61,8 @@ fm = FullModel(data)
 fm.solve()
 fm.print_solution()
 
+# In[2]:
+
 
 class REF:
     
@@ -153,14 +155,10 @@ class DSP:
 
 # %%
 
-  
 
 # # Solution
 
 # Here we implement the L-Shaped algorithm.
-
-# In[ ]:
-
 
 data = Data()
 ref = REF(data)
@@ -168,41 +166,15 @@ converged = False
 iteration = 0
 ub = float('inf')
 lb = -float('inf')
-while (not converged) and (iteration < 10):
+while (not converged) and (iteration < 5):
     iteration = iteration + 1
     print("Iteration #",iteration)
     
     # Solve REF
     ref.solve()
     # Get the solution X, Eta 
-    if ref.is_infeasible():
-        print("Instance infeasible")
-        break
-    elif ref.is_unbounded():
-        print("Ref unbounded")        
-        break
-    else:          
-        x_star, eta_star = ref.get_solution()
     
-    dsp = DSP(data, x_star)
-    dsp.solve()
-
-    if dsp.is_infeasible():
-        print("DSP Instance infeaasible")    
-        break
-    elif dsp.is_unbounded():
-        print("Found extreme ray:", dsp.get_ray())
-        ref.add_feasibility_cut(np.array(dsp.get_ray())) 
-    else:            
-        if dsp.get_objective() < eta_star:
-            print("Found optimality cut:", ref.get_objective())    
-            ref.add_optimality_cut(dsp.get_solution())
-        elif dsp.get_objective() == eta_star:
-            print("Problem Solved: ",
-                  f"z={ref.get_objective()}, eta={eta_star},"
-                  f"x={x_star}, y={dsp.get_duals()}")
-            break
-
+    # ...
 
     print("Lower bound ",lb," upper bound ",ub)
 
