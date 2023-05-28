@@ -1,0 +1,1765 @@
+{
+    "DM803": [
+        {
+            "duration": 2,
+            "id": "DM803-I-6-8525",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-6-8526",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-7-8527",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-7-8528",
+            "in_arcs": [
+                "DM803-I-7-8527"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-8-8529",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-8-8530",
+            "in_arcs": [
+                "DM803-I-8-8529"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-9-8531",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-9-8532",
+            "in_arcs": [
+                "DM803-I-9-8531"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-10-8533",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-10-8534",
+            "in_arcs": [
+                "DM803-I-10-8533"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-11-8535",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-11-8536",
+            "in_arcs": [
+                "DM803-I-11-8535"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-12-8537",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-12-8538",
+            "in_arcs": [
+                "DM803-I-12-8537"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-13-8539",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-13-8540",
+            "in_arcs": [
+                "DM803-I-13-8539"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-14-8541",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-14-8542",
+            "in_arcs": [
+                "DM803-I-14-8541"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-16-8543",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-16-8544",
+            "in_arcs": [
+                "DM803-I-16-8543"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-17-8545",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-17-8546",
+            "in_arcs": [
+                "DM803-I-17-8545"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-18-8547",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-18-8548",
+            "in_arcs": [
+                "DM803-I-18-8547"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-19-8549",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-19-8550",
+            "in_arcs": [
+                "DM803-I-19-8549"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM803-I-20-8551",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-20-8552",
+            "in_arcs": [
+                "DM803-I-20-8551"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-21-8553",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM803-T-21-8554",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 21
+        }
+    ],
+    "DM846": [
+        {
+            "duration": 2,
+            "id": "DM846-I-6-8437",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-6-8438",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-6-8439",
+            "in_arcs": [
+                "DM846-I-6-8437",
+                "DM846-I-6-8438"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-7-8440",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-7-8441",
+            "in_arcs": [
+                "DM846-I-7-8440"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-8-8442",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-8-8443",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-8-8444",
+            "in_arcs": [
+                "DM846-I-8-8442",
+                "DM846-I-8-8443"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-9-8445",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-9-8446",
+            "in_arcs": [
+                "DM846-I-9-8445"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-10-8447",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-10-8448",
+            "in_arcs": [
+                "DM846-I-10-8447"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-11-8449",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-11-8450",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-11-8451",
+            "in_arcs": [
+                "DM846-I-11-8449",
+                "DM846-I-11-8450"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-12-8452",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-12-8453",
+            "in_arcs": [
+                "DM846-I-12-8452"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-13-8454",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-13-8455",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-13-8456",
+            "in_arcs": [
+                "DM846-I-13-8454",
+                "DM846-I-13-8455"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-14-8457",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-14-8458",
+            "in_arcs": [
+                "DM846-I-14-8457"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-14-8459",
+            "in_arcs": [
+                "DM846-I-14-8457"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-16-8460",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-16-8461",
+            "in_arcs": [
+                "DM846-I-16-8460"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-17-8462",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM846-I-17-8463",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM846-T-17-8464",
+            "in_arcs": [
+                "DM846-I-17-8462",
+                "DM846-I-17-8463"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 17
+        }
+    ],
+    "DM865": [
+        {
+            "duration": 2,
+            "id": "DM865-I-6-8465",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-6-8466",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-7-8467",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-7-8468",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-7-8469",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-8-8470",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-8-8471",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-8-8472",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-9-8473",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-9-8474",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-9-8475",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-10-8476",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-10-8477",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-11-8478",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-11-8479",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-12-8480",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-12-8481",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-13-8482",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-13-8483",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-14-8484",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-14-8485",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-16-8486",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-16-8487",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-17-8488",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-17-8489",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-17-8490",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-18-8491",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-18-8492",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-19-8493",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-19-8494",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-20-8495",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-20-8496",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-20-8497",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-21-8498",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-21-8499",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM865-I-22-8500",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 22
+        }
+    ],
+    "DM872": [
+        {
+            "duration": 2,
+            "id": "DM872-I-14-8414",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-14-8415",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-14-8416",
+            "in_arcs": [
+                "DM872-I-14-8414",
+                "DM872-I-14-8415"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-16-8417",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-16-8418",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-16-8419",
+            "in_arcs": [
+                "DM872-I-16-8417",
+                "DM872-I-16-8418"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-17-8420",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-17-8421",
+            "in_arcs": [
+                "DM872-I-17-8420"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-17-8422",
+            "in_arcs": [
+                "DM872-I-17-8420"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-18-8423",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-18-8424",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-18-8425",
+            "in_arcs": [
+                "DM872-I-18-8423",
+                "DM872-I-18-8424"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-19-8426",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-19-8427",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-19-8428",
+            "in_arcs": [
+                "DM872-I-19-8426",
+                "DM872-I-19-8427"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-20-8429",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-20-8430",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-20-8431",
+            "in_arcs": [
+                "DM872-I-20-8429",
+                "DM872-I-20-8430"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-21-8432",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM872-I-21-8433",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-21-8434",
+            "in_arcs": [
+                "DM872-I-21-8432",
+                "DM872-I-21-8433"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-22-8435",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 22
+        },
+        {
+            "duration": 2,
+            "id": "DM872-T-22-8436",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 22
+        }
+    ],
+    "DM873": [
+        {
+            "duration": 2,
+            "id": "DM873-I-7-8389",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-7-8390",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-8-8391",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-8-8392",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-9-8393",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-9-8394",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-9-8395",
+            "in_arcs": [
+                "DM873-I-9-8393",
+                "DM873-I-9-8394"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-10-8396",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-10-8397",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-10-8398",
+            "in_arcs": [
+                "DM873-I-10-8396",
+                "DM873-I-10-8397"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-11-8399",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-11-8400",
+            "in_arcs": [
+                "DM873-I-11-8399"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-12-8401",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-12-8402",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-12-8403",
+            "in_arcs": [
+                "DM873-I-12-8401",
+                "DM873-I-12-8402"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-13-8404",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-13-8405",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-13-8406",
+            "in_arcs": [
+                "DM873-I-13-8404",
+                "DM873-I-13-8405"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-14-8407",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-18-8408",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-18-8409",
+            "in_arcs": [
+                "DM873-I-18-8408"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-19-8410",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-19-8411",
+            "in_arcs": [
+                "DM873-I-19-8410"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM873-I-21-8412",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM873-T-21-8413",
+            "in_arcs": [
+                "DM873-I-21-8412"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 21
+        }
+    ],
+    "DM876": [
+        {
+            "duration": 2,
+            "id": "DM876-I-6-8501",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-7-8502",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 7
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-8-8503",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-10-8504",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-10-8505",
+            "in_arcs": [
+                "DM876-I-10-8504"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-11-8506",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-11-8507",
+            "in_arcs": [
+                "DM876-I-11-8506"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-12-8508",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-12-8509",
+            "in_arcs": [
+                "DM876-I-12-8508"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-13-8510",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-13-8511",
+            "in_arcs": [
+                "DM876-I-13-8510"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-14-8512",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-14-8513",
+            "in_arcs": [
+                "DM876-I-14-8512"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 14
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-16-8514",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-16-8515",
+            "in_arcs": [
+                "DM876-I-16-8514"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 16
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-17-8516",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-17-8517",
+            "in_arcs": [
+                "DM876-I-17-8516"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 17
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-18-8518",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-18-8519",
+            "in_arcs": [
+                "DM876-I-18-8518"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 18
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-19-8520",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 19
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-20-8521",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 20
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-21-8522",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 21
+        },
+        {
+            "duration": 2,
+            "id": "DM876-I-22-8523",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 22
+        },
+        {
+            "duration": 2,
+            "id": "DM876-T-22-8524",
+            "in_arcs": [
+                "DM876-I-22-8523"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 22
+        }
+    ],
+    "MM852": [
+        {
+            "duration": 2,
+            "id": "MM852-I-6-8375",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-6-8376",
+            "in_arcs": [
+                "MM852-I-6-8375"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 6
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-8-8377",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-8-8378",
+            "in_arcs": [
+                "MM852-I-8-8377"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 8
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-9-8379",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-9-8380",
+            "in_arcs": [
+                "MM852-I-9-8379"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 9
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-10-8381",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-10-8382",
+            "in_arcs": [
+                "MM852-I-10-8381"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 10
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-11-8383",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-11-8384",
+            "in_arcs": [
+                "MM852-I-11-8383"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 11
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-12-8385",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-12-8386",
+            "in_arcs": [
+                "MM852-I-12-8385"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 12
+        },
+        {
+            "duration": 2,
+            "id": "MM852-I-13-8387",
+            "in_arcs": [],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Introfase",
+            "week": 13
+        },
+        {
+            "duration": 2,
+            "id": "MM852-T-13-8388",
+            "in_arcs": [
+                "MM852-I-13-8387"
+            ],
+            "paired": [],
+            "section": "JOINT",
+            "type": "Træningsfase (eks)",
+            "week": 13
+        }
+    ]
+}
