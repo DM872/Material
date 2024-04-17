@@ -162,6 +162,8 @@ def read_instance(filename):
         print(G.edges[E[0]]["weight"])
         for node1, node2, data in G.edges(data=True):
             print(data['weight'])
+        print(G)
+        raise SystemError
     else:
         inputDataFile = open(filename, "r")
         lines = inputDataFile.readlines()
@@ -174,7 +176,7 @@ def read_instance(filename):
             parts = line.split()
             Xs.append(float(parts[1]))
             Ys.append(float(parts[2]))
-        #return frozenset(City(Xs[c], Ys[c]) for c in range(len(Xs)))
+        return frozenset(City(Xs[c], Ys[c]) for c in range(len(Xs)))
         G = nx.Graph()
         for c in range(len(Xs)):
             G.add_node(c, pos=(Xs[c], Ys[c]))
