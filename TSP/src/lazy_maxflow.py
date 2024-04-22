@@ -70,7 +70,7 @@ class DFJ_LazyApproach:
                                    #options_string="mip_tolerances_integrality=1e-9 mip_tolerances_mipgap=0"
                                    )
             #print(results)
-            #tsputil.plot_situation(self.points,{e: self.m.x[e].value for e in self.m.edge_set})
+            tsputil.plot_situation(self.points,{e: self.m.x[e].value for e in self.m.edge_set})
             # Construct a graph from the answer, and look for subtours
             done = True
             graph = self.convertXsToNetworkx()

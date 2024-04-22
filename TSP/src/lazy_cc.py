@@ -85,8 +85,8 @@ class DFJ_LazyApproach:
 
 
 if __name__ == "__main__":
-    #points = tsputil.read_instance("data/dantzig42.dat")
-    points = tsputil.read_instance("data/dantzig42.tsp")
+    points = tsputil.read_instance("data/dantzig42.dat")
+    #points = tsputil.read_instance("data/dantzig42.tsp")
     # points = list(tsputil.Cities(n=20, seed=35))
     #tsputil.plot_situation(points)
     t0 = time.perf_counter()

@@ -60,7 +60,7 @@ import sys
 if __name__ == '__main__':
     if len(sys.argv) == 1:
         # BEGIN: Update this part with what you need
-        points = tsputil.Cities(20, seed=MY_ID)
+        points = tsputil.Cities(20, seed=35)
         # plot_situation(points)
         t0 = time.perf_counter()
         lpsol = solve_MTZ(points)
