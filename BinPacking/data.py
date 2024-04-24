@@ -1,5 +1,6 @@
 
 def BinPackingExample():
+    # Expressed as cutting stock problem    
     B = 9
     w = [2, 3, 4, 5, 6, 7, 8]
     q = [4, 2, 6, 6, 2, 2, 2]

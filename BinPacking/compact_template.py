@@ -24,7 +24,7 @@ def solveBinPacking(s, B):
     ## adapt here depending on the solver 
     solver = po.SolverFactory('glpk')
     results = solver.solve(model)
-    bins = [[] for i in range(U)]
+    bins = [[] for i in range(U)] # complete
     for (i, j) in model.var_indices:
         if model.x[i, j]() > .5:
             bins[j].append(s[i])
