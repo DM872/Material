@@ -1,0 +1,66 @@
+{
+    "SEMESTER": "e2023",
+    "YEAR": 2024,
+    "SESSION": 0,
+    "MAX_STUDENTS_PER_DAY": 16,
+    "MAX_SEATS_PER_DAY": 300,
+    "MAX_ROOMS_PER_DAY": 15,
+    "WEIGHT_PROGRAMS": 100,
+    "MAX_ECTS": 40,
+    "OUT_DISTANCE_FILTER": 3,
+    "FIRST_DAY": [
+        1,
+        2
+    ],
+    "LAST_DAY": [
+        1,
+        31
+    ],
+    "HOLIDAYS": [
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            31
+        ],
+        [
+            1,
+            15
+        ]
+    ],
+    "WRITTEN_EXAMS": {
+        "FIRST_DAY": [
+            1,
+            2
+        ],
+        "LAST_DAY": [
+            1,
+            20
+        ]
+    },
+    "MONTH": 1,
+    "DAYS": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        18,
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        29,
+        30
+    ],
+    "DAYONE": "2024-01-01"
+}

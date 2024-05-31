@@ -1,0 +1,2532 @@
+{
+    "B105090102": {
+        "STADS_ID": "B105090101",
+        "NAT_code": "B105090101",
+        "title": "Operations and Supply Chain Management",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B105090102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "11/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "cefb6fd072677c73df4c089aa3f91ceb",
+            "8c937831daaba9810d0d1b820261922f",
+            "a7b961545144de00adad17e2bf2654ec",
+            "088387bbef04db423098725c92a49146",
+            "c79c6bc4741ac10c14a03cd05b114a7b",
+            "0a3567f3798ea0ac0cd55caedab813ba",
+            "38c791aad6017bceb0be96f739b8c1bc",
+            "414985e053ca2eb4955d3228109da516",
+            "49c37bd217edc4ff58c1aa34a18130e2",
+            "9b19d4b0d59f8f28e5fa51e35e1c8832",
+            "168e94bcb0516920d5be32e4e44703e3",
+            "0c6a9bbd095d48dac78ff676607aff2b",
+            "ccbbf20c4136dc5e57b7478147e374d3",
+            "526f772150122bc8944767b909f75579",
+            "f25009045714682064826688732d3707",
+            "7d301fee8ddd64c6caaa91d40a36bea2",
+            "8f70b7134944b7aa5cd726082b2c2cc4",
+            "747b3a803775fa1dd4592100749a0b24",
+            "8e7422f63100b07f95b9c77a5c87f4fc",
+            "8faff468f196001123838ea04a67cc8c",
+            "f0c88de28af70e04dc071d898ea554b9",
+            "13ba3de7a5f8422ce0cd83da5e7c2034",
+            "91ef55c586ac8c94dc769867c6c55de3",
+            "f180b180fdd9b580c255a51f38c7d629",
+            "6557c1a9a3184997254bb87a0e2efce0",
+            "5acc148c3c7cf7c9f5db6adfbb6bb456",
+            "79b46af9ae622581494138d9e06602e5",
+            "0722ea372ae441b6eb85e0347d7de0fb",
+            "6f9714af71c2e4e56769259aee343ca8",
+            "770f2c0fef53dd9a8e5ab1023645bab6",
+            "3a858544eb875fed7534ecc754866b0a",
+            "23a2f00d132f84bc1a8e1b96c992fcb0",
+            "4ad6a57593536f9ea1741b2a58d8b5a3",
+            "075f6c62a0e6f2cc9848dd97afb74871",
+            "0f30951963e1b2cf026900c536e468db",
+            "97e6d448fb4cac59682670eeec28244f",
+            "b3b0e18cbca428718886034c117a1fca",
+            "b020a24a7fede7c0300943289af48d02",
+            "f52eb5da27932396830f60a4a6064e5d",
+            "10f01310806a0deeae7a393a243a7715",
+            "05e39cada3f662563c72cdeedafcb2c7",
+            "1eb0785323d2de7cafccac1a1b28de6a",
+            "45ae1c69533d2a09b482ce11ca21ae6a",
+            "72cde6ff3bf90636f8c953ac5ae34138",
+            "afad4c5e67e4022b7e9f0c8271941f1d",
+            "4083980f651401ecf02ba13c598db068",
+            "0adba8e786c9baae5f4ab4158e6b01a8",
+            "2cf1f3e5487c0917e68cd015145c10a7",
+            "8bc80bef7d6f239817a110d4cc94aadb",
+            "32624c82a159b224d179a550d5c1105c",
+            "525c18062349c39a882069e3750fda0f",
+            "1bffae1f4eeb4bd5728fe69d8d67bc6b",
+            "488981bb3334e608cd172dd55762a6cf",
+            "98273b42f0e71d178b432a8faaef1790",
+            "bcaee3fb6dee67b06d588d74d9cce9b0",
+            "d3081fe19213624d9e59fbe4e9da958a",
+            "fa9d314f267c499db765f74711f64a5c",
+            "ee0ece8715a00cb14eaddb77ea2505cb",
+            "6479dc4e6097690ce90352e21997b7b9",
+            "c9b98e3394455027904279a8191f9165",
+            "0f54c3a750aa1fe89536072af07b57b1",
+            "394a2bea9352717d0fdce5a6d4181414",
+            "efe603e6e65a6561a6ac6142a5108676",
+            "4abfeb8fc5fb2a0faa54faa41b608c35",
+            "86d273a8045cfaaed5669e0e6f744c6a",
+            "b48184130c71d060efea689602babc20",
+            "345c1620f96530dfc96548292a4b12d7",
+            "9141f434120d04aa4f822c441457f055",
+            "8b85a1a1dea1ac459f8a351d0b83a8b7",
+            "f3bba308e2dbd0c6c71a52b159e46952",
+            "5b8d989136a41cbf01316bdef96bbabe",
+            "181e0b5e2a89a3226b4ebd0009ec4e0b",
+            "d692d66f555723629e6964d771e5f122",
+            "4527cd2bace79e9fcace6100e692fd42",
+            "5491a95d9e8b9b6c510ee5c6cf1f83f1",
+            "010cc70bbd1cbfbbf8a1ae98f9d80e07",
+            "89c96c8720ff6e95b83bc5d8d666776b",
+            "9b17433bbf41af02b47526441d9cc680",
+            "aca9a3ab1ffe42cf378f6059347a355e",
+            "cc5d07ab431822147b159561ca45f8b4",
+            "a187eb8e73cfb75408c876c522c10d73",
+            "018f53e5461b8486b7743cdbaea76760",
+            "47a24024b7668984b7d38d7fdf67d2c2",
+            "75d0e880a025088a65da8cfa13c614de",
+            "42902f5875e3432b06b1bc2bb8572e1c",
+            "d2182bad13184576348e0db1cdf8f73e",
+            "c073206447c797ba0788818844c180dc",
+            "2972d8adf9e59b9c1c12057347bb6f9b",
+            "afcc11156de250806fca6b815899ed1e",
+            "9fb8debaec2aa8302add5614225029d3",
+            "63a126700c08f93d413d764285906d97",
+            "a70f3301b94cc1c638e8339d651ae708",
+            "cc6e97886a018b3bcf9e9e3bb1aff566",
+            "38d60d9113a982cfc3bc6f5ca7b72eeb",
+            "95d01b2a7176ed137df880ecc6758488",
+            "b965c071e2c43f35a4612bc036b4fcef",
+            "656cc2d1d0a490bf691ba7090ddc2472",
+            "d458f4e7eb8529570ca8da70241761d4",
+            "844a3865e503dbfc902d5a11d5938afd",
+            "db96e09583a258a67e5c67cd8473a30e",
+            "471ccefd5c8b48f7b001e5283003de96",
+            "8ff99bc15e107839792b7683c72562dd",
+            "9affffa59822bfc7435c18b3f9ac25f2",
+            "327b441a24809cdd76fed99f5054d419",
+            "b8ab56ad85eaf19d1cf53a6f0d9dd2af",
+            "0fc7cb5cdc63215b84621b03be4cfa2b",
+            "e8d9ea534166fed4b5182c7c4016c560",
+            "077e7a284418970a99080b5da9fcfcf6",
+            "5d011f437eaf97debbab5cab9f20694d",
+            "64a5c000ae3d4f820cb3d4caab62f29f",
+            "67f683bc9abfde60c407d5f1a54b72c2",
+            "aa6c38ecf21429e35cf015755b564094",
+            "bc1023da593803457bab49721c8d4c1f",
+            "d9adf230e561117c238ab737e04f2660",
+            "bbe8ea78faba56e3b32068c0465469e1",
+            "4e74b6f55046174d46069cc6aec6ce4a",
+            "71f53d29bc0754559e460751ab0d2fdc",
+            "ed3586d772e544408bb4961160e8fd21",
+            "7f29900c6c83dfbd6089efcc36738ad9",
+            "d9033347756a2cce9050ac04e8f83f97",
+            "1bed3111b32f0271f51a0e5b0ea1ffc7",
+            "d9778187f925a5a9244964eb66c72dee",
+            "69b4b314037b0ae9b41e5a8fe9f083b4",
+            "eb7a2a8bcf2d5fbc5f2623fa3aac80f0",
+            "031cd8e86a9758a051949b78953df2c6",
+            "0d7a8e73cd3f42c5a5e52c42be13e2d1",
+            "e4df5e7085755c3db2188662ab5f7e5d",
+            "ab007d21c0dcb1e43121768d44d58094",
+            "f8bb676662476da881bb3211ccfd3c9c",
+            "ab318eef0aab44dbd3af1c66f29a2ff3",
+            "1d36a98033e85ef08669acd368999fa4",
+            "c0a67ad421cf0051c7a66d1f518b0787",
+            "2a8ceb4dce8833c2016bd0205cdfa885",
+            "262bf47fc6430605577dc081d8079bb2",
+            "a7cd9d37dfcf400151f8f00bddb86dd0",
+            "ea4c31ce117581e9e89879311d7a54a8",
+            "dfcb419575d8e34c21beb9e6374f24e4",
+            "15179865a5a27d1b66fec696b8b62257",
+            "51581a468acc4ec8b08218bf89b09bee",
+            "850795e688e897f1a4fef3b2228894f1",
+            "bf9b2cb449ec7db4646596a579e28f39",
+            "1784c1258807397ad610b16f126fb4dd",
+            "c9eb4ba0e110c9abec09d54fd2fae699",
+            "ded57b40acc166d7b238122eee4eeb28",
+            "0f8e445e0492e9be15ba39df823f0d4f",
+            "b03d0d534314ef925e85a0ad6a19cbbc",
+            "5a0399bf8b4ab4efd41b4917550fb849",
+            "8935936fe89a0c4dafad1d599656a976",
+            "9a61ab508dd63248626a9e2dd882999d",
+            "b4eacd5d1fbc52b9cee8d1c5864c3c4a",
+            "9bc4fcdc18964aa314cb6a592478ecf9",
+            "d40c867489b0821e48c8a70105fe2f0b",
+            "e6059aa9a3466c830aad0fc86e304b9e"
+        ],
+        "nstds": 153,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                11,
+                "2024-01-11"
+            ]
+        ]
+    },
+    "B540003102": {
+        "STADS_ID": "B540003101",
+        "NAT_code": "B540003101",
+        "title": "Finansiel risikostyring",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540003102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "8/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "0271a2e7bd5f91f047387f6678fdd5bf",
+            "9b19d4b0d59f8f28e5fa51e35e1c8832",
+            "b278f649fb49b316aa92b6556b5a7d1d",
+            "034916afdd2ca7ac57d1372a0972f603",
+            "e1dd60e2ad9684a5e8488aff30fedbb0",
+            "904255c7ff4a2e8fd8f1da84d02b4517",
+            "8f7858be16839c0107a63bedf4568fc1",
+            "3aebfdd0ff6187edec666d0681834ca9",
+            "b69a503616bd63063f937a498e6f3c76",
+            "9e6ca75697a4a814a4a0f882d1680a4a",
+            "b9e1d7593dcda0510200d4f38c99a6d8",
+            "dcb2c9fcc3b316ba0a9dbf099f758053",
+            "cc7306b88c1191c319b0ac16b4672e27",
+            "0c1a4c1b494f4515d034508773b10bbd",
+            "f82248c4f347cb799c1459190f023b4a",
+            "b0f176fb69700daa17c083dd8b9364c6",
+            "526f772150122bc8944767b909f75579",
+            "939f1f779d1f095681a02f56341f2031",
+            "e9e4d1d17d823baf0bdcc70d4510ff29",
+            "90edafea28059405e5d9297dc5407fb8",
+            "e9dcae60d661b3cbb6857fb735590e03",
+            "d3c7295725e5243f11efc9c19a865c4b",
+            "e1d059b5ea48a17759a421e61f42b5e7",
+            "0a14810bd0915619b5d0c5faa0944ef0",
+            "a22c369227f5ff0dd1162d9455080fe4",
+            "10a0e661806a4cc9ae3f0e72fffe6757",
+            "9209a0e069db0d5b4208973a8fac5a89",
+            "e8b236ae54d340d9788911bb5dbcc52d",
+            "f034232c302fa7385764fbc9afca6a02",
+            "5f7a8598e900ff569f265a80777ebad0",
+            "b1a90f0edbd93959c8d46c3ef09593d8",
+            "0edbcc4b92ec3f71ca99c021087ac9b1",
+            "0266389c5fca5838038a054f7f2121c8",
+            "2666f228d9c7fc3cf4ba569f66bc649e",
+            "7a8533888840d68917460c2ccf88e812",
+            "e24ea0455b036a8d30301bdb59908a52",
+            "8f6b6faeff147951120382fc4e655a6b",
+            "82ab7d68349bc88e72d9ec904d1a315b",
+            "d0af04c07fab6205c86dfb47385382ad",
+            "11f9d179399239f81c37543362ea4f7e",
+            "b72a52b0249ae62ec5c0d314a126ee86",
+            "8b0efdbe2c18b6f198671b64542c5b2c",
+            "2fba88334f22673ed82a5c59b0351a05",
+            "713f2117ce1a3fe36032e1b4173f72e7",
+            "a2a1bc4df4261a44b555a6ea8b8c834c",
+            "19967d8440548c3fa29660d409d93756"
+        ],
+        "nstds": 46,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                8,
+                "2024-01-08"
+            ]
+        ]
+    },
+    "B540004102": {
+        "STADS_ID": "B540004101",
+        "NAT_code": "B540004101",
+        "title": "Finansiering, investering og virksomhedsstrategi",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540004102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "3/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "a7b961545144de00adad17e2bf2654ec",
+            "088387bbef04db423098725c92a49146",
+            "be2f129b3b399acda9339ce448d6b00a",
+            "6cb13347ad3d315dd0eebea7cf4cae94",
+            "1d79d4172ab07f2cdb3f77e13859f5f8",
+            "c4a423e442d7e9e792d82ec6046cbf1c",
+            "502f6007d654268ca4b0cb94e8870be3",
+            "6579d5e52ea2bae8384933ac11a37365",
+            "f25009045714682064826688732d3707",
+            "6f9714af71c2e4e56769259aee343ca8",
+            "770f2c0fef53dd9a8e5ab1023645bab6",
+            "4ad6a57593536f9ea1741b2a58d8b5a3",
+            "5d629df7a848ded18b71aeab8a38f674",
+            "8cb8823c32b8cafcd97e407942dfa266",
+            "3860c37d8d714bff96858a1ce01f68a1",
+            "372e928a7388aa62a704fa1670f00464",
+            "4d7e7d2076a909dd3508f4ad138ded97",
+            "65d2a9f6907c5885169040eef3ff2e7d",
+            "9064c1df493d649f303df12584b6e7ce",
+            "8cc9bac6d1f8c4545fe3f02b0c05509f",
+            "c728eae1006b1012623f9df0dd09980e",
+            "6f0c408bb1e5c5e426112ffb44d6f5d0",
+            "32624c82a159b224d179a550d5c1105c",
+            "3d483edabe2eefe62bfa7c08b4e56877",
+            "f2d4a7bafff33982dd45e1fe1912266a",
+            "394a2bea9352717d0fdce5a6d4181414",
+            "a27c29b323aa58fba290ef577ad786cd",
+            "8819cb5e7bf9c54808d4b5a5deaa18d4",
+            "b2638bc345431d44867189efddc0cb56",
+            "75d0e880a025088a65da8cfa13c614de",
+            "44563f2dcbbe4d1ac19ba5e7857ea02d",
+            "9f301c2f626a0fc13faec9eaabf39e21",
+            "fe92548ef7384d29208c74d111dd6d6a",
+            "9fb8debaec2aa8302add5614225029d3",
+            "8c1e36796f7fb2869b605e6480184517",
+            "9249313a95f0268051095859c01f1200",
+            "2ee151e3cef3ed0185096e4ebaafb4e7",
+            "b965c071e2c43f35a4612bc036b4fcef",
+            "5e7c91816b4b319f43ad28c1d72046ef",
+            "373d17c0014ef97819ecabf5faae3c63",
+            "abf2f64e9ad7f9247925b93df98bf062",
+            "b8ab56ad85eaf19d1cf53a6f0d9dd2af",
+            "95c1881a3ae14fc8dfa8c9fabcca541a",
+            "47f1c7bd6ffb1b5496cc4be9e998176d",
+            "d9adf230e561117c238ab737e04f2660",
+            "31fddf7dd2c43304176000ec22b4fcc5",
+            "14980c6dd9d209d4d59b8879883292fe",
+            "d9778187f925a5a9244964eb66c72dee",
+            "0d7a8e73cd3f42c5a5e52c42be13e2d1",
+            "2bead7b1e9bad3d605bf5143951ed17b",
+            "bf1c917d4292720beb03b28043ba49b0",
+            "4df8151078032a03cfaa09fa9f6acd0f",
+            "028f55a491572975d78039baa5ae47e5",
+            "24847c502763093d01358c2a7600c3e7",
+            "ea4c31ce117581e9e89879311d7a54a8",
+            "68831e9969b46a9fd47f39c4d9029ddf",
+            "0b4908fafc1c926ae97543234b6799e0",
+            "bf9b2cb449ec7db4646596a579e28f39"
+        ],
+        "nstds": 58,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "B540005102": {
+        "STADS_ID": "B540005101",
+        "NAT_code": "B540005101",
+        "title": "Makroøkonomi",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540005102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "9/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "35f03de537631f562f4158d94338af4e",
+            "2cf09784510d0e6942e1966e88405b3f",
+            "d3df613b95b96cc075f7e18503b82728",
+            "be2f129b3b399acda9339ce448d6b00a",
+            "3a70caf5885065d3e7d38df80a99af7a",
+            "c4a423e442d7e9e792d82ec6046cbf1c",
+            "6579d5e52ea2bae8384933ac11a37365",
+            "e9dcae60d661b3cbb6857fb735590e03",
+            "5f5ad9edc3673a43c2206a9707f3716c",
+            "3860c37d8d714bff96858a1ce01f68a1",
+            "4d7e7d2076a909dd3508f4ad138ded97",
+            "65d2a9f6907c5885169040eef3ff2e7d",
+            "982004231b6c64b6bcb14656a6b5c718",
+            "9064c1df493d649f303df12584b6e7ce",
+            "8cc9bac6d1f8c4545fe3f02b0c05509f",
+            "6f0c408bb1e5c5e426112ffb44d6f5d0",
+            "3d483edabe2eefe62bfa7c08b4e56877",
+            "f2d4a7bafff33982dd45e1fe1912266a",
+            "3b6a77c46628490db88379042f27c25c",
+            "c9cefdd0ad1af86a7fbd89a391f89d26",
+            "8819cb5e7bf9c54808d4b5a5deaa18d4",
+            "b2638bc345431d44867189efddc0cb56",
+            "d77eef3919d2dd718e228f7bfec09dac",
+            "44563f2dcbbe4d1ac19ba5e7857ea02d",
+            "9f301c2f626a0fc13faec9eaabf39e21",
+            "fe92548ef7384d29208c74d111dd6d6a",
+            "8c1e36796f7fb2869b605e6480184517",
+            "9249313a95f0268051095859c01f1200",
+            "373d17c0014ef97819ecabf5faae3c63",
+            "4abaf51bd83090ba67943ac4a5c116fe",
+            "95c1881a3ae14fc8dfa8c9fabcca541a",
+            "47f1c7bd6ffb1b5496cc4be9e998176d",
+            "14980c6dd9d209d4d59b8879883292fe",
+            "8d5e2a7914543dcb42fb8f25e7e80dfe",
+            "136b306445c46a2f96a2c43273bbd845",
+            "bf1c917d4292720beb03b28043ba49b0",
+            "4df8151078032a03cfaa09fa9f6acd0f",
+            "028f55a491572975d78039baa5ae47e5",
+            "24847c502763093d01358c2a7600c3e7",
+            "689d67d0ca1a1c0aa97837e980c87316",
+            "0b4908fafc1c926ae97543234b6799e0",
+            "aea73b0dc9647605b8da15b7b5ad8949",
+            "600d5b864e374b4b47627487f9af7a52",
+            "84fabc04941d7858fb865429081cfb24",
+            "3ff7552d19e530a308ee1c84856b3cf6",
+            "484200dc81935df8bc65180329f4b6a8",
+            "2bbd156f1de46cc85137ef4a6590563b",
+            "9c7d67d60144090ce63aa5c5a135a3ab",
+            "5e32d88e3fca61b1bbcf2a39e1cb118c",
+            "712c13ebf7188614d0f0ba7c7e224714",
+            "865f74818c30ae3527dd8c4ea91745e6",
+            "9f115c886fe500252004ca783d123954",
+            "9b57a28e83339558883c6a8ceae095a7",
+            "dc5a66fedf8579169bf381b17d379048",
+            "79ec8e71de09f22870ffe78d86b9e5b1",
+            "633264c4a67ad2608022fc880742a684",
+            "eaf2164079a4b96f98e5ab036325ced6",
+            "acc1655d2229df4e79cf196e3c9e9ff2",
+            "bb056b5c609610230a1e2365e09fcf3d",
+            "547291430c0bb9c5d395d78a4569365a",
+            "15516ee56265ca150211c6e30c63c5f1",
+            "6239ca00efd0b383239a56d7406c3923",
+            "101c269a2a97a85301ceeb0a08fe989f",
+            "61159ed9b75b2202bc6252d5b278d9d3",
+            "45a431711958e3116e2fd660e6326173",
+            "aa678aa0a3a5f00d3c56128c91911e0b",
+            "ed00102ee06794cc4e9f5b7133f50a93",
+            "763c1682f4e9b33e6293e3c3220afd47",
+            "ca352cb8f443d68d3e9fab250ed8bf26",
+            "06a1f60968c20268e6e855ed730903bc"
+        ],
+        "nstds": 70,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                9,
+                "2024-01-09"
+            ]
+        ]
+    },
+    "B540006102": {
+        "STADS_ID": "B540006101",
+        "NAT_code": "B540006101",
+        "title": "Matematik",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540006102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "16/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "35f03de537631f562f4158d94338af4e",
+            "d3df613b95b96cc075f7e18503b82728",
+            "3a70caf5885065d3e7d38df80a99af7a",
+            "982004231b6c64b6bcb14656a6b5c718",
+            "3b6a77c46628490db88379042f27c25c",
+            "c9cefdd0ad1af86a7fbd89a391f89d26",
+            "d77eef3919d2dd718e228f7bfec09dac",
+            "4abaf51bd83090ba67943ac4a5c116fe",
+            "8d5e2a7914543dcb42fb8f25e7e80dfe",
+            "136b306445c46a2f96a2c43273bbd845",
+            "689d67d0ca1a1c0aa97837e980c87316",
+            "aea73b0dc9647605b8da15b7b5ad8949",
+            "600d5b864e374b4b47627487f9af7a52",
+            "84fabc04941d7858fb865429081cfb24",
+            "3ff7552d19e530a308ee1c84856b3cf6",
+            "484200dc81935df8bc65180329f4b6a8",
+            "2bbd156f1de46cc85137ef4a6590563b",
+            "9c7d67d60144090ce63aa5c5a135a3ab",
+            "5e32d88e3fca61b1bbcf2a39e1cb118c",
+            "712c13ebf7188614d0f0ba7c7e224714",
+            "865f74818c30ae3527dd8c4ea91745e6",
+            "9f115c886fe500252004ca783d123954",
+            "9b57a28e83339558883c6a8ceae095a7",
+            "dc5a66fedf8579169bf381b17d379048",
+            "79ec8e71de09f22870ffe78d86b9e5b1",
+            "633264c4a67ad2608022fc880742a684",
+            "eaf2164079a4b96f98e5ab036325ced6",
+            "acc1655d2229df4e79cf196e3c9e9ff2",
+            "bb056b5c609610230a1e2365e09fcf3d",
+            "547291430c0bb9c5d395d78a4569365a",
+            "15516ee56265ca150211c6e30c63c5f1",
+            "6239ca00efd0b383239a56d7406c3923",
+            "101c269a2a97a85301ceeb0a08fe989f",
+            "61159ed9b75b2202bc6252d5b278d9d3",
+            "45a431711958e3116e2fd660e6326173",
+            "aa678aa0a3a5f00d3c56128c91911e0b",
+            "ed00102ee06794cc4e9f5b7133f50a93",
+            "763c1682f4e9b33e6293e3c3220afd47",
+            "ca352cb8f443d68d3e9fab250ed8bf26",
+            "06a1f60968c20268e6e855ed730903bc"
+        ],
+        "nstds": 40,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                16,
+                "2024-01-16"
+            ]
+        ]
+    },
+    "B540009102": {
+        "STADS_ID": "B540009101",
+        "NAT_code": "B540009101",
+        "title": "Regression Analysis",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540009102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "8/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "1d79d4172ab07f2cdb3f77e13859f5f8",
+            "502f6007d654268ca4b0cb94e8870be3",
+            "3aebfdd0ff6187edec666d0681834ca9",
+            "b0f176fb69700daa17c083dd8b9364c6",
+            "f25009045714682064826688732d3707",
+            "920e94b6610d124213cb6d7dfba540c9",
+            "6f9714af71c2e4e56769259aee343ca8",
+            "770f2c0fef53dd9a8e5ab1023645bab6",
+            "4fae9d72266afb5afb88d285d2a3c088",
+            "87ca4e03599203ac5a2268093ce2bed6",
+            "4ad6a57593536f9ea1741b2a58d8b5a3",
+            "8cb8823c32b8cafcd97e407942dfa266",
+            "372e928a7388aa62a704fa1670f00464",
+            "c728eae1006b1012623f9df0dd09980e",
+            "32624c82a159b224d179a550d5c1105c",
+            "394a2bea9352717d0fdce5a6d4181414",
+            "a27c29b323aa58fba290ef577ad786cd",
+            "75d0e880a025088a65da8cfa13c614de",
+            "9fb8debaec2aa8302add5614225029d3",
+            "2ee151e3cef3ed0185096e4ebaafb4e7",
+            "b965c071e2c43f35a4612bc036b4fcef",
+            "5e7c91816b4b319f43ad28c1d72046ef",
+            "abf2f64e9ad7f9247925b93df98bf062",
+            "b8ab56ad85eaf19d1cf53a6f0d9dd2af",
+            "d9adf230e561117c238ab737e04f2660",
+            "31fddf7dd2c43304176000ec22b4fcc5",
+            "d9778187f925a5a9244964eb66c72dee",
+            "0d7a8e73cd3f42c5a5e52c42be13e2d1",
+            "2bead7b1e9bad3d605bf5143951ed17b",
+            "ea4c31ce117581e9e89879311d7a54a8",
+            "68831e9969b46a9fd47f39c4d9029ddf",
+            "bf9b2cb449ec7db4646596a579e28f39",
+            "331af0602f3bc71e8b0491cd4314d4de",
+            "343f83cf06896d491e171dbb733203cf",
+            "001841e9098d9539a31d67a606695a91",
+            "2fa063493ca087a204bb82a1ad937c07",
+            "fd87a68cbd1f855282cab1e30d033d99"
+        ],
+        "nstds": 37,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                8,
+                "2024-01-08"
+            ]
+        ]
+    },
+    "B540025102": {
+        "STADS_ID": "B540025101",
+        "NAT_code": "B540025101",
+        "title": "Mikroøkonomi",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540025102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "4/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "35f03de537631f562f4158d94338af4e",
+            "4cdf832ba048fa7be7392dc704a221e7",
+            "d3df613b95b96cc075f7e18503b82728",
+            "dd53984b941f0a22bd227dc11ae8729f",
+            "3a70caf5885065d3e7d38df80a99af7a",
+            "15974330af727199f527767cdb9f0113",
+            "160c2c0e2290b39ac82b4c4323a18653",
+            "982004231b6c64b6bcb14656a6b5c718",
+            "3b6a77c46628490db88379042f27c25c",
+            "1d34e48e6d669ce8d5ae1ad30d147b8b",
+            "c9cefdd0ad1af86a7fbd89a391f89d26",
+            "d77eef3919d2dd718e228f7bfec09dac",
+            "4abaf51bd83090ba67943ac4a5c116fe",
+            "8d5e2a7914543dcb42fb8f25e7e80dfe",
+            "136b306445c46a2f96a2c43273bbd845",
+            "689d67d0ca1a1c0aa97837e980c87316",
+            "ea5c2370de43318daaa04d83e8d3d1aa",
+            "aea73b0dc9647605b8da15b7b5ad8949",
+            "355ce699ee58b19c256e9cfdce2ba7f8",
+            "600d5b864e374b4b47627487f9af7a52",
+            "84fabc04941d7858fb865429081cfb24",
+            "6aad2c601f735efaf58cd61722eef848",
+            "7be0c5415a32a2ffd0e86c4815ada325",
+            "737b968ededad4b294b3932d4058606f",
+            "9941932bfc2fde85a5e7e8fcc30d24b1",
+            "f90130783c316cad392112d782c5a9d8",
+            "3ff7552d19e530a308ee1c84856b3cf6",
+            "484200dc81935df8bc65180329f4b6a8",
+            "2bbd156f1de46cc85137ef4a6590563b",
+            "9c7d67d60144090ce63aa5c5a135a3ab",
+            "ec4a0c5fbbee4517b919628d1a24fa3b",
+            "5e32d88e3fca61b1bbcf2a39e1cb118c",
+            "f056c6e1eb387de0dabdf127c55f8f26",
+            "24405c244479e032aff3f85e2ce8f90c",
+            "712c13ebf7188614d0f0ba7c7e224714",
+            "865f74818c30ae3527dd8c4ea91745e6",
+            "9f115c886fe500252004ca783d123954",
+            "4e095221fd53e87502f3c715d3b3536c",
+            "9b57a28e83339558883c6a8ceae095a7",
+            "b56885c3caeb911cc45bd4aab672ffcf",
+            "dc5a66fedf8579169bf381b17d379048",
+            "79ec8e71de09f22870ffe78d86b9e5b1",
+            "633264c4a67ad2608022fc880742a684",
+            "eaf2164079a4b96f98e5ab036325ced6",
+            "701aeb2e805a8897d36bb99e834feba1",
+            "acc1655d2229df4e79cf196e3c9e9ff2",
+            "bb056b5c609610230a1e2365e09fcf3d",
+            "9cf5e833d4e45e804c28057d72f45d9d",
+            "547291430c0bb9c5d395d78a4569365a",
+            "e3a6e63f11ca052eb2ddb3e8b2048920",
+            "1668070069f0c36845062583f6185d78",
+            "15516ee56265ca150211c6e30c63c5f1",
+            "6239ca00efd0b383239a56d7406c3923",
+            "101c269a2a97a85301ceeb0a08fe989f",
+            "e37bae5391325acf414ac5dd276220ee",
+            "e66b8d2d997381191d7b2db9fdaf0594",
+            "61159ed9b75b2202bc6252d5b278d9d3",
+            "83b7cce8bf0ec13b56b93d7da4c99419",
+            "258876fc1ffc92a7a5877c883a163589",
+            "451a02ae1d094beda5e703b37a470ae1",
+            "8f2b428dfc7a2cff01077e30b1af1f63",
+            "2ba878e11ca9828d2cffeda72fdb5286",
+            "22b922b0aab0035d57fb6e54b656ee5e",
+            "45a431711958e3116e2fd660e6326173",
+            "aa678aa0a3a5f00d3c56128c91911e0b",
+            "64808a4337c85e12a37f86b9058656de",
+            "2592165e2b85abf2df78dd93d0ad9422",
+            "54ea455c139cb965bc28cb875081a646",
+            "c6b5bf2bdda7e0b8b40f7b27bca0f511",
+            "ed00102ee06794cc4e9f5b7133f50a93",
+            "a941081a688bc5e5297fe846bafc0237",
+            "3fe4600f81931e59b53f01233d5751dc",
+            "e5ad28f5635be286828c336668a9b4b4",
+            "1125aca7ddd2b112e0920300c8266c64",
+            "0e3eec8330e714880edd9eb82f34f633",
+            "d27399717ade0f6a735a7e434bdbbe40",
+            "763c1682f4e9b33e6293e3c3220afd47",
+            "ca352cb8f443d68d3e9fab250ed8bf26",
+            "691b78d70cbb7f3f891b42a2fe8e06a5",
+            "646c7a6de861671d4089bd59aa7af4ba",
+            "06a1f60968c20268e6e855ed730903bc",
+            "a6fe5d8b215202b7234b16637fd314d3"
+        ],
+        "nstds": 82,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                4,
+                "2024-01-04"
+            ]
+        ]
+    },
+    "B540027102": {
+        "STADS_ID": "B540027101",
+        "NAT_code": "B540027101",
+        "title": "The Economics of European Integration",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540027102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "25/1,26/1",
+        "stype": "m",
+        "institute": "samf",
+        "students": [
+            "b485cf7cce05d5bb5d5aabd8e1762ae5",
+            "1befed9c2f07f9774740b17bc87b75d7",
+            "2f4d27e47f5fd03b3e78939729883687",
+            "143e796644cc7f276422a6bbde483d23",
+            "96d2ad55d3edfaa7ec23b89365ba1aaf",
+            "9c0c861d3c78cac36df012782c5f4625",
+            "cc7306b88c1191c319b0ac16b4672e27",
+            "66107f5b86c65c68805bd33945bdd504",
+            "526f772150122bc8944767b909f75579",
+            "8d04eb299ba28456cddfded29f528511",
+            "169c7dfab096aa53f082285ebed5a8c6",
+            "d3c7295725e5243f11efc9c19a865c4b",
+            "a70e1a7a939fd6ebc52b1e171ae3333e",
+            "3bdece68a419e1894498872cf943bfe2",
+            "98d2fc110603af0c6197497d4eb0c52e",
+            "60ed79ac907ea409a33a4d7bb33bb8db",
+            "ee1df281ff49c1d0bdbc949859cb181e",
+            "91ef55c586ac8c94dc769867c6c55de3",
+            "a22c369227f5ff0dd1162d9455080fe4",
+            "9ec5aa58dcd51c1eaee2b1f172dc341e",
+            "8b564c23367895b8355e939625307298",
+            "46266820958374ec95281e4999915e64",
+            "802c8595f1549eb2576187b0a6870541",
+            "cd3b0aa099d28d0e9b62d62eaf2965d8",
+            "0722ea372ae441b6eb85e0347d7de0fb",
+            "984cbfaa1e3814aefa7d284877fd3db1",
+            "e24ea0455b036a8d30301bdb59908a52",
+            "5d629df7a848ded18b71aeab8a38f674",
+            "f4a9bc08b6c247ca34f378f6146def79",
+            "ef86496e7308f6f5ecd57c68d371a76b",
+            "c9eb4ba0e110c9abec09d54fd2fae699",
+            "486387b5dd8610eb8b7e3dfa91cc5d94",
+            "31df8e58246719eab5501a115e3c6471",
+            "dd00429b6aaa4dc061698d3ba980f476",
+            "66ab909b2e8430bf43f87166bda0d454",
+            "343f83cf06896d491e171dbb733203cf",
+            "ae8af5bfbfb32a566ab69fd9c4473a93"
+        ],
+        "nstds": 37,
+        "rdays": 2,
+        "schedule": [
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ]
+        ]
+    },
+    "B540035102": {
+        "STADS_ID": "B540035101",
+        "NAT_code": "B540035101",
+        "title": "Applied Machine Learning for Social Science",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540035102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær ",
+        "Faste datoer": "29/1",
+        "stype": "m",
+        "institute": "samf",
+        "students": [
+            "e1dd60e2ad9684a5e8488aff30fedbb0",
+            "ea4dcf4b6413e254f2140ee3e888a78d",
+            "eb9d5b5fa51d1b01e15ef2f9befc5fa4",
+            "e9e4d1d17d823baf0bdcc70d4510ff29",
+            "5f5ad9edc3673a43c2206a9707f3716c",
+            "d938983460b503d4af071af2b8ac3255",
+            "539d989277fd9e7f2fb8789a1cb4c0c6",
+            "4b4f1246056b948f2fb8847e80985906",
+            "015b493cae1940185003bdec20f785a0",
+            "82ab7d68349bc88e72d9ec904d1a315b"
+        ],
+        "nstds": 10,
+        "rdays": 1,
+        "schedule": [
+            [
+                29,
+                "2024-01-29"
+            ]
+        ]
+    },
+    "B540042102": {
+        "STADS_ID": "B540042101",
+        "NAT_code": "B540042101",
+        "title": "Welfare Economics",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540042102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "15/1,17/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "0271a2e7bd5f91f047387f6678fdd5bf",
+            "1d79d4172ab07f2cdb3f77e13859f5f8",
+            "502f6007d654268ca4b0cb94e8870be3",
+            "3aebfdd0ff6187edec666d0681834ca9",
+            "b0f176fb69700daa17c083dd8b9364c6",
+            "920e94b6610d124213cb6d7dfba540c9",
+            "4fae9d72266afb5afb88d285d2a3c088",
+            "87ca4e03599203ac5a2268093ce2bed6",
+            "8cb8823c32b8cafcd97e407942dfa266",
+            "372e928a7388aa62a704fa1670f00464",
+            "c728eae1006b1012623f9df0dd09980e",
+            "a27c29b323aa58fba290ef577ad786cd",
+            "2ee151e3cef3ed0185096e4ebaafb4e7",
+            "5e7c91816b4b319f43ad28c1d72046ef",
+            "abf2f64e9ad7f9247925b93df98bf062",
+            "31fddf7dd2c43304176000ec22b4fcc5",
+            "2bead7b1e9bad3d605bf5143951ed17b",
+            "68831e9969b46a9fd47f39c4d9029ddf",
+            "e0adc79e03135640a5c61baedad61d4f",
+            "3971e04a451777ebcfdd68717d8ddad6",
+            "c88af8ef1311f451dfcb083eb3eb070e",
+            "ac57eb3611601d6eca20c4f17e24e780"
+        ],
+        "nstds": 22,
+        "rdays": 2,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                15,
+                "2024-01-15"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ]
+        ]
+    },
+    "B540043102": {
+        "STADS_ID": "B540043101",
+        "NAT_code": "B540043101",
+        "title": "Labor Economics",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540043102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 6.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "11/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "6222517af5cd5d0e5a5fb07fd7bddd12",
+            "4f87c6a2a7693943b78bcf8f69c82a39",
+            "1cd59a3bc6f6119a743a87380cd6dc8d",
+            "d7a8c76d640b92b3dab226d7e7950e82",
+            "19ee65ddd73ed9c8ec7b793bf2817a4e",
+            "1fbc35893d54c96e78f6ca80a9c4fc3c",
+            "a2b79bc29ee52f0e32751f24e1648eaf",
+            "66107f5b86c65c68805bd33945bdd504",
+            "9b43680e90aedfacb06402d6497366ac",
+            "fa6c8ed10707063b7cab90f50c7f5c57",
+            "6b473254e9f47c5a0db13dcbfcfe85f5",
+            "9ec5aa58dcd51c1eaee2b1f172dc341e",
+            "6b9e62f00ca772cc337c8a3aeeedccec",
+            "cd3b0aa099d28d0e9b62d62eaf2965d8",
+            "2c5626fb7bc0c9020fe19b4861d1c779",
+            "8f326bddcd50529fa14c3ee90a609be7",
+            "389cd8c6db3db244a478f782cd49027d",
+            "4f832c6a4d8c2e8063b6033a6f453f40",
+            "486387b5dd8610eb8b7e3dfa91cc5d94",
+            "e37e0279d0cbe21f80001b92353a4891",
+            "331af0602f3bc71e8b0491cd4314d4de",
+            "281d2b4e50f4793e3d7baf27fea0ef56",
+            "001841e9098d9539a31d67a606695a91",
+            "d8a56370700aead48b29952d19558271"
+        ],
+        "nstds": 24,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                11,
+                "2024-01-11"
+            ]
+        ]
+    },
+    "B540047102": {
+        "STADS_ID": "B540047101",
+        "NAT_code": "B540047101",
+        "title": "Behavioral \nEconomics \nE22",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540047102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "3/1,23/1",
+        "stype": "m",
+        "institute": "samf",
+        "students": [
+            "41e8a5a2a00794f39d43844bb6f1b30f",
+            "ccbbf20c4136dc5e57b7478147e374d3"
+        ],
+        "nstds": 2,
+        "rdays": 2,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ]
+        ]
+    },
+    "B540049102": {
+        "STADS_ID": "B540049101",
+        "NAT_code": "B540049101",
+        "title": "Macroeconomics for Global Macro Investment Strategy",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540049102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "18/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "6222517af5cd5d0e5a5fb07fd7bddd12",
+            "9b19d4b0d59f8f28e5fa51e35e1c8832",
+            "0c6a9bbd095d48dac78ff676607aff2b",
+            "0c1a4c1b494f4515d034508773b10bbd",
+            "66107f5b86c65c68805bd33945bdd504",
+            "fa6c8ed10707063b7cab90f50c7f5c57",
+            "a70e1a7a939fd6ebc52b1e171ae3333e",
+            "6b473254e9f47c5a0db13dcbfcfe85f5",
+            "9ec5aa58dcd51c1eaee2b1f172dc341e",
+            "8b564c23367895b8355e939625307298",
+            "6b9e62f00ca772cc337c8a3aeeedccec",
+            "cd3b0aa099d28d0e9b62d62eaf2965d8",
+            "2c5626fb7bc0c9020fe19b4861d1c779",
+            "8f326bddcd50529fa14c3ee90a609be7",
+            "e24ea0455b036a8d30301bdb59908a52",
+            "4f832c6a4d8c2e8063b6033a6f453f40",
+            "11f9d179399239f81c37543362ea4f7e",
+            "8b0efdbe2c18b6f198671b64542c5b2c",
+            "5d629df7a848ded18b71aeab8a38f674",
+            "3e615e0c2e9ede5d5a12252c7d1b03a1",
+            "6c12bc94f8ece4cf25554cf52137d73f",
+            "ef86496e7308f6f5ecd57c68d371a76b",
+            "bd70d1e31f801481a1887d883a4e3780",
+            "31df8e58246719eab5501a115e3c6471",
+            "b56885c3caeb911cc45bd4aab672ffcf",
+            "3971e04a451777ebcfdd68717d8ddad6",
+            "4dcd352698fe9b62b0fb6f3c87865b7f",
+            "ac57eb3611601d6eca20c4f17e24e780"
+        ],
+        "nstds": 28,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                18,
+                "2024-01-18"
+            ]
+        ]
+    },
+    "B540050102": {
+        "STADS_ID": "B540050101",
+        "NAT_code": "B540050101",
+        "title": "Behavioral Economics E23",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B540050102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær ",
+        "Faste datoer": "5/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "59cac40b575e6ddc6006a6905f93d87b",
+            "6e6b33ad2ba808fadd2113dbc0e9b7a2",
+            "9c0c861d3c78cac36df012782c5f4625",
+            "2d87b751b42ae3b744134cf6b339d7f7",
+            "efa349900dbc0b892a978205e2ff6c47",
+            "90edafea28059405e5d9297dc5407fb8",
+            "d42f44cea1287d0a56f59b5c1a3a31dd",
+            "c073567ee9ac7c23e0017322ddecc378",
+            "5f7a8598e900ff569f265a80777ebad0",
+            "7a8533888840d68917460c2ccf88e812",
+            "82ab7d68349bc88e72d9ec904d1a315b",
+            "c1e3314b8be582f246ebe19a91db6c95",
+            "f4a9bc08b6c247ca34f378f6146def79",
+            "3d041e89ffbaa14c839ace6c2a5f8b2d",
+            "e37e0279d0cbe21f80001b92353a4891",
+            "343f83cf06896d491e171dbb733203cf",
+            "7331fdf343e6341387d05de4598aa051",
+            "f3c5be621a754196701fce163cee4c7c"
+        ],
+        "nstds": 18,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                5,
+                "2024-01-05"
+            ]
+        ]
+    },
+    "B560001102": {
+        "STADS_ID": "B560001101",
+        "NAT_code": "B560001101",
+        "title": "Advanced Corporate Finance",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560001102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær ",
+        "Faste datoer": "24/1-30/1",
+        "stype": "m",
+        "institute": "samf",
+        "students": [
+            "4177cec851ccb192662e3f2bd6e76eee",
+            "02599fb1a4793dd7ecec511f85f6e814",
+            "141d0155c81c525bba4ed6fcd919b47e",
+            "10d90285285d0035a57806e57bb92569",
+            "7f3b3b78d69888c54cc0b86852c85982",
+            "7381090832b9fd33f4ef47f15c872081",
+            "21b3104a1af619a17af8e96727a83e15",
+            "6cbc525e5ceee3fe1204029416369861",
+            "839fc3419758bb9419d5272a1653046c",
+            "083e72fbd544a956b0595b673395ce25",
+            "2013e04785bca00b3c78d64e93812d13",
+            "6ad5eba622c479e07290ca042bf88bf0",
+            "c1ad94067f6e8ffb7aaadc4412535d58",
+            "1f8afef56c04b1b31b317343a766139a",
+            "b4f86aa69685191e477f049f9572877a",
+            "eab276e6c5951500349fa201789e752e",
+            "ac1318ff9ba77ad080a2ed777b6ec472",
+            "c983f9ba43f5e03fc6e38512dc13a2f1",
+            "73c62d14a689a62412e024785709e86a",
+            "a7953116d71b4b8796debb558dd25f67",
+            "36a1e7aa2986b11a562b7b27e4802db4",
+            "42b7b8060ce1a36d1f7beec4440a4a2e",
+            "e7465f39caac8ff64436c78e67aa6d60",
+            "af402459ea61b48fa8048314fe1c6834",
+            "8487f452a2be85bbfea9fd1892e0dd59",
+            "b0be7f9bc35da0e854fe9fee68d5ce82",
+            "894c1160ee92a60c499a01acacbf2b4d",
+            "af92bec7d2de7cc046b8e788e692fb7b",
+            "9db009019ff5c0fe4620080d7af430ee",
+            "022a62002cea37d9212e9ef5b2134603",
+            "93c241dba253ba9e6a2a650532fae50a",
+            "cd738cef92b055a75c0f8fd7eab25b3c",
+            "87ee5c6069a6559a3ba5d24cdf03b040",
+            "da4fa72afa0ba00118fcc56fc400bff3",
+            "e4eba2dc59d231d81c7a4bdeb3841fc2",
+            "04eb981b4625f17323f38f30f67bd3db",
+            "5667b1bc01c0e6eb58f99744fbc71ac7",
+            "7ceed023d991adae8db6363069c46ee2",
+            "338391003738f7597f8a59c3af07e3a9",
+            "453d561760f434c32afd160cf55245ad",
+            "b8a5e2a247c13bb96660b2d0523bb20a",
+            "42b0167518d3fe7b73a2d8a754093969",
+            "aa3df16f5aaa8701add3b5706a4c6050",
+            "f24d619d55f9e43d3a6b6a20013926bc",
+            "63071de6cdfc636ff1a2f66332cdb039",
+            "e93ac6754fbcefb06c45c800e4212f8e",
+            "88fa59b400b1b5f25af725cb35c51e3c",
+            "82ad41d95d77d592c513440445910218",
+            "ac5d060774ac778ac24b26bb7cdea39b",
+            "2ca18b0e04d31c5ae6e12083b56d58de",
+            "a11872bf02868bebc4f0c59dfe77cc90",
+            "2a88c8331c7e3cca189718fd87d59efa",
+            "8ce279d3db1c01ca319c9d20f3f132b3",
+            "5728cef8a6ce1c757f498e8f91a83b98",
+            "4ca2bf1bcc4cf449ade897eb08261f27",
+            "c911c9f8cf1a3614c4dad26a51bbd26c",
+            "c05b2f620ba5dcc9fadb7227cb545146",
+            "94142a31dc8fd7c0f9e9ee88cc5aac5e",
+            "2c2fef6b56d48714946971e2ecdc3fd0",
+            "c46b78c7b62d4496fa0bd22e127298bd",
+            "2fa063493ca087a204bb82a1ad937c07",
+            "4e468854b3b56d77d05f58049770b7b0",
+            "af61ddc72211668d35087ce6d2bcf802",
+            "64a1d4fd66ad8c377d246863d36669a1",
+            "6d78cb93cfd5789869018fd94b3e9fe6",
+            "d4853090ee3172c660e3e42f3702d5de",
+            "000799aba56a90caaaf6614498c768fd",
+            "aafd74205c62443e8588a390ad59935d",
+            "a66a4ca7fbc51690afc2f5f1e05a4b15",
+            "d1cbfbff7a1a6bf88e6f9d33d72e56e5",
+            "efdeeaa6426704dab71b59a517fd86b5",
+            "9047c72db18b8cbebbaad9651a275886",
+            "8da4c1b7513fcfc104f6a7ab3a2028aa",
+            "ae7f0450c32b068cfdef3eb13f25b6b0",
+            "ae98574114d0964f2ad01cc24ffe5763",
+            "6be9c93bb6b42239e19fdd891feb575e",
+            "a06de39091a1ba122d5376c32013219d",
+            "a3bccc912a8f599010be8d7f895fc8ee",
+            "e694e1542838a1b1285ce43d77bbb982",
+            "0b0b97960c70f57b173eb45ce29f6268",
+            "d64b1266bf898679c0bedee9c6475d7a",
+            "7522395c3deaeabd04c588f41a72fdf0",
+            "ed4898726a44fc95dc4c618d923a5eac",
+            "e5b244652d67cc73351b7ae4cca93155",
+            "9f115e3dc3d62811ce01fae76672c763",
+            "9a7c49301e2124579fdd73ff0fffcae2",
+            "8b761deb329ba13b9f7c2ef88d74b053",
+            "ed9bf6c9cc4c2d1dbcce8f4f3eab06bc",
+            "030181f547d9009e7b28f0c8ab900ef2",
+            "70597f27dda35d8219e195227253d7d2",
+            "d5d0b99ea9cbfd1005e27a286a69ebd8",
+            "3f5a651be680f0bd6b88500d3aa200dc",
+            "c22897be1d1f603889050f6fd9c60188",
+            "c4ecb6901608e668360ee66832bf910f",
+            "51a9b1c22a9f0c278b9641cf607be563"
+        ],
+        "nstds": 95,
+        "rdays": 5,
+        "schedule": [
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ]
+    },
+    "B560003102": {
+        "STADS_ID": "B560003101",
+        "NAT_code": "B560003101",
+        "title": "Advanced Macroeconomics",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560003102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "9/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "88ca8205c336f01b384c1cf1bd8d416b",
+            "ec93a1a0c6f804e4b0deedc5a1107a53",
+            "98078d0b9629d7347899b5fe398e9ce6",
+            "383c7fd01c80569ba136ec6a01f34527",
+            "5fe1a4db1785a09c7b8f7c5cdad73d1d",
+            "f842c4d8edf283616f59dd3a480f2276",
+            "10d90285285d0035a57806e57bb92569",
+            "51edf4df234707fd885e5adf7e719791",
+            "4f87c6a2a7693943b78bcf8f69c82a39",
+            "615c532791e8dcbfb21bde22916565a3",
+            "008eeb6ea65442d377cf96d6ce362145",
+            "ac1318ff9ba77ad080a2ed777b6ec472",
+            "a83349bcb76272b3b59071646de2ea75",
+            "247e6001d0942d65c749e9c841d76d86",
+            "19ee65ddd73ed9c8ec7b793bf2817a4e",
+            "b688e32329447a4048ab8846ea0b6cfd",
+            "7ce5a82c3164b0ce07758bc9913d77aa",
+            "3b61c0e7954b0e393b5f5e4a520f1cd6",
+            "05b44caccb37f785439ed4718be3628a",
+            "74f66ee77aea81fe0af32ebcac1a2174",
+            "429f363d45ac46902939a3fcb9d2c4a8",
+            "15800838e9b1fda5f11ff25da7984315",
+            "34213202660ab79251345b635e17fcec",
+            "fb04ca78232cd092311554244e7615b9",
+            "b07be3bedcd1cd90f62d850113a94fc6",
+            "9372adb76e855b2a3c21fa3758699767",
+            "7ceed023d991adae8db6363069c46ee2",
+            "f8c4f83cc52e7c382a7d3b0968a7f43c",
+            "3a0ec2de16c1acfa4cfe3a8d1c1edc33",
+            "6e4ea8e70349a3ddad0e045d8ed253db",
+            "aaf4ba542ecb3cd5d59436cd594e94e8",
+            "35819175340bc97c5f9260eca33b9458",
+            "3d4223b210b674f5c75dabb547537f82",
+            "807743ddb25a722cada55a54bb76ac64",
+            "c43cd154b6ae981846bcbd6ad4b565b5",
+            "54b7c3299e08a7feb737a1ecdf4f9f1e",
+            "933ecc5aa913a20b476e5de1e1aba751",
+            "8fcd440215924e929e4408717a0b07d6",
+            "4a92e02bf4949b8ab60d1b058c6128ff",
+            "0179cc97fd0c20b07d752d153b8157d3",
+            "ab52e1a74515fd0527114f6fe64eea5e",
+            "5e2221b760a77d69649def32fcec37b5",
+            "5728cef8a6ce1c757f498e8f91a83b98",
+            "fd87a68cbd1f855282cab1e30d033d99",
+            "d1cbfbff7a1a6bf88e6f9d33d72e56e5",
+            "1b6ea43806afb2fe002fd72154465ce3"
+        ],
+        "nstds": 46,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                9,
+                "2024-01-09"
+            ]
+        ]
+    },
+    "B560004102": {
+        "STADS_ID": "B560004101",
+        "NAT_code": "B560004101",
+        "title": "Advanced Microeconomics E22",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560004102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "19/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "088387bbef04db423098725c92a49146",
+            "9459babfdcd0d24d370caa343185f43b"
+        ],
+        "nstds": 2,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                19,
+                "2024-01-19"
+            ]
+        ]
+    },
+    "B560008102": {
+        "STADS_ID": "B560008101",
+        "NAT_code": "B560008101",
+        "title": "Derivatives and Risk Management",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560008102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "3/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "4177cec851ccb192662e3f2bd6e76eee",
+            "02599fb1a4793dd7ecec511f85f6e814",
+            "86d333f6d83cdbddfb333346e5ba92f2",
+            "05f09897420611d36b9278fa49f6d04e",
+            "141d0155c81c525bba4ed6fcd919b47e",
+            "10d90285285d0035a57806e57bb92569",
+            "7f3b3b78d69888c54cc0b86852c85982",
+            "7381090832b9fd33f4ef47f15c872081",
+            "21b3104a1af619a17af8e96727a83e15",
+            "839fc3419758bb9419d5272a1653046c",
+            "083e72fbd544a956b0595b673395ce25",
+            "2013e04785bca00b3c78d64e93812d13",
+            "8f6eafc5fcf134816ac34d41eccb1799",
+            "e8354a9bac0863f373f6d4b1f24a6228",
+            "c1ad94067f6e8ffb7aaadc4412535d58",
+            "1f8afef56c04b1b31b317343a766139a",
+            "cd7ef749f3ad3eed588b30a6aefd4c7b",
+            "6e6e7f0b8eab18745f8623b5b8c30e63",
+            "85c5b21f1a6202f91ec244f6283ad86a",
+            "2275097000f4d26e489ba8d824999290",
+            "eab276e6c5951500349fa201789e752e",
+            "d7a8c76d640b92b3dab226d7e7950e82",
+            "ac1318ff9ba77ad080a2ed777b6ec472",
+            "a83349bcb76272b3b59071646de2ea75",
+            "19ee65ddd73ed9c8ec7b793bf2817a4e",
+            "a7953116d71b4b8796debb558dd25f67",
+            "36a1e7aa2986b11a562b7b27e4802db4",
+            "f1461bfe247ad62579adb9edd04a5505",
+            "e7465f39caac8ff64436c78e67aa6d60",
+            "af402459ea61b48fa8048314fe1c6834",
+            "8487f452a2be85bbfea9fd1892e0dd59",
+            "b0be7f9bc35da0e854fe9fee68d5ce82",
+            "894c1160ee92a60c499a01acacbf2b4d",
+            "af92bec7d2de7cc046b8e788e692fb7b",
+            "9db009019ff5c0fe4620080d7af430ee",
+            "022a62002cea37d9212e9ef5b2134603",
+            "93c241dba253ba9e6a2a650532fae50a",
+            "cd738cef92b055a75c0f8fd7eab25b3c",
+            "87ee5c6069a6559a3ba5d24cdf03b040",
+            "da4fa72afa0ba00118fcc56fc400bff3",
+            "e4eba2dc59d231d81c7a4bdeb3841fc2",
+            "04eb981b4625f17323f38f30f67bd3db",
+            "70b9c8a3799a2c27156c4f9dc55754ca",
+            "5667b1bc01c0e6eb58f99744fbc71ac7",
+            "420732c72513bd16888bf64cf637a14f",
+            "7ceed023d991adae8db6363069c46ee2",
+            "338391003738f7597f8a59c3af07e3a9",
+            "453d561760f434c32afd160cf55245ad",
+            "b8a5e2a247c13bb96660b2d0523bb20a",
+            "42b0167518d3fe7b73a2d8a754093969",
+            "aa3df16f5aaa8701add3b5706a4c6050",
+            "f24d619d55f9e43d3a6b6a20013926bc",
+            "63071de6cdfc636ff1a2f66332cdb039",
+            "e93ac6754fbcefb06c45c800e4212f8e",
+            "88fa59b400b1b5f25af725cb35c51e3c",
+            "a2b03e5d38f56de2f3134a275fc42a87",
+            "82ad41d95d77d592c513440445910218",
+            "ac5d060774ac778ac24b26bb7cdea39b",
+            "5a6aaff8c3260210c9295f9fa7d5c4b2",
+            "c43cd154b6ae981846bcbd6ad4b565b5",
+            "5f9e526ce996b41bb10d06f046f7d59e",
+            "8757175b64e239a4dbf4bbd3d7d6278d",
+            "6e63664c0e1e00920ccafdb08571f6a4",
+            "8ce279d3db1c01ca319c9d20f3f132b3",
+            "ef4e88d4c1ee2b0070410b3c5840c6b6",
+            "5728cef8a6ce1c757f498e8f91a83b98",
+            "c911c9f8cf1a3614c4dad26a51bbd26c",
+            "2fa063493ca087a204bb82a1ad937c07",
+            "4e468854b3b56d77d05f58049770b7b0",
+            "af61ddc72211668d35087ce6d2bcf802",
+            "64a1d4fd66ad8c377d246863d36669a1",
+            "6d78cb93cfd5789869018fd94b3e9fe6",
+            "d4853090ee3172c660e3e42f3702d5de",
+            "000799aba56a90caaaf6614498c768fd",
+            "aafd74205c62443e8588a390ad59935d",
+            "a66a4ca7fbc51690afc2f5f1e05a4b15",
+            "d1cbfbff7a1a6bf88e6f9d33d72e56e5",
+            "efdeeaa6426704dab71b59a517fd86b5",
+            "9047c72db18b8cbebbaad9651a275886",
+            "8da4c1b7513fcfc104f6a7ab3a2028aa",
+            "ae7f0450c32b068cfdef3eb13f25b6b0",
+            "ae98574114d0964f2ad01cc24ffe5763",
+            "6be9c93bb6b42239e19fdd891feb575e",
+            "a06de39091a1ba122d5376c32013219d",
+            "a3bccc912a8f599010be8d7f895fc8ee",
+            "e694e1542838a1b1285ce43d77bbb982",
+            "0b0b97960c70f57b173eb45ce29f6268",
+            "d64b1266bf898679c0bedee9c6475d7a",
+            "7522395c3deaeabd04c588f41a72fdf0",
+            "ed4898726a44fc95dc4c618d923a5eac",
+            "e5b244652d67cc73351b7ae4cca93155",
+            "9f115e3dc3d62811ce01fae76672c763",
+            "9a7c49301e2124579fdd73ff0fffcae2",
+            "8b761deb329ba13b9f7c2ef88d74b053",
+            "ed9bf6c9cc4c2d1dbcce8f4f3eab06bc",
+            "030181f547d9009e7b28f0c8ab900ef2",
+            "70597f27dda35d8219e195227253d7d2",
+            "d5d0b99ea9cbfd1005e27a286a69ebd8",
+            "3f5a651be680f0bd6b88500d3aa200dc",
+            "c22897be1d1f603889050f6fd9c60188",
+            "c4ecb6901608e668360ee66832bf910f",
+            "51a9b1c22a9f0c278b9641cf607be563"
+        ],
+        "nstds": 102,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "B560018102": {
+        "STADS_ID": "B560018101",
+        "NAT_code": "B560018101",
+        "title": "Master Thesis",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560018102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "3/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "0ab9848cbbeeea2e7782d27240a2a322",
+            "219a6e88f04718eba30069a7195770a1",
+            "26a4bf8a20277936724f99057c0b39e3"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "B560032102": {
+        "STADS_ID": "B560032101",
+        "NAT_code": "B560032101",
+        "title": "Dynamic Asset Allocation",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560032102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "16/1",
+        "stype": "m",
+        "institute": "samf",
+        "students": [
+            "2a138f5cc819dca22525dc2d2db943a7",
+            "ec93a1a0c6f804e4b0deedc5a1107a53",
+            "e80476e655f0521308b7ea2c708e44e3",
+            "446619458d9f0392738bbec139aa22ba",
+            "34e0097afc419d3787c699d32df3531b",
+            "7088308a10324aaa61e8015009261b60",
+            "c983f9ba43f5e03fc6e38512dc13a2f1",
+            "54b7c3299e08a7feb737a1ecdf4f9f1e",
+            "9459babfdcd0d24d370caa343185f43b"
+        ],
+        "nstds": 9,
+        "rdays": 1,
+        "schedule": [
+            [
+                16,
+                "2024-01-16"
+            ]
+        ]
+    },
+    "B560052102": {
+        "STADS_ID": "B560052101",
+        "NAT_code": "B560052101",
+        "title": "Microeconometrics",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560052102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "19/1-22/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "88ca8205c336f01b384c1cf1bd8d416b",
+            "2cf09784510d0e6942e1966e88405b3f",
+            "383c7fd01c80569ba136ec6a01f34527",
+            "77830c78ba420a911f2b9d6ef4086ee1",
+            "5fe1a4db1785a09c7b8f7c5cdad73d1d",
+            "f842c4d8edf283616f59dd3a480f2276",
+            "51edf4df234707fd885e5adf7e719791",
+            "008eeb6ea65442d377cf96d6ce362145",
+            "3b61c0e7954b0e393b5f5e4a520f1cd6",
+            "05b44caccb37f785439ed4718be3628a",
+            "9db009019ff5c0fe4620080d7af430ee",
+            "74f66ee77aea81fe0af32ebcac1a2174",
+            "429f363d45ac46902939a3fcb9d2c4a8",
+            "3c218d1acc647d550b64b6f34dc726ec",
+            "15800838e9b1fda5f11ff25da7984315",
+            "34213202660ab79251345b635e17fcec",
+            "fb04ca78232cd092311554244e7615b9",
+            "b07be3bedcd1cd90f62d850113a94fc6",
+            "9372adb76e855b2a3c21fa3758699767",
+            "f8c4f83cc52e7c382a7d3b0968a7f43c",
+            "3a0ec2de16c1acfa4cfe3a8d1c1edc33",
+            "6e4ea8e70349a3ddad0e045d8ed253db",
+            "aaf4ba542ecb3cd5d59436cd594e94e8",
+            "35819175340bc97c5f9260eca33b9458",
+            "3d4223b210b674f5c75dabb547537f82",
+            "807743ddb25a722cada55a54bb76ac64",
+            "8fcd440215924e929e4408717a0b07d6",
+            "0179cc97fd0c20b07d752d153b8157d3",
+            "2c2fef6b56d48714946971e2ecdc3fd0",
+            "1be8e3d1b9a24cba20209e9dda50e326",
+            "fd87a68cbd1f855282cab1e30d033d99",
+            "1b6ea43806afb2fe002fd72154465ce3"
+        ],
+        "nstds": 32,
+        "rdays": 2,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ]
+        ]
+    },
+    "B560069102": {
+        "STADS_ID": "B560069101",
+        "NAT_code": "B560069101",
+        "title": "Advanced Microeconomics E23",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B560069102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "12/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "88ca8205c336f01b384c1cf1bd8d416b",
+            "ec93a1a0c6f804e4b0deedc5a1107a53",
+            "98078d0b9629d7347899b5fe398e9ce6",
+            "383c7fd01c80569ba136ec6a01f34527",
+            "f842c4d8edf283616f59dd3a480f2276",
+            "7381090832b9fd33f4ef47f15c872081",
+            "b45a182061dde29339b28bf67490f9e5",
+            "21b3104a1af619a17af8e96727a83e15",
+            "083e72fbd544a956b0595b673395ce25",
+            "51edf4df234707fd885e5adf7e719791",
+            "a111fa5b55d94ba6a5cd65e2227dcc61",
+            "008eeb6ea65442d377cf96d6ce362145",
+            "af28178810ebf3ec125d3a7f65a04353",
+            "a92af4fab591d65d204febe79536e552",
+            "154af2b680be8d9266f09c2a6e7aeda5",
+            "f0b5e171ab167a034af22aa60cef682b",
+            "3b61c0e7954b0e393b5f5e4a520f1cd6",
+            "05b44caccb37f785439ed4718be3628a",
+            "74f66ee77aea81fe0af32ebcac1a2174",
+            "429f363d45ac46902939a3fcb9d2c4a8",
+            "15800838e9b1fda5f11ff25da7984315",
+            "e4eba2dc59d231d81c7a4bdeb3841fc2",
+            "34213202660ab79251345b635e17fcec",
+            "04eb981b4625f17323f38f30f67bd3db",
+            "fb04ca78232cd092311554244e7615b9",
+            "b07be3bedcd1cd90f62d850113a94fc6",
+            "5667b1bc01c0e6eb58f99744fbc71ac7",
+            "9372adb76e855b2a3c21fa3758699767",
+            "f8c4f83cc52e7c382a7d3b0968a7f43c",
+            "3a0ec2de16c1acfa4cfe3a8d1c1edc33",
+            "6e4ea8e70349a3ddad0e045d8ed253db",
+            "aaf4ba542ecb3cd5d59436cd594e94e8",
+            "35819175340bc97c5f9260eca33b9458",
+            "3d4223b210b674f5c75dabb547537f82",
+            "807743ddb25a722cada55a54bb76ac64",
+            "e93ac6754fbcefb06c45c800e4212f8e",
+            "88fa59b400b1b5f25af725cb35c51e3c",
+            "0179cc97fd0c20b07d752d153b8157d3",
+            "1be8e3d1b9a24cba20209e9dda50e326",
+            "aafd74205c62443e8588a390ad59935d",
+            "fd87a68cbd1f855282cab1e30d033d99",
+            "1b6ea43806afb2fe002fd72154465ce3"
+        ],
+        "nstds": 42,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                12,
+                "2024-01-12"
+            ]
+        ]
+    },
+    "B580000102": {
+        "STADS_ID": "B580000101",
+        "NAT_code": "B580000101",
+        "title": "Operations Research",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B580000102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "18/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "2cf09784510d0e6942e1966e88405b3f",
+            "8480129aff7012a2f1a95e812872c146",
+            "db5a2dd1c50676047d8dae0fbcdcfe07",
+            "6954ebae440dab72445936c41f6e70d1",
+            "492203c44cddd19961b20f611cb24d30",
+            "03f8f2f027e52e68f0c9b12f335a7443",
+            "265605ee5612e597b9abb201fb104331",
+            "022a62002cea37d9212e9ef5b2134603",
+            "a2b03e5d38f56de2f3134a275fc42a87"
+        ],
+        "nstds": 9,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                18,
+                "2024-01-18"
+            ]
+        ]
+    },
+    "B580006102": {
+        "STADS_ID": "B580006101",
+        "NAT_code": "B580006101",
+        "title": "Business Data Analysis",
+        "Administrationsenhed": "SAMF",
+        "EKA": "B580006102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær ",
+        "Faste datoer": "19/1,22/1",
+        "stype": "s",
+        "institute": "samf",
+        "students": [
+            "47e4372c602740eefb4b5936b520ee6a",
+            "dcb2c9fcc3b316ba0a9dbf099f758053",
+            "6219afa4aac1fd300301341eb0cab90c",
+            "efa349900dbc0b892a978205e2ff6c47",
+            "22f9e1ecc68e69687dbe53abf5bbc235",
+            "eb9d5b5fa51d1b01e15ef2f9befc5fa4",
+            "e9dcae60d661b3cbb6857fb735590e03",
+            "5f5ad9edc3673a43c2206a9707f3716c",
+            "d938983460b503d4af071af2b8ac3255",
+            "0a14810bd0915619b5d0c5faa0944ef0",
+            "539d989277fd9e7f2fb8789a1cb4c0c6",
+            "10a0e661806a4cc9ae3f0e72fffe6757",
+            "9209a0e069db0d5b4208973a8fac5a89",
+            "4b4f1246056b948f2fb8847e80985906",
+            "f0362936bd1a5ad6bacafdb4a079ffd0",
+            "b1a90f0edbd93959c8d46c3ef09593d8",
+            "2bfcf4468a2debae5e84b0295d13ad0b",
+            "5192dc446896394a9558161f7107219d",
+            "015b493cae1940185003bdec20f785a0",
+            "8f6b6faeff147951120382fc4e655a6b",
+            "7f0aeeb60efe40e0a12e85b10434e41d",
+            "2fba88334f22673ed82a5c59b0351a05",
+            "66770622541df4a9caa475e97856befb",
+            "e0adc79e03135640a5c61baedad61d4f",
+            "c88af8ef1311f451dfcb083eb3eb070e"
+        ],
+        "nstds": 25,
+        "rdays": 2,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "schedule": [
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ]
+        ]
+    }
+}

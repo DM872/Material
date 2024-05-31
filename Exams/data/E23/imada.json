@@ -1,0 +1,4443 @@
+{
+    "N300003102": {
+        "STADS_ID": "N300003101",
+        "NAT_code": "MM531",
+        "title": "Differentialligninger II",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300003102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "03ffc5192a19e1ff380fcd352556587f",
+            "c1dcf447be8139a9c4a9f3907ce9a559"
+        ],
+        "nstds": 2,
+        "rdays": 1,
+        "joining": [
+            "N300009102",
+            "N310004102"
+        ]
+    },
+    "N300005102": {
+        "STADS_ID": "N300005101",
+        "NAT_code": "MM537",
+        "title": "Introduktion til Matematiske Metoder",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300005102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "980cb9d41f97b051686d30456fa65926",
+            "dbd1074f0626441caf5e76ce341b63ce",
+            "c1dcf447be8139a9c4a9f3907ce9a559",
+            "b1925606bddfbd1f62a89bb7f4a47096",
+            "877af8211166a1905ea43a18b625f566",
+            "d093485189de16afe668c3cb19f077dd"
+        ],
+        "nstds": 6,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ]
+        ],
+        "joining": [
+            "N330014102",
+            "N330079102",
+            "N340093102",
+            "N300055102"
+        ],
+        "conflicting": [
+            "N340054102",
+            "N340103102",
+            "N340055102"
+        ]
+    },
+    "N300007102": {
+        "STADS_ID": "N300007101",
+        "NAT_code": "MM544",
+        "title": "Sandsynlighedsteori",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300007102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "db5a2dd1c50676047d8dae0fbcdcfe07",
+            "6954ebae440dab72445936c41f6e70d1",
+            "47e4372c602740eefb4b5936b520ee6a",
+            "03f8f2f027e52e68f0c9b12f335a7443",
+            "265605ee5612e597b9abb201fb104331",
+            "a2b03e5d38f56de2f3134a275fc42a87",
+            "dcb2c9fcc3b316ba0a9dbf099f758053",
+            "6219afa4aac1fd300301341eb0cab90c",
+            "efa349900dbc0b892a978205e2ff6c47",
+            "22f9e1ecc68e69687dbe53abf5bbc235",
+            "eb9d5b5fa51d1b01e15ef2f9befc5fa4",
+            "e9dcae60d661b3cbb6857fb735590e03",
+            "5f5ad9edc3673a43c2206a9707f3716c",
+            "d938983460b503d4af071af2b8ac3255",
+            "0a14810bd0915619b5d0c5faa0944ef0",
+            "539d989277fd9e7f2fb8789a1cb4c0c6",
+            "10a0e661806a4cc9ae3f0e72fffe6757",
+            "9209a0e069db0d5b4208973a8fac5a89",
+            "4b4f1246056b948f2fb8847e80985906",
+            "f0362936bd1a5ad6bacafdb4a079ffd0",
+            "b1a90f0edbd93959c8d46c3ef09593d8",
+            "2bfcf4468a2debae5e84b0295d13ad0b",
+            "5192dc446896394a9558161f7107219d",
+            "015b493cae1940185003bdec20f785a0",
+            "8f6b6faeff147951120382fc4e655a6b",
+            "7f0aeeb60efe40e0a12e85b10434e41d",
+            "2fba88334f22673ed82a5c59b0351a05"
+        ],
+        "nstds": 27,
+        "rdays": 2,
+        "joining": [
+            "N310006102"
+        ]
+    },
+    "N300009102": {
+        "STADS_ID": "N300009101",
+        "NAT_code": "MM547",
+        "title": "Ordinære differentialligninger: teori, modellering og beregning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300009102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "6fbc5c3b368939fe26707425cfa6e5de",
+            "0922d9a96e55d7c0d6f5e3b424f697fe",
+            "9ccec4549a8398907a88b84af94f37c8",
+            "89a7ba3fb9150afdb7afe227519fa6d9",
+            "e525801973eb638fe40f7ddca195ea3c",
+            "66594cf3fa9e2c170dcded165a9a03f8",
+            "501a5d97086ccb788de2d821eb768b68",
+            "2ed8832365adc0abf41b7757fee6ff7b",
+            "1d509a88e3d401714b1c8bab0826e921",
+            "026c41aa602dc27cb77a5c6b6f38530d"
+        ],
+        "nstds": 10,
+        "rdays": 1,
+        "joining": [
+            "N300003102",
+            "N310004102"
+        ],
+        "conflicting": [
+            "N360000102",
+            "N300056102"
+        ]
+    },
+    "N300011102": {
+        "STADS_ID": "N300011101",
+        "NAT_code": "MM552",
+        "title": "Beregningsmæssig biologi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300011102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "6fbc5c3b368939fe26707425cfa6e5de",
+            "ed109e8bdd5c077dc0e9e0901d40a653",
+            "9ccec4549a8398907a88b84af94f37c8",
+            "4260d3f6fb565895e74f863b7b495955",
+            "44997aac250d78ac9dc9684a6b25fc28",
+            "f82e06afb73871894edbafb48ba84342",
+            "8331e7fec5afb511faa8215f86d92571",
+            "7985bc3b81ba7e258843c60bcec34d1b",
+            "5966f78a55fddc1274306baef01f8455",
+            "9559a5d740697b013c469bfa61de9950",
+            "61a62ecba31520e226f99b089b1ef2d5",
+            "f02d6e038de4a1ed32f1444840bcf94c",
+            "f0a2c46b21ee358abab207814ffae8eb",
+            "aba2c49c5255901a894ca82b9d3d302c",
+            "565854d630b9f7baaed791104cff2515",
+            "4ee7a8efcae31b49810d9e704ea2306e",
+            "a19576dc3630b64b7c9d899779c1dcc2",
+            "f747671036abbc9fa731e04115892115"
+        ],
+        "nstds": 18,
+        "rdays": 2,
+        "available": [
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N340004102"
+        ],
+        "conflicting": []
+    },
+    "N300014102": {
+        "STADS_ID": "N300014101",
+        "NAT_code": "MM558",
+        "title": "Calculus 2",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300014102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N300059102"
+        ]
+    },
+    "N300017102": {
+        "STADS_ID": "N300017101",
+        "NAT_code": "BAMM500",
+        "title": "BAMM500: Bachelorprojekt i matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300017102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "a1ab34102becceb6384d3cfb0069d8b7",
+            "ea876a4fd9d9976851da9e188c657152",
+            "9700181c5cb1a56d8cd766984f6c7ad3",
+            "60c11b02a6ee6dca3aea5474028fc793",
+            "06c0ab4c47eb7e3ca863bff51ecd5f07",
+            "6aee1c3320869956c4c95decfbbd3e30",
+            "80a7e24cf93f57b60741b5d2abd0a59d",
+            "72189e223a61ad350c29fae4545a2de2",
+            "490f8c203564bfe14d18d6cb8a05f468",
+            "2424824f3666d685732f9fdc392e39f1",
+            "f8cac49f639fca3e0e7dc98434c99c8b",
+            "d2cce455887b96f2d0bff1b5fc33a2ef",
+            "44e82fddf9f09d5d637efc50522d16f8",
+            "af2e697ec9d8a43e0edbca7fc54c646a"
+        ],
+        "nstds": 14,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N300018102": {
+        "STADS_ID": "N300018101",
+        "NAT_code": "BAMM501",
+        "title": "BAMM501: Bachelorprojekt i anvendt matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300018102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N300019102": {
+        "STADS_ID": "N300019101",
+        "NAT_code": "BAMM502",
+        "title": "BAMM502: Bachelorprojekt i anvendt matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300019102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N300055102": {
+        "STADS_ID": "N300055101",
+        "NAT_code": "MM568",
+        "title": "Logik og Lineær algebra",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300055102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "4cdf832ba048fa7be7392dc704a221e7",
+            "50f9ff206e05f0bad9220c46b1b321ba",
+            "da5fda8cfc360326ef1bd343efa73d1b",
+            "baccd9f636bf9847062969f3e15c01fb",
+            "dd53984b941f0a22bd227dc11ae8729f",
+            "6d38733c649a7d3b65dea5036809a877",
+            "7bae0930f534ef518d7dcf6349fb2b6e",
+            "1f91f08c98ecb511871581e155d6c1e5",
+            "15974330af727199f527767cdb9f0113",
+            "b1925606bddfbd1f62a89bb7f4a47096",
+            "137fdf0ea7ae1291cc7adbbdd624f414",
+            "6648b68be45ec637e57b12c3e7ca239e",
+            "160c2c0e2290b39ac82b4c4323a18653",
+            "63a50321937319e8b049aed7adb98762",
+            "a8b517cb4490154d2c71146a3dfde0c3",
+            "00229b1fab252e770fcba61d4be15495",
+            "34b6d755ce05e36be8752e4296645347",
+            "1008137111e5c00c401190c21a9a09ee",
+            "952166c61b0dc5432bbbaea902b3c2dd",
+            "1d34e48e6d669ce8d5ae1ad30d147b8b",
+            "4bc23d4667ae8ce8e01eec233cc075ea",
+            "76d5a25f9731a15e20f7c721d59f9c32",
+            "760cfdbd2063dbaa73f01568262b2fb0",
+            "56ae24b8cd69592e40cc856b6f824f22",
+            "f81b20669c1e7ca79c73a7531628ccd0",
+            "ae3489b2bd4b177a12cf2821a0faa279",
+            "c217a6c40ccd6f1c2b6bac3c16c1e3f6",
+            "ea5c2370de43318daaa04d83e8d3d1aa",
+            "355ce699ee58b19c256e9cfdce2ba7f8",
+            "486146972c5bc8a41f646b7c17f753f1",
+            "3d7d35c23c06e63d2efc9ecdc08a3d62",
+            "6aad2c601f735efaf58cd61722eef848",
+            "a1e26fbc4c7d55e5b5ee1cff7b3a82a2",
+            "7be0c5415a32a2ffd0e86c4815ada325",
+            "737b968ededad4b294b3932d4058606f",
+            "18174ad7ba499a2d6add223b682bb8fd",
+            "9941932bfc2fde85a5e7e8fcc30d24b1",
+            "f90130783c316cad392112d782c5a9d8",
+            "ced7b3526352567dbd0fd4fbf969f804",
+            "70c78392fc9ee399ce34b0d9d0304429",
+            "ec4a0c5fbbee4517b919628d1a24fa3b",
+            "f056c6e1eb387de0dabdf127c55f8f26",
+            "24405c244479e032aff3f85e2ce8f90c",
+            "269045a6ca1fbab09e75dd3f4da01c88",
+            "4e095221fd53e87502f3c715d3b3536c",
+            "701aeb2e805a8897d36bb99e834feba1",
+            "5937cc796648887aa0f0945769028915",
+            "9cf5e833d4e45e804c28057d72f45d9d",
+            "e3a6e63f11ca052eb2ddb3e8b2048920",
+            "1668070069f0c36845062583f6185d78",
+            "63c9af9a549ee2c14b205e38f6a823b7",
+            "c8939a10a6d2a0e374f1756ae23a9101",
+            "d80f88dadb2d81f1a4109f1056debb00",
+            "7ac489b390aeb2fd88e24067826be63b",
+            "e37bae5391325acf414ac5dd276220ee",
+            "aac5c9a3efe0a0b8fba5b8710e0e4a21",
+            "e66b8d2d997381191d7b2db9fdaf0594",
+            "33bc2536069d437206417fe13d923957",
+            "83b7cce8bf0ec13b56b93d7da4c99419",
+            "258876fc1ffc92a7a5877c883a163589",
+            "451a02ae1d094beda5e703b37a470ae1",
+            "8f2b428dfc7a2cff01077e30b1af1f63",
+            "2ba878e11ca9828d2cffeda72fdb5286",
+            "22b922b0aab0035d57fb6e54b656ee5e",
+            "64808a4337c85e12a37f86b9058656de",
+            "aefb68f3ffa292363dbdd7e38764852c",
+            "2592165e2b85abf2df78dd93d0ad9422",
+            "9e62e93ebc46db5bd79fb6f381361a2d",
+            "54ea455c139cb965bc28cb875081a646",
+            "c6b5bf2bdda7e0b8b40f7b27bca0f511",
+            "3191e41829c776ad0d6d73fde506a25a",
+            "76c9a9385643d780f6481b6990215e0e",
+            "d27aa0731da2119ab0e02a2e0609f819",
+            "92cf9284b470b473eb80de77871e8f2b",
+            "8f6cc51bd491abac037ca46ac1e94f06",
+            "a941081a688bc5e5297fe846bafc0237",
+            "d9ee5c713c7381b69697f5d206ca596c",
+            "3fe4600f81931e59b53f01233d5751dc",
+            "f151470383f8aa1e92851772f3bbd08f",
+            "c85f628dad80229d89b099435e21b8f1",
+            "100eb69cecb5fb9c047fad0f492a2408",
+            "e5ad28f5635be286828c336668a9b4b4",
+            "1125aca7ddd2b112e0920300c8266c64",
+            "f9dcd5e984facd55f260144c0dfdb204",
+            "05d2b5f0851b30576cb549ec0d54e0ae",
+            "0e3eec8330e714880edd9eb82f34f633",
+            "d27399717ade0f6a735a7e434bdbbe40",
+            "691b78d70cbb7f3f891b42a2fe8e06a5",
+            "54cd54f4201aa38f3983de8426b133c7",
+            "646c7a6de861671d4089bd59aa7af4ba",
+            "22d0f626c66e6da74871d9240b0b6d78",
+            "ee5020047f4ea050042c4db9dcd6259e"
+        ],
+        "nstds": 92,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ]
+        ],
+        "joining": [
+            "N300005102",
+            "N330014102",
+            "N330079102",
+            "N340093102"
+        ],
+        "conflicting": [
+            "N300059102",
+            "N330004102"
+        ]
+    },
+    "N300056102": {
+        "STADS_ID": "N300056101",
+        "NAT_code": "MM567",
+        "title": "Ring teori",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300056102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "6fbc5c3b368939fe26707425cfa6e5de",
+            "ac7472615174a2fa5034b2efa75bd370",
+            "50f9ff206e05f0bad9220c46b1b321ba",
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "0922d9a96e55d7c0d6f5e3b424f697fe",
+            "89a7ba3fb9150afdb7afe227519fa6d9",
+            "725dbe4495276c1c2253ef7826abec05",
+            "137fdf0ea7ae1291cc7adbbdd624f414",
+            "7c26d8e9db740a5f7567219cbb8a754e",
+            "e525801973eb638fe40f7ddca195ea3c",
+            "f0e0fe728a672a896345792ee0cbf963",
+            "3ee96826c7c9d8ab035cc6ea48965871",
+            "a3acff9c15876c0f84eb3cddc01837ae",
+            "48d842af8e2bc47797761d703d4df06b",
+            "66594cf3fa9e2c170dcded165a9a03f8",
+            "64ba10c241d1f4a42d4dd4aea6c5cb77",
+            "501a5d97086ccb788de2d821eb768b68",
+            "2ed8832365adc0abf41b7757fee6ff7b",
+            "143dc9a5c3094c2a5109d44b7f76c8ba",
+            "f77016410591163cd1d7a25ed52efcea",
+            "17fc8c34ab425f6c2637c7aa4474c81f",
+            "1d509a88e3d401714b1c8bab0826e921",
+            "178903581768d08c4d3685beaca11fd7",
+            "026c41aa602dc27cb77a5c6b6f38530d",
+            "df96a235fe02df3778470f7b315c4c61",
+            "6959d60ec809a8570d02606e6129e0d2",
+            "53f09bcee87a1e80721a83c8043e1d51",
+            "208dd6cec7690c87d8db85fa8bfff007",
+            "1aae628816fa3901ef1e35360d1459b6"
+        ],
+        "nstds": 29,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N300009102",
+            "N360000102"
+        ]
+    },
+    "N300059102": {
+        "STADS_ID": "N300059101",
+        "NAT_code": "MM536",
+        "title": "Calculus for Matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N300059102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "4cdf832ba048fa7be7392dc704a221e7",
+            "50f9ff206e05f0bad9220c46b1b321ba",
+            "da5fda8cfc360326ef1bd343efa73d1b",
+            "baccd9f636bf9847062969f3e15c01fb",
+            "dd53984b941f0a22bd227dc11ae8729f",
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "6d38733c649a7d3b65dea5036809a877",
+            "7bae0930f534ef518d7dcf6349fb2b6e",
+            "1f91f08c98ecb511871581e155d6c1e5",
+            "15974330af727199f527767cdb9f0113",
+            "3adb258ffa3ac0d23e86af2085221ebf",
+            "b1925606bddfbd1f62a89bb7f4a47096",
+            "d6e50ca32a5c1b8000b10abcba911a9c",
+            "1135cffa8341fd4d9b5e53cdbc6bceab",
+            "137fdf0ea7ae1291cc7adbbdd624f414",
+            "6648b68be45ec637e57b12c3e7ca239e",
+            "160c2c0e2290b39ac82b4c4323a18653",
+            "63a50321937319e8b049aed7adb98762",
+            "00229b1fab252e770fcba61d4be15495",
+            "34b6d755ce05e36be8752e4296645347",
+            "1008137111e5c00c401190c21a9a09ee",
+            "952166c61b0dc5432bbbaea902b3c2dd",
+            "1d34e48e6d669ce8d5ae1ad30d147b8b",
+            "4bc23d4667ae8ce8e01eec233cc075ea",
+            "76d5a25f9731a15e20f7c721d59f9c32",
+            "760cfdbd2063dbaa73f01568262b2fb0",
+            "56ae24b8cd69592e40cc856b6f824f22",
+            "f81b20669c1e7ca79c73a7531628ccd0",
+            "ae3489b2bd4b177a12cf2821a0faa279",
+            "c217a6c40ccd6f1c2b6bac3c16c1e3f6",
+            "ea5c2370de43318daaa04d83e8d3d1aa",
+            "355ce699ee58b19c256e9cfdce2ba7f8",
+            "486146972c5bc8a41f646b7c17f753f1",
+            "3d7d35c23c06e63d2efc9ecdc08a3d62",
+            "6aad2c601f735efaf58cd61722eef848",
+            "a1e26fbc4c7d55e5b5ee1cff7b3a82a2",
+            "7be0c5415a32a2ffd0e86c4815ada325",
+            "737b968ededad4b294b3932d4058606f",
+            "18174ad7ba499a2d6add223b682bb8fd",
+            "9941932bfc2fde85a5e7e8fcc30d24b1",
+            "f90130783c316cad392112d782c5a9d8",
+            "ced7b3526352567dbd0fd4fbf969f804",
+            "70c78392fc9ee399ce34b0d9d0304429",
+            "ec4a0c5fbbee4517b919628d1a24fa3b",
+            "f056c6e1eb387de0dabdf127c55f8f26",
+            "24405c244479e032aff3f85e2ce8f90c",
+            "269045a6ca1fbab09e75dd3f4da01c88",
+            "4e095221fd53e87502f3c715d3b3536c",
+            "701aeb2e805a8897d36bb99e834feba1",
+            "5937cc796648887aa0f0945769028915",
+            "9cf5e833d4e45e804c28057d72f45d9d",
+            "e3a6e63f11ca052eb2ddb3e8b2048920",
+            "1668070069f0c36845062583f6185d78",
+            "63c9af9a549ee2c14b205e38f6a823b7",
+            "c8939a10a6d2a0e374f1756ae23a9101",
+            "d80f88dadb2d81f1a4109f1056debb00",
+            "7ac489b390aeb2fd88e24067826be63b",
+            "e37bae5391325acf414ac5dd276220ee",
+            "aac5c9a3efe0a0b8fba5b8710e0e4a21",
+            "e66b8d2d997381191d7b2db9fdaf0594",
+            "33bc2536069d437206417fe13d923957",
+            "83b7cce8bf0ec13b56b93d7da4c99419",
+            "258876fc1ffc92a7a5877c883a163589",
+            "451a02ae1d094beda5e703b37a470ae1",
+            "8f2b428dfc7a2cff01077e30b1af1f63",
+            "2ba878e11ca9828d2cffeda72fdb5286",
+            "22b922b0aab0035d57fb6e54b656ee5e",
+            "64808a4337c85e12a37f86b9058656de",
+            "aefb68f3ffa292363dbdd7e38764852c",
+            "2592165e2b85abf2df78dd93d0ad9422",
+            "9e62e93ebc46db5bd79fb6f381361a2d",
+            "54ea455c139cb965bc28cb875081a646",
+            "c6b5bf2bdda7e0b8b40f7b27bca0f511",
+            "3191e41829c776ad0d6d73fde506a25a",
+            "76c9a9385643d780f6481b6990215e0e",
+            "d27aa0731da2119ab0e02a2e0609f819",
+            "92cf9284b470b473eb80de77871e8f2b",
+            "8f6cc51bd491abac037ca46ac1e94f06",
+            "a941081a688bc5e5297fe846bafc0237",
+            "d9ee5c713c7381b69697f5d206ca596c",
+            "3fe4600f81931e59b53f01233d5751dc",
+            "f151470383f8aa1e92851772f3bbd08f",
+            "c85f628dad80229d89b099435e21b8f1",
+            "100eb69cecb5fb9c047fad0f492a2408",
+            "e5ad28f5635be286828c336668a9b4b4",
+            "1125aca7ddd2b112e0920300c8266c64",
+            "f9dcd5e984facd55f260144c0dfdb204",
+            "05d2b5f0851b30576cb549ec0d54e0ae",
+            "0e3eec8330e714880edd9eb82f34f633",
+            "d27399717ade0f6a735a7e434bdbbe40",
+            "691b78d70cbb7f3f891b42a2fe8e06a5",
+            "54cd54f4201aa38f3983de8426b133c7",
+            "646c7a6de861671d4089bd59aa7af4ba",
+            "22d0f626c66e6da74871d9240b0b6d78",
+            "ee5020047f4ea050042c4db9dcd6259e"
+        ],
+        "nstds": 95,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N300014102"
+        ],
+        "conflicting": [
+            "N330004102",
+            "N300055102"
+        ]
+    },
+    "N310000102": {
+        "STADS_ID": "N310000101",
+        "NAT_code": "MM802",
+        "title": "Stokastiske differentialligninger I",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310000102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2cf09784510d0e6942e1966e88405b3f",
+            "7f3b3b78d69888c54cc0b86852c85982",
+            "2013e04785bca00b3c78d64e93812d13",
+            "cd7ef749f3ad3eed588b30a6aefd4c7b",
+            "4f87c6a2a7693943b78bcf8f69c82a39",
+            "2275097000f4d26e489ba8d824999290",
+            "d7a8c76d640b92b3dab226d7e7950e82",
+            "af5394f027500778edf088064962a28d",
+            "894c1160ee92a60c499a01acacbf2b4d",
+            "420732c72513bd16888bf64cf637a14f",
+            "b5035d8e8f709940b98d12b142996e74",
+            "94810412d9bfd1ba99b93e6ac96cbd45",
+            "338391003738f7597f8a59c3af07e3a9",
+            "aa3df16f5aaa8701add3b5706a4c6050",
+            "63071de6cdfc636ff1a2f66332cdb039",
+            "bdd11217264352ba0ce3192cdfa39752",
+            "a2b03e5d38f56de2f3134a275fc42a87",
+            "c43cd154b6ae981846bcbd6ad4b565b5",
+            "22f4f2bdf24eb125c74b59078c98bcca",
+            "09cae00b4cdfb17c2ec72d08a1edb903",
+            "a763a7b6972fd6aa14357e3a32bb8ee8"
+        ],
+        "nstds": 21,
+        "rdays": 2,
+        "conflicting": [
+            "N530046102"
+        ]
+    },
+    "N310004102": {
+        "STADS_ID": "N310004101",
+        "NAT_code": "MM831",
+        "title": "Differentialligninger II",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310004102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "590683b8ab1c3f1275e03aca0f0cb0ad",
+            "22f4f2bdf24eb125c74b59078c98bcca",
+            "79a8b5f46c56162ea7c0457bf3edcd3e"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "joining": [
+            "N300003102",
+            "N300009102"
+        ]
+    },
+    "N310006102": {
+        "STADS_ID": "N310006101",
+        "NAT_code": "MM835",
+        "title": "Sandsynlighedsteori",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310006102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "165c8bd69a522101125e39efa16cd5fa",
+            "1c662c63abbea1d2fd62c468fdc5bade",
+            "b2f8db68e824a24208605f770bbf89e4",
+            "83654968e18f49284856f12636d1ef43",
+            "77fd3adb8224fae61b84841f1153a43f",
+            "4d1cc3d9015bb752a4a8cce5e7d232ea",
+            "01dde9b1a5e1289fc84cad3ab8b2d662",
+            "530ada660cc4fd6c65068d50066ba66b",
+            "af5ce289c17191fa663926e71d478f05",
+            "b5035d8e8f709940b98d12b142996e74",
+            "bdd11217264352ba0ce3192cdfa39752",
+            "7e59fbb1ac09f881bd1aa4f3263aefe3",
+            "22f4f2bdf24eb125c74b59078c98bcca",
+            "b4e651cc389a86166f42d307ee88b721",
+            "09cae00b4cdfb17c2ec72d08a1edb903"
+        ],
+        "nstds": 15,
+        "rdays": 1,
+        "joining": [
+            "N300007102"
+        ]
+    },
+    "N310024102": {
+        "STADS_ID": "N310024101",
+        "NAT_code": "SPMM800",
+        "title": "SPMM800: Speciale i matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310024102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310025102": {
+        "STADS_ID": "N310025101",
+        "NAT_code": "SPMM801",
+        "title": "SPMM801: Speciale i anvendt matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310025102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "93fede502e900df4da64f598493006ef",
+            "6241f4384a764bbd4f0afde098e7817b",
+            "6b9d59caba9d3c28fd1f637f58e2d91b"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310026102": {
+        "STADS_ID": "N310026101",
+        "NAT_code": "SPMM802",
+        "title": "SPMM802: Speciale i anvendt matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310026102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310041102": {
+        "STADS_ID": "N310041101",
+        "NAT_code": "MM845",
+        "title": "Funktional Analyse",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310041102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "24/10,25/10",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "03ffc5192a19e1ff380fcd352556587f",
+            "b4363d11ad54074d28e5ad80ab15aa84",
+            "1c662c63abbea1d2fd62c468fdc5bade",
+            "0538d714cdac13433c4ff667f4333f00",
+            "b2f8db68e824a24208605f770bbf89e4",
+            "7f4624f936052d4cff08dbf3cb2dc1e5",
+            "ea876a4fd9d9976851da9e188c657152",
+            "da4904e12e1caf4c50f2b4f41fc77620",
+            "01dde9b1a5e1289fc84cad3ab8b2d662",
+            "530ada660cc4fd6c65068d50066ba66b",
+            "af5ce289c17191fa663926e71d478f05",
+            "94810412d9bfd1ba99b93e6ac96cbd45",
+            "7e59fbb1ac09f881bd1aa4f3263aefe3",
+            "55edf2fe3c86831002353221a207126a",
+            "09cae00b4cdfb17c2ec72d08a1edb903"
+        ],
+        "nstds": 15,
+        "rdays": 2,
+        "schedule": [
+            [
+                298,
+                "2024-10-24"
+            ],
+            [
+                299,
+                "2024-10-25"
+            ]
+        ]
+    },
+    "N310043102": {
+        "STADS_ID": "N310043101",
+        "NAT_code": "SPMM803",
+        "title": "SPMM803: Kandidatspeciale i anvendt matematik for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310043102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310045102": {
+        "STADS_ID": "N310045101",
+        "NAT_code": "MM851",
+        "title": "Algoritmer og sandsynlighed",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310045102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "forbidden": [
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ]
+        ],
+        "joining": [
+            "N330012102"
+        ]
+    },
+    "N310046102": {
+        "STADS_ID": "N310046101",
+        "NAT_code": "SPDM804",
+        "title": "SPDM804: Kandidatspeciale i datalogi - erhvervskandidat",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310046102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310055102": {
+        "STADS_ID": "N310055101",
+        "NAT_code": "MM855",
+        "title": "Introduktion til grafteori",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310055102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "d612373881d5b14bd25b68d8555fdce3",
+            "ff55354a6df47a372e290dc01ed508d3",
+            "58c8f208a20916f8532d31562f4e55a3",
+            "490f8c203564bfe14d18d6cb8a05f468",
+            "a3acff9c15876c0f84eb3cddc01837ae",
+            "55edf2fe3c86831002353221a207126a",
+            "79a8b5f46c56162ea7c0457bf3edcd3e"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N310057102"
+        ]
+    },
+    "N310057102": {
+        "STADS_ID": "N310057101",
+        "NAT_code": "MM856",
+        "title": "Grafteori",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310057102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "db635b70242993cd94c8bfab0fc6e266",
+            "0fd68dc09be3338b46838cff15c1618b",
+            "03ffc5192a19e1ff380fcd352556587f",
+            "0538d714cdac13433c4ff667f4333f00",
+            "b2f8db68e824a24208605f770bbf89e4",
+            "83654968e18f49284856f12636d1ef43",
+            "3ad89310ef1bf6a564c277129e446e19",
+            "af5394f027500778edf088064962a28d",
+            "657d7b11a302a9b4913d5b86b8db510d",
+            "40c510a6d0649ff4852eecf054533623",
+            "4d1cc3d9015bb752a4a8cce5e7d232ea",
+            "a369e6af683a5dc3daca7d441f57d2c8",
+            "7da718435bc8c4cf76a8e53205fff7c2",
+            "60c11b02a6ee6dca3aea5474028fc793",
+            "68b4b0bc07005ec11d6f7478ee4eca49",
+            "94810412d9bfd1ba99b93e6ac96cbd45",
+            "4dfdc99b4126293105882f699c73d1a2",
+            "172fb5ddb094f46f766a0a71a347dadc",
+            "abbc96f18742e3ad316875d6b3d2c2e0",
+            "0a61ca0f4a0b345e77532f4f45657d4f"
+        ],
+        "nstds": 20,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N310055102"
+        ]
+    },
+    "N310063102": {
+        "STADS_ID": "N310063101",
+        "NAT_code": "SPDM805",
+        "title": "SPDM805: Kandidatspeciale i datalogi - erhvervskandidat",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310063102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "b4b0e5917c8fa307df2ad50eafc65afa"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310065102": {
+        "STADS_ID": "N310065101",
+        "NAT_code": "MM859",
+        "title": "Matematikkens historie",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310065102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "d65281c7326ad7b205365479231cf236",
+            "f55340a0077568aab3f5247a15d7a87e",
+            "3671c4c2f52ef524e2a568fabd52f216",
+            "82d032185a6d4b08df1905beae0adc3f",
+            "bacfd645fc588c970bb97ca2f559adf2",
+            "3731e2d6603f546eff3bc2658380b5cd",
+            "03ffc5192a19e1ff380fcd352556587f",
+            "b4363d11ad54074d28e5ad80ab15aa84",
+            "0538d714cdac13433c4ff667f4333f00",
+            "b2f8db68e824a24208605f770bbf89e4",
+            "32966aca8edcdc6a92e73c64af61f318",
+            "40c510a6d0649ff4852eecf054533623",
+            "fb1e68daeed2ceefeaf9e129b8a9492c",
+            "da4904e12e1caf4c50f2b4f41fc77620",
+            "af5ce289c17191fa663926e71d478f05",
+            "06c0ab4c47eb7e3ca863bff51ecd5f07",
+            "80a7e24cf93f57b60741b5d2abd0a59d",
+            "22f4f2bdf24eb125c74b59078c98bcca",
+            "badb3bb0bb852ec62110e10461f4cdf4",
+            "55edf2fe3c86831002353221a207126a"
+        ],
+        "nstds": 20,
+        "rdays": 2,
+        "available": [
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ]
+        ]
+    },
+    "N310071102": {
+        "STADS_ID": "N310071101",
+        "NAT_code": "SPMM804",
+        "title": "SPMM804: Kandidatspeciale i matematik for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310071102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N310079102": {
+        "STADS_ID": "N310079101",
+        "NAT_code": "MM865",
+        "title": "Riemannsk geometri",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N310079102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "bacfd645fc588c970bb97ca2f559adf2",
+            "03ffc5192a19e1ff380fcd352556587f",
+            "530ada660cc4fd6c65068d50066ba66b",
+            "7e59fbb1ac09f881bd1aa4f3263aefe3",
+            "abbc96f18742e3ad316875d6b3d2c2e0"
+        ],
+        "nstds": 5,
+        "rdays": 1
+    },
+    "N330004102": {
+        "STADS_ID": "N330004101",
+        "NAT_code": "DM536",
+        "title": "Introduktion til programmering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330004102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "50f9ff206e05f0bad9220c46b1b321ba",
+            "da5fda8cfc360326ef1bd343efa73d1b",
+            "baccd9f636bf9847062969f3e15c01fb",
+            "a1ab34102becceb6384d3cfb0069d8b7",
+            "6d38733c649a7d3b65dea5036809a877",
+            "6aee1c3320869956c4c95decfbbd3e30",
+            "1ce447de8c192837f1afc2c2e2eb4880",
+            "1b6112bc2b65e7c046d18849279f2892",
+            "f42dbf18e68782869396a9679c8030a1",
+            "6648b68be45ec637e57b12c3e7ca239e",
+            "098ac9b3ce60f1525c6ed59344a5df07",
+            "b398b68fcc74d995b7910b23fb1f12a3",
+            "20b96b4794adb326ad7a13235c868407",
+            "023ce38019352bf9f3025f3e3887fb26",
+            "63a50321937319e8b049aed7adb98762",
+            "904baf2f8dc79dde07d2954df1ecb5ab",
+            "875cf4d282f2df97e7f047605aafcf0f",
+            "b803d73a622d8f3d526c4f5245dc5f03",
+            "34b6d755ce05e36be8752e4296645347",
+            "3f78d46656096bc4a89cc1bd4693c6a3",
+            "1008137111e5c00c401190c21a9a09ee",
+            "952166c61b0dc5432bbbaea902b3c2dd",
+            "4bc23d4667ae8ce8e01eec233cc075ea",
+            "76d5a25f9731a15e20f7c721d59f9c32",
+            "760cfdbd2063dbaa73f01568262b2fb0",
+            "56ae24b8cd69592e40cc856b6f824f22",
+            "f81b20669c1e7ca79c73a7531628ccd0",
+            "ae3489b2bd4b177a12cf2821a0faa279",
+            "c217a6c40ccd6f1c2b6bac3c16c1e3f6",
+            "486146972c5bc8a41f646b7c17f753f1",
+            "3d7d35c23c06e63d2efc9ecdc08a3d62",
+            "a1e26fbc4c7d55e5b5ee1cff7b3a82a2",
+            "18174ad7ba499a2d6add223b682bb8fd",
+            "ced7b3526352567dbd0fd4fbf969f804",
+            "70c78392fc9ee399ce34b0d9d0304429",
+            "269045a6ca1fbab09e75dd3f4da01c88",
+            "5937cc796648887aa0f0945769028915",
+            "63c9af9a549ee2c14b205e38f6a823b7",
+            "c8939a10a6d2a0e374f1756ae23a9101",
+            "d80f88dadb2d81f1a4109f1056debb00",
+            "7ac489b390aeb2fd88e24067826be63b",
+            "aac5c9a3efe0a0b8fba5b8710e0e4a21",
+            "33bc2536069d437206417fe13d923957",
+            "aefb68f3ffa292363dbdd7e38764852c",
+            "9e62e93ebc46db5bd79fb6f381361a2d",
+            "3191e41829c776ad0d6d73fde506a25a",
+            "76c9a9385643d780f6481b6990215e0e",
+            "d27aa0731da2119ab0e02a2e0609f819",
+            "92cf9284b470b473eb80de77871e8f2b",
+            "8f6cc51bd491abac037ca46ac1e94f06",
+            "d9ee5c713c7381b69697f5d206ca596c",
+            "f151470383f8aa1e92851772f3bbd08f",
+            "c85f628dad80229d89b099435e21b8f1",
+            "100eb69cecb5fb9c047fad0f492a2408",
+            "f9dcd5e984facd55f260144c0dfdb204",
+            "05d2b5f0851b30576cb549ec0d54e0ae",
+            "54cd54f4201aa38f3983de8426b133c7",
+            "22d0f626c66e6da74871d9240b0b6d78",
+            "ee5020047f4ea050042c4db9dcd6259e"
+        ],
+        "nstds": 59,
+        "rdays": 4,
+        "available": [
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N300059102",
+            "N300055102"
+        ]
+    },
+    "N330005102": {
+        "STADS_ID": "N330005101",
+        "NAT_code": "DM548",
+        "title": "Computerarkitektur og systemprogrammering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330005102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "e18b1a61c701dd893bd93f4c7972f767",
+            "036ce869bca7cf78b9a809c4647fff3d",
+            "7ccb6b13e264a1816578e57f9f2aa259",
+            "9ea50175db471571e3be1a2dc6ff58a2",
+            "209f3545c1118b7da2cf996373ea889c",
+            "5c016568232148619a3f1707791c1886",
+            "760083ac4429a8e593f902d6bc90cb0a",
+            "c37e17be0aa2655a79e6a12748b20461",
+            "ed3c1b048a63ae6e25a84b009295fc8d",
+            "a34d6bd01a745d9590be8120344c1b14",
+            "e8be33b59505dd9f163d057cce94482e",
+            "d91ce2fca6220219a56e34b885f129c1",
+            "90b4b6d6030a0cbf574e876b941a09a9",
+            "ee4fece1b96ef8a3cf476f70f63e3b20",
+            "f73e657faad07ddf403673d4610c1d18",
+            "3334cffacff4b05cf0911ce75d841b2c",
+            "1974eed45e994e78d2db46a242fa85e6",
+            "1ca007c52dd4d1318af956f90d8e9bb7",
+            "7d31ec12a8a753e1832cddc4b993753d",
+            "2d85bfc29de0f0efba5835b9bd42ec45",
+            "2fc2f4364936e94f2bab4d779161fade",
+            "44c412d3375e911ba9dc41ae479bc946",
+            "d098ebb788182368a05f335dc3ca30f1",
+            "2ef1292af43f146b3462174e752bfcca",
+            "7f49a1a7b557aed04a152eb87ada4482",
+            "43ce64d41d04d95d2e694fb2079b9ba5",
+            "831fe63c7f01d7ffc971e71ab2c9ca43",
+            "7b32121a982138d6762615016af5dd57",
+            "459db19925a4960e14abf9aeacda2701",
+            "89e9d4513b0d96c2b17948f86e723a4a",
+            "86543631e024a6e26a75fbcddcd5ad5b",
+            "e63b58b353a8201d842c3066fd9bc8d4",
+            "147a6d2654dd58797d7fa04e439d4cf9",
+            "7226727e61aba2ee811542145c0c5683",
+            "59699c9e0592e4367b3017557b36fc36",
+            "ddde59083b8f183b3f3e914755c3dc7c",
+            "14f8257eca4a77406ab2a8b04fca1e61",
+            "c9e28f12e92ccda1442530964ce0d350",
+            "dff1ceeb40cfe8f5eb672e21740bb6be",
+            "269e9c56165011b3b2adca6d644c91a7",
+            "426c0c51aa52a9d6e0054a10aeef00eb",
+            "0fd6a6fb0b03bc4052630517a0602f84",
+            "00a7169591b1df33ef9bbe300b566046",
+            "7e1b89788e02871e0f7661d83ed92a53",
+            "3eb1ab59aece3ad4fb86f97ddfe67d5d",
+            "a15510404d26bd90568d5976ddafee80",
+            "233d1bb4571ab9cfe0e8320cc0e6dfe0",
+            "d65484a0f0cc6c2d1f95ba5695dd5343",
+            "469eba7aa75bd8cda664374dd512f2ce",
+            "c64022fa5fa36267c79706d3565c86bc",
+            "2609f77409c50e2a2f618c0656284361",
+            "4bcc6fa5209c7cfe4b966955149873e5",
+            "aca4885ba6663dd02b1229358257a6d6"
+        ],
+        "nstds": 53,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ]
+        ],
+        "joining": [
+            "N330075102"
+        ],
+        "conflicting": [
+            "N330066102"
+        ]
+    },
+    "N330012102": {
+        "STADS_ID": "N330012101",
+        "NAT_code": "DM551",
+        "title": "Algoritmer og sandsynlighed",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330012102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "6ba35dc23d71b7daa1b7821bf11e241a",
+            "157d73c01b8d08b2a48b2e5d168a435d",
+            "ef4c23e4753380fca859cb133176b17d",
+            "9ea50175db471571e3be1a2dc6ff58a2",
+            "11311f74fa930b477362c2eaa6e760bf",
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "c6ebf32f40de17face5e802ef2d2414c",
+            "3e810a92188ccf9c5b494ef2e6d36aa9",
+            "ed0799978aaba04aa688e56272eeb116",
+            "7da718435bc8c4cf76a8e53205fff7c2",
+            "28a368ea9db7e343438414a1a1c5146f",
+            "f48fb883d16a8dd5b23fee5671bd5b56",
+            "73321e1173484821eaba3d14a7c68e16",
+            "d6e50ca32a5c1b8000b10abcba911a9c",
+            "1135cffa8341fd4d9b5e53cdbc6bceab",
+            "154e1864043589aede773ffac416ef90",
+            "764aee709eb54ad5e2029f55e02e34d7",
+            "a7b18fc57634265eaa277ed4d48cdc03",
+            "ad4e066552ca35752df5f30c227a1bc2",
+            "49bf3586de49dfaedd5b67ae472cc030",
+            "73f771ccec8c07731c45ff75d28bf0c7",
+            "6219afa4aac1fd300301341eb0cab90c",
+            "7cb21935cefcfcba451885615b548194",
+            "6889125ed0c3482e8bf16661c849ace6",
+            "34a5c9498a57a18ec61635a2165ed3f5",
+            "bb4472dc4a7e858bd467b49047e6a06d",
+            "8b50bbdc3ad228e6bf3da7ddb0f7f1d0",
+            "3b4c635a863ff03752e4946519864dec",
+            "06dc8e6bf7799508a20e5d84b79cfa5e",
+            "80ec7ed622821ac02e43e50e0160b32b",
+            "25f1dc2ef2a15f4ad65d8edd8cf468be",
+            "9128c73b48c4e80e4ab4015524b29c45",
+            "0c14863b6547368aa1abd5d83154a7c6",
+            "7930ab3a915ce6d4e5dfdab696cf7824",
+            "4491e937aa0ed0577f68a3bd629ed5ec",
+            "9a1964183f594ce45134ec832db15134",
+            "cd63207e5cc60e3e02c1891dec255de9",
+            "44f30fcd574b6e65571299f39967e069",
+            "c131de6e257ab966419a7e12db90f745",
+            "8fb54f759a7ab458d1afe8fab28a16b0",
+            "c732bd8692840d7bd93c68b4803986dd",
+            "ed69166b13f43c406492c0c2580f9fc9",
+            "4113d93ba204208c2bb615b8f61201e3",
+            "ffcee23dc282186936025b3db0a2dc76",
+            "436787c6dbdffeb52a429bce0f436131",
+            "5dcff3b25792f2a6bdf77142cd0011db",
+            "1f21c8fad16055599af304e35745e9aa",
+            "3429e617debd21182e560e46eed35873",
+            "508221f5caa8f49aeea6e0e6aff14de1"
+        ],
+        "nstds": 49,
+        "rdays": 4,
+        "forbidden": [
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ]
+        ],
+        "joining": [
+            "N310045102"
+        ],
+        "conflicting": [
+            "N330042102",
+            "N330043102"
+        ]
+    },
+    "N330014102": {
+        "STADS_ID": "N330014101",
+        "NAT_code": "DM547",
+        "title": "Diskret matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330014102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "e390f7a81e392f08055a76e3d70f74b8",
+            "07690a93da63723bf3d5c9ef946f87b4"
+        ],
+        "nstds": 2,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ]
+        ],
+        "joining": [
+            "N300005102",
+            "N330079102",
+            "N340093102",
+            "N300055102"
+        ]
+    },
+    "N330016102": {
+        "STADS_ID": "N330016101",
+        "NAT_code": "BADM500",
+        "title": "BADM500: Bachelorprojekt i datalogi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330016102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "c6de027bbcaee600def6c4f8f366fdd7",
+            "cd422bf512331fa8dddba0451c73d955",
+            "3279dd44090702c8cd4e9e3fbad722b8"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N330023102": {
+        "STADS_ID": "N330023101",
+        "NAT_code": "BADM501",
+        "title": "BADM501: Bachelorprojekt i datalogi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330023102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N330038102": {
+        "STADS_ID": "N330038101",
+        "NAT_code": "DM552",
+        "title": "Programmeringssprog",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330038102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær ",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": []
+    },
+    "N330042102": {
+        "STADS_ID": "N330042101",
+        "NAT_code": "DM565",
+        "title": "Formelle sprog og dataprocessering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330042102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "6ba35dc23d71b7daa1b7821bf11e241a",
+            "9ea50175db471571e3be1a2dc6ff58a2",
+            "481f7561d792de01fdd832cfb39dc8f7",
+            "11311f74fa930b477362c2eaa6e760bf",
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "ab315ba98bc6a06c8ec7d325e62f7f40",
+            "c6ebf32f40de17face5e802ef2d2414c",
+            "3e810a92188ccf9c5b494ef2e6d36aa9",
+            "3ad89310ef1bf6a564c277129e446e19",
+            "ed0799978aaba04aa688e56272eeb116",
+            "28a368ea9db7e343438414a1a1c5146f",
+            "f48fb883d16a8dd5b23fee5671bd5b56",
+            "73321e1173484821eaba3d14a7c68e16",
+            "764aee709eb54ad5e2029f55e02e34d7",
+            "a7b18fc57634265eaa277ed4d48cdc03",
+            "ad4e066552ca35752df5f30c227a1bc2",
+            "49bf3586de49dfaedd5b67ae472cc030",
+            "73f771ccec8c07731c45ff75d28bf0c7",
+            "7cb21935cefcfcba451885615b548194",
+            "6889125ed0c3482e8bf16661c849ace6",
+            "34a5c9498a57a18ec61635a2165ed3f5",
+            "bb4472dc4a7e858bd467b49047e6a06d",
+            "8b50bbdc3ad228e6bf3da7ddb0f7f1d0",
+            "3b4c635a863ff03752e4946519864dec",
+            "06dc8e6bf7799508a20e5d84b79cfa5e",
+            "80ec7ed622821ac02e43e50e0160b32b",
+            "25f1dc2ef2a15f4ad65d8edd8cf468be",
+            "9128c73b48c4e80e4ab4015524b29c45",
+            "0c14863b6547368aa1abd5d83154a7c6",
+            "7930ab3a915ce6d4e5dfdab696cf7824",
+            "4491e937aa0ed0577f68a3bd629ed5ec",
+            "9a1964183f594ce45134ec832db15134",
+            "cd63207e5cc60e3e02c1891dec255de9",
+            "44f30fcd574b6e65571299f39967e069",
+            "c131de6e257ab966419a7e12db90f745",
+            "8fb54f759a7ab458d1afe8fab28a16b0",
+            "c732bd8692840d7bd93c68b4803986dd",
+            "ed69166b13f43c406492c0c2580f9fc9",
+            "4113d93ba204208c2bb615b8f61201e3",
+            "ffcee23dc282186936025b3db0a2dc76",
+            "436787c6dbdffeb52a429bce0f436131",
+            "5dcff3b25792f2a6bdf77142cd0011db",
+            "1f21c8fad16055599af304e35745e9aa",
+            "87654d90fab001cd08d1bea70034cdd9",
+            "3429e617debd21182e560e46eed35873",
+            "ff41a2fa82ec753d3111a2d2e0855404",
+            "7dd3a30de7415699e51b39c1b72bc8c8",
+            "8477424f2f3e713d26ffbaa6912842d7"
+        ],
+        "nstds": 48,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N330012102",
+            "N330043102"
+        ]
+    },
+    "N330043102": {
+        "STADS_ID": "N330043101",
+        "NAT_code": "DM571",
+        "title": "Software Engineering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330043102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "6ba35dc23d71b7daa1b7821bf11e241a",
+            "157d73c01b8d08b2a48b2e5d168a435d",
+            "ef4c23e4753380fca859cb133176b17d",
+            "9ea50175db471571e3be1a2dc6ff58a2",
+            "11311f74fa930b477362c2eaa6e760bf",
+            "7622d2df2fcfbfbf1adf07731d5664ae",
+            "c6ebf32f40de17face5e802ef2d2414c",
+            "3e810a92188ccf9c5b494ef2e6d36aa9",
+            "e7f79f9a6f994ae1912e057d4b628628",
+            "73321e1173484821eaba3d14a7c68e16",
+            "3279dd44090702c8cd4e9e3fbad722b8",
+            "154e1864043589aede773ffac416ef90",
+            "764aee709eb54ad5e2029f55e02e34d7",
+            "a7b18fc57634265eaa277ed4d48cdc03",
+            "ad4e066552ca35752df5f30c227a1bc2",
+            "49bf3586de49dfaedd5b67ae472cc030",
+            "73f771ccec8c07731c45ff75d28bf0c7",
+            "7cb21935cefcfcba451885615b548194",
+            "6889125ed0c3482e8bf16661c849ace6",
+            "34a5c9498a57a18ec61635a2165ed3f5",
+            "bb4472dc4a7e858bd467b49047e6a06d",
+            "8b50bbdc3ad228e6bf3da7ddb0f7f1d0",
+            "3b4c635a863ff03752e4946519864dec",
+            "06dc8e6bf7799508a20e5d84b79cfa5e",
+            "80ec7ed622821ac02e43e50e0160b32b",
+            "25f1dc2ef2a15f4ad65d8edd8cf468be",
+            "9128c73b48c4e80e4ab4015524b29c45",
+            "0c14863b6547368aa1abd5d83154a7c6",
+            "7930ab3a915ce6d4e5dfdab696cf7824",
+            "4491e937aa0ed0577f68a3bd629ed5ec",
+            "9a1964183f594ce45134ec832db15134",
+            "cd63207e5cc60e3e02c1891dec255de9",
+            "44f30fcd574b6e65571299f39967e069",
+            "c131de6e257ab966419a7e12db90f745",
+            "8fb54f759a7ab458d1afe8fab28a16b0",
+            "c732bd8692840d7bd93c68b4803986dd",
+            "ed69166b13f43c406492c0c2580f9fc9",
+            "4113d93ba204208c2bb615b8f61201e3",
+            "ffcee23dc282186936025b3db0a2dc76",
+            "436787c6dbdffeb52a429bce0f436131",
+            "5dcff3b25792f2a6bdf77142cd0011db",
+            "1f21c8fad16055599af304e35745e9aa",
+            "3429e617debd21182e560e46eed35873",
+            "4bcc6fa5209c7cfe4b966955149873e5",
+            "fd7dd0316197fd46b9bb3f13e536fd32",
+            "565ef6fd0fa6b4b56b12f4d56b029b2e"
+        ],
+        "nstds": 46,
+        "rdays": 3,
+        "joining": [
+            "N340121102"
+        ],
+        "conflicting": [
+            "N330012102",
+            "N330042102"
+        ]
+    },
+    "N330057102": {
+        "STADS_ID": "N330057101",
+        "NAT_code": "DM574",
+        "title": "Introduktion til programmering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330057102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 7.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2b6580034acb901ae6440a35e40259eb",
+            "9546665d4a0983aeccb03660f4970f54",
+            "a29394367c0719071489dcba4cc1558c",
+            "490f9235f9997d624e8b3c1107e042d8",
+            "57b3e07fd789f6e858fd81f8416b5198",
+            "392a144e8aae34ce02492d93be07ffc8",
+            "ecfc0ae8510ac2e5f33c10241cf8b6cd",
+            "97ee0d6dbb76290360662e6a578933bb",
+            "0aa66fec5e74f6ecf93fe934ed2e2f5a",
+            "ea01920054c240f5f493ef9d94f89b0a",
+            "fce869ba7e9fdc40562a4877561077ed",
+            "21be59aebe02efd62a841a3dcbc70f01",
+            "39abe0968906d1464f1861c0c8381d54",
+            "4c6d33e3f8eed165fc09de83585d7ec7",
+            "efd9fde084259f50147eda2c94c4ac77",
+            "c75fd565b8ad6573cd454873e80b1d3b",
+            "33961757ca965f98418ec33aa9596d8a",
+            "66582000dcc880b5c9a90457f8ccbca2",
+            "7c258120ed076b83099ee0cf48a49e1a",
+            "9dc73a29b8efca3eb2326a4a9bead676",
+            "7b887eb6b5fb50b4bc222acc7f3ddf3f",
+            "8a4087bff3423be00d595e72db850648",
+            "5ae4b28e458ff7d7f9a676da577ed437",
+            "c81f9a43fd009c16a2ae44820905bc1a",
+            "838e1d041404b64ab59ccb5483706610",
+            "f706b1d69a4b48b0e3cca67c57cdb263",
+            "4e407ca6f0487b5ac2bbff6764ffc190",
+            "8190de7a0a0809f32d83c567b188db4b",
+            "6dbf802ade0929584b52ab1ad22717bf",
+            "8eb561084c64c3398ece966ab2595358",
+            "fe97e19130e4d5c51fc52e4ad244885b",
+            "7bbb435ed31488b25ed7750e2bd66d34",
+            "c4c25507d922ca415a9ad01232cf09e3",
+            "e7e8a0876958289e1b20d90d794d905f",
+            "5577789c934c796f531b28e4f6443cf0",
+            "24c0adf211223df54251a320857b028b",
+            "5dd6b91d85904b658a3e266e59020f44",
+            "41cbd009a22acfa1debae896a4839d25",
+            "0cf9af576767c42481750696ad711738",
+            "ecf809a082760bcf4880f625ad28abb2",
+            "6ff9a1741fe545b1ebafbcf3da479b10",
+            "bc472d5789180825a0776ab8353bfc4a",
+            "c3566b9bfd52330714edd65b9a14cb83",
+            "ecf24b78c84d7694e9737d6335a6e515",
+            "0032c990945d2e7f4e7c2d3fe690240b",
+            "3981856cb4034c61f5fb617372ff6937",
+            "081af93195a2a12b80e4ee075e1deab7",
+            "4726c797df661cfe4546a0e26f8e6d32",
+            "e99116da90e135a2f58ea91392e32d13",
+            "0ff6533592d760544b2493294e97e366",
+            "a17c9c9eca667c7f5d1093906cc72066",
+            "3efedad1793278d027c1cc1bc254b2c4",
+            "8c0fcdfd7fa724e66851fab6d96d09f4",
+            "07af6126b1d497e620f26ab2ab7a95d2",
+            "c6ba05f950f1fcb42a191e094c123e56",
+            "651f70458f787da5e13243a7d2b0ddf2",
+            "d4e6fed5354d60701921be77b5302e4c",
+            "7502fd0809eceee042242315629cb696",
+            "32da29d7f465521f28ccedc60d6f8158",
+            "39bdeeb812b10df310fb5f84a41989e3",
+            "0f24e74e2416576a88c9109c641727b5",
+            "dd1f982074e4ad452ad962f2e9530955",
+            "ecf8f5a770e8352d112d474f966559ba",
+            "991f838585597ec9e2cdba32510d7f3d",
+            "5f50023b473aafabda7fdd6eda198dbd",
+            "2193ae01d92cf6bd7a55d82113ec6cd1",
+            "8bae5eef4e488fdb9c9ef798d7bad7a9",
+            "8308b12fc8351ff375153bd52a6c4824",
+            "e98fed1395a076f1ff4f66ed50561441",
+            "44f35f8efd23e77d2ba71086c510ad9c",
+            "2965328e2ef388b978027aed45513940",
+            "f2fa061615f5fbac85134df7837f9dfe",
+            "684b2458f449616533b87147d155428c",
+            "50a470c853dd464eb819ca89eb933de1",
+            "2a7ab339ce395185d5c94c55ffc0ec98",
+            "80ec585e82f4af17941f8c86737cb05b",
+            "2591600def6611283c4480097063567c",
+            "21d2b6467b152dc2423aab1eac8ced19",
+            "246c4b4b024b05bd92088eea6772ba01",
+            "f0fe41926b29ba8326d9c3cbd457d382",
+            "590f0d1ad5b9b774a3bfa9513a598a5b",
+            "dc40763cd5222ee40c28f755af620216",
+            "eeaef18500b51f9e162a6b31330b49da",
+            "3a29fb6f96a24ede8761f122921234ec",
+            "2444630fbda1514a65216044eef08264",
+            "45da459abdd2e6c4be149f937277b103",
+            "c41687590c0929e9945e1a7b21a8e364",
+            "053e43fbcdb815d3ce9bb6b7194bc6d8"
+        ],
+        "nstds": 88,
+        "rdays": 6,
+        "available": [
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N330079102"
+        ]
+    },
+    "N330058102": {
+        "STADS_ID": "N330058101",
+        "NAT_code": "DM572",
+        "title": "Netværk og Cybersikkerhed",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330058102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "a3ddf9a5e51b287b3b530838067f5579",
+            "8c27f6f14c26686dd5510e8b2260e25b",
+            "6f6c99c74e2a584f3f9f3633b1333a41",
+            "1feb9b0bce9c1ce71341e85f84b58112",
+            "9d090b210ad0c7e3aa61941e1947070e",
+            "e2ff6378d2d053a4de4bd26732695699",
+            "a6ad964119c9f20b7d3cf2b2266ad484",
+            "bf5bb72d0174c1f34a6baea4e1b7318f",
+            "3a0c0a40c9a4b9c63acfe882f6ad876f",
+            "11972e014a8462f93f204c2393605676",
+            "745b780fb11fa379409f1d3362e80b92",
+            "67139fa2d6fe84eeb98a744016b5f8a8",
+            "24ab17dd37d80630ca16cc50e86e9a8e",
+            "da53ab46d1e3f967919f0aafe431567f",
+            "e97d6ecec7de76c4f65f01051c65911f",
+            "3ea16deeba01d4d32591a7e1b08a369d"
+        ],
+        "nstds": 16,
+        "rdays": 1
+    },
+    "N330066102": {
+        "STADS_ID": "N330066101",
+        "NAT_code": "DM581",
+        "title": "Introduktion til maskinlæring",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330066102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 7.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "1240133255d5466c335a6a1abd108660",
+            "e18b1a61c701dd893bd93f4c7972f767",
+            "036ce869bca7cf78b9a809c4647fff3d",
+            "7ccb6b13e264a1816578e57f9f2aa259",
+            "209f3545c1118b7da2cf996373ea889c",
+            "5c016568232148619a3f1707791c1886",
+            "760083ac4429a8e593f902d6bc90cb0a",
+            "cb408f27f0d83eb8da035717f5a37321",
+            "c37e17be0aa2655a79e6a12748b20461",
+            "ed3c1b048a63ae6e25a84b009295fc8d",
+            "a34d6bd01a745d9590be8120344c1b14",
+            "d2dc2db1891563425f7d3019cab4e10b",
+            "e8be33b59505dd9f163d057cce94482e",
+            "d91ce2fca6220219a56e34b885f129c1",
+            "2424824f3666d685732f9fdc392e39f1",
+            "f8cac49f639fca3e0e7dc98434c99c8b",
+            "d2cce455887b96f2d0bff1b5fc33a2ef",
+            "44e82fddf9f09d5d637efc50522d16f8",
+            "af2e697ec9d8a43e0edbca7fc54c646a",
+            "90b4b6d6030a0cbf574e876b941a09a9",
+            "ee4fece1b96ef8a3cf476f70f63e3b20",
+            "f73e657faad07ddf403673d4610c1d18",
+            "3334cffacff4b05cf0911ce75d841b2c",
+            "1974eed45e994e78d2db46a242fa85e6",
+            "1ca007c52dd4d1318af956f90d8e9bb7",
+            "7d31ec12a8a753e1832cddc4b993753d",
+            "2d85bfc29de0f0efba5835b9bd42ec45",
+            "2fc2f4364936e94f2bab4d779161fade",
+            "73c29815446e4d39c79ee05fbb4ebbb7",
+            "44c412d3375e911ba9dc41ae479bc946",
+            "d098ebb788182368a05f335dc3ca30f1",
+            "2ef1292af43f146b3462174e752bfcca",
+            "7f49a1a7b557aed04a152eb87ada4482",
+            "43ce64d41d04d95d2e694fb2079b9ba5",
+            "831fe63c7f01d7ffc971e71ab2c9ca43",
+            "7b32121a982138d6762615016af5dd57",
+            "459db19925a4960e14abf9aeacda2701",
+            "89e9d4513b0d96c2b17948f86e723a4a",
+            "86543631e024a6e26a75fbcddcd5ad5b",
+            "e63b58b353a8201d842c3066fd9bc8d4",
+            "147a6d2654dd58797d7fa04e439d4cf9",
+            "7226727e61aba2ee811542145c0c5683",
+            "59699c9e0592e4367b3017557b36fc36",
+            "ddde59083b8f183b3f3e914755c3dc7c",
+            "14f8257eca4a77406ab2a8b04fca1e61",
+            "c9e28f12e92ccda1442530964ce0d350",
+            "dff1ceeb40cfe8f5eb672e21740bb6be",
+            "269e9c56165011b3b2adca6d644c91a7",
+            "426c0c51aa52a9d6e0054a10aeef00eb",
+            "0fd6a6fb0b03bc4052630517a0602f84",
+            "00a7169591b1df33ef9bbe300b566046",
+            "7e1b89788e02871e0f7661d83ed92a53",
+            "3eb1ab59aece3ad4fb86f97ddfe67d5d",
+            "a15510404d26bd90568d5976ddafee80",
+            "233d1bb4571ab9cfe0e8320cc0e6dfe0",
+            "d65484a0f0cc6c2d1f95ba5695dd5343",
+            "469eba7aa75bd8cda664374dd512f2ce",
+            "c64022fa5fa36267c79706d3565c86bc"
+        ],
+        "nstds": 58,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N330005102"
+        ]
+    },
+    "N330075102": {
+        "STADS_ID": "N330075101",
+        "NAT_code": "DM588",
+        "title": "Computerarkitektur",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330075102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 7.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "1240133255d5466c335a6a1abd108660",
+            "d2dc2db1891563425f7d3019cab4e10b",
+            "2424824f3666d685732f9fdc392e39f1",
+            "f8cac49f639fca3e0e7dc98434c99c8b",
+            "d2cce455887b96f2d0bff1b5fc33a2ef",
+            "44e82fddf9f09d5d637efc50522d16f8",
+            "af2e697ec9d8a43e0edbca7fc54c646a"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ]
+        ],
+        "joining": [
+            "N330005102"
+        ]
+    },
+    "N330079102": {
+        "STADS_ID": "N330079101",
+        "NAT_code": "DM549",
+        "title": "Diskret matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N330079102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "2b6580034acb901ae6440a35e40259eb",
+            "9546665d4a0983aeccb03660f4970f54",
+            "a29394367c0719071489dcba4cc1558c",
+            "490f9235f9997d624e8b3c1107e042d8",
+            "57b3e07fd789f6e858fd81f8416b5198",
+            "392a144e8aae34ce02492d93be07ffc8",
+            "ecfc0ae8510ac2e5f33c10241cf8b6cd",
+            "97ee0d6dbb76290360662e6a578933bb",
+            "0aa66fec5e74f6ecf93fe934ed2e2f5a",
+            "ea01920054c240f5f493ef9d94f89b0a",
+            "fce869ba7e9fdc40562a4877561077ed",
+            "21be59aebe02efd62a841a3dcbc70f01",
+            "39abe0968906d1464f1861c0c8381d54",
+            "4c6d33e3f8eed165fc09de83585d7ec7",
+            "efd9fde084259f50147eda2c94c4ac77",
+            "1ce447de8c192837f1afc2c2e2eb4880",
+            "c75fd565b8ad6573cd454873e80b1d3b",
+            "33961757ca965f98418ec33aa9596d8a",
+            "3f78d46656096bc4a89cc1bd4693c6a3",
+            "66582000dcc880b5c9a90457f8ccbca2",
+            "9dc73a29b8efca3eb2326a4a9bead676",
+            "7b887eb6b5fb50b4bc222acc7f3ddf3f",
+            "8a4087bff3423be00d595e72db850648",
+            "5ae4b28e458ff7d7f9a676da577ed437",
+            "c81f9a43fd009c16a2ae44820905bc1a",
+            "838e1d041404b64ab59ccb5483706610",
+            "f706b1d69a4b48b0e3cca67c57cdb263",
+            "4e407ca6f0487b5ac2bbff6764ffc190",
+            "8190de7a0a0809f32d83c567b188db4b",
+            "6dbf802ade0929584b52ab1ad22717bf",
+            "8eb561084c64c3398ece966ab2595358",
+            "fe97e19130e4d5c51fc52e4ad244885b",
+            "7bbb435ed31488b25ed7750e2bd66d34",
+            "c4c25507d922ca415a9ad01232cf09e3",
+            "e7e8a0876958289e1b20d90d794d905f",
+            "5577789c934c796f531b28e4f6443cf0",
+            "24c0adf211223df54251a320857b028b",
+            "5dd6b91d85904b658a3e266e59020f44",
+            "41cbd009a22acfa1debae896a4839d25",
+            "0cf9af576767c42481750696ad711738",
+            "ecf809a082760bcf4880f625ad28abb2",
+            "6ff9a1741fe545b1ebafbcf3da479b10",
+            "bc472d5789180825a0776ab8353bfc4a",
+            "c3566b9bfd52330714edd65b9a14cb83",
+            "ecf24b78c84d7694e9737d6335a6e515",
+            "0032c990945d2e7f4e7c2d3fe690240b",
+            "3981856cb4034c61f5fb617372ff6937",
+            "081af93195a2a12b80e4ee075e1deab7",
+            "4726c797df661cfe4546a0e26f8e6d32",
+            "e99116da90e135a2f58ea91392e32d13",
+            "0ff6533592d760544b2493294e97e366",
+            "a17c9c9eca667c7f5d1093906cc72066",
+            "3efedad1793278d027c1cc1bc254b2c4",
+            "8c0fcdfd7fa724e66851fab6d96d09f4",
+            "07af6126b1d497e620f26ab2ab7a95d2",
+            "c6ba05f950f1fcb42a191e094c123e56",
+            "651f70458f787da5e13243a7d2b0ddf2",
+            "d4e6fed5354d60701921be77b5302e4c",
+            "7502fd0809eceee042242315629cb696",
+            "32da29d7f465521f28ccedc60d6f8158",
+            "39bdeeb812b10df310fb5f84a41989e3",
+            "0f24e74e2416576a88c9109c641727b5",
+            "dd1f982074e4ad452ad962f2e9530955",
+            "ecf8f5a770e8352d112d474f966559ba",
+            "991f838585597ec9e2cdba32510d7f3d",
+            "5f50023b473aafabda7fdd6eda198dbd",
+            "2193ae01d92cf6bd7a55d82113ec6cd1",
+            "8bae5eef4e488fdb9c9ef798d7bad7a9",
+            "8308b12fc8351ff375153bd52a6c4824",
+            "e98fed1395a076f1ff4f66ed50561441",
+            "44f35f8efd23e77d2ba71086c510ad9c",
+            "2965328e2ef388b978027aed45513940",
+            "f2fa061615f5fbac85134df7837f9dfe",
+            "684b2458f449616533b87147d155428c",
+            "50a470c853dd464eb819ca89eb933de1",
+            "2a7ab339ce395185d5c94c55ffc0ec98",
+            "80ec585e82f4af17941f8c86737cb05b",
+            "2591600def6611283c4480097063567c",
+            "21d2b6467b152dc2423aab1eac8ced19",
+            "246c4b4b024b05bd92088eea6772ba01",
+            "f0fe41926b29ba8326d9c3cbd457d382",
+            "590f0d1ad5b9b774a3bfa9513a598a5b",
+            "dc40763cd5222ee40c28f755af620216",
+            "eeaef18500b51f9e162a6b31330b49da",
+            "3a29fb6f96a24ede8761f122921234ec",
+            "2444630fbda1514a65216044eef08264",
+            "45da459abdd2e6c4be149f937277b103",
+            "c41687590c0929e9945e1a7b21a8e364",
+            "053e43fbcdb815d3ce9bb6b7194bc6d8"
+        ],
+        "nstds": 89,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ]
+        ],
+        "joining": [
+            "N300005102",
+            "N330014102",
+            "N340093102",
+            "N300055102"
+        ],
+        "conflicting": [
+            "N330057102"
+        ]
+    },
+    "N340003102": {
+        "STADS_ID": "N340003101",
+        "NAT_code": "DM840",
+        "title": "Algoritmer i kemoinformatik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340003102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "e9a8f4efde040f91e31b5293f9cc36fa",
+            "fba76701c83ada0dff3dd07275629a06",
+            "55a84f83e79c2cd6b808e7bf5039cb88",
+            "ff0298e9fe4baf3cad83b2c4c06845c8",
+            "386051b31a1351a2a045a1755a32e820",
+            "4aed492dcb17b4eea2df87975b6f592d",
+            "e75cfb6dc1604931a4b18e2e9da4ce21",
+            "2d8eb7e9a25f821e58d2f51d546e0163",
+            "6bce356ecf7de78fdf9aa48528cb304a",
+            "8a9b295c4ccd40419419631946c511d9",
+            "24e44c1fa082530c13604ec777aee825",
+            "a95b77bf2b43e1ee6b1b29aa32cf47d6",
+            "1ce032597f4df0856f0f1a8e64de17be",
+            "8224957bb3e8ae02bb2acfc7017e000f",
+            "4c1c2f68aca69671c07afa87d02fc190"
+        ],
+        "nstds": 15,
+        "rdays": 1
+    },
+    "N340004102": {
+        "STADS_ID": "N340004101",
+        "NAT_code": "DM847",
+        "title": "Introduktion til bioinformatik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340004102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2868b2f94c5822914b70fc6ee6e0a7a7",
+            "cdc33a505747601bdfce1337997676c3",
+            "8ebb1556e4d2a80b11bb54011cb00f54",
+            "9cd456c102c8599fd782f5db147f3da2",
+            "cf35b3f778e60f19b0a7c9c23523e5b2",
+            "719d996318635ad96ca493e0c6da7218",
+            "02087566799bca70fb6105161b3bfd15",
+            "2677d4599016f1c45d1de4f1f56c6c1e",
+            "56254eafe63a2f99b3d0819345621701",
+            "1d1e224c0692f5dd3f81007d3fc8052c",
+            "085e411018a89c13ba38d768a06adbb6",
+            "b1b04f5dd80b98d701c7af31adfa9e11",
+            "a4e440b0026ef9b6f27458ae560bac42",
+            "a4b939ae081259ec6fce80bcaf2fb82b",
+            "b8661fce5a670d58868c9ca414322908",
+            "d43d74a12d2056fbb5052c4b6c7b8baa",
+            "ab136492e674ecab1bae28c150c2f252",
+            "16e43a5fbcfea0ccbf0df90fd04660b9",
+            "da9f6b0dd31cca500f8ddf4684cc3d7b",
+            "d0966224ea95313af8e0582bdfe6a089",
+            "edc69771017b4e261703bed947812955",
+            "0db12b05d5ad3369ee5bab553481a96a",
+            "a3e70bea6c80c1a34d1fdee556f69dba",
+            "f81356ca1b40f5fcb9a32bb7d75a7ea9",
+            "33599d25e7a82dfda6d7224491ea7a53"
+        ],
+        "nstds": 25,
+        "rdays": 2,
+        "available": [
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N300011102"
+        ],
+        "conflicting": []
+    },
+    "N340016102": {
+        "STADS_ID": "N340016101",
+        "NAT_code": "SPDM801",
+        "title": "SPDM801: Speciale i datalogi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340016102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "11aa23c7aabdead4cd148c42cdbd1e06",
+            "510fb5fb36f6e1ebf9e8762775ed9f32",
+            "75ec29792fda8223f879a5348b574ae8",
+            "28d55e8f7b224b2d76573586e04373f5",
+            "2c6c4d316066c73f7e72b2c71e928298"
+        ],
+        "nstds": 5,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N340017102": {
+        "STADS_ID": "N340017101",
+        "NAT_code": "SPDM800",
+        "title": "SPDM800: Speciale i datalogi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340017102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "3391184e1957005ed64c5e7f62783118"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N340018102": {
+        "STADS_ID": "N340018101",
+        "NAT_code": "SPDM802",
+        "title": "SPDM802: Speciale i datalogi",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340018102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N340031102": {
+        "STADS_ID": "N340031101",
+        "NAT_code": "DM873",
+        "title": "Deep Learning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340031102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2e16c8b8f53559adabddd7264dc2ac6d",
+            "cefeff35fe0af93291babd7a54fa3673",
+            "0f40b8d035e82f67bb88681941ef2728",
+            "2a9aaf7219b84e4e496a7c0d0fe161f3",
+            "e8a214ba5848bcc6c288ec2de09e902b",
+            "28d55e8f7b224b2d76573586e04373f5",
+            "23322c4aad24bdcb1f29c482464c1dcc",
+            "fba76701c83ada0dff3dd07275629a06",
+            "657d7b11a302a9b4913d5b86b8db510d",
+            "f01a50329cd23689615faa5c2d127208",
+            "b35ece0c99916e45cdfe52953e3904b5",
+            "a95fbfc37b221816f4b208591da74f30",
+            "c5dec6ab38f01e851da4483b86143f7b",
+            "2ab47a41909f29dee8f1f6e8b8f799ec",
+            "36960d282291d0a6cd655286acc12383",
+            "898b2d3ebfe3cc13a3de5984f4623653",
+            "3c218d1acc647d550b64b6f34dc726ec",
+            "4acb54924e94d4f33cbd0ab5b64a33d7",
+            "1a5e08d7cf21de7885fdc99f252dc824",
+            "4496612a0c92f156555b31843329b539",
+            "2609f77409c50e2a2f618c0656284361",
+            "abbc96f18742e3ad316875d6b3d2c2e0",
+            "8b61a9b6516f788dc884b98b649a7376"
+        ],
+        "nstds": 23,
+        "rdays": 2,
+        "forbidden": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ]
+        ],
+        "joining": [
+            "N340074102",
+            "N340117102"
+        ]
+    },
+    "N340035102": {
+        "STADS_ID": "N340035101",
+        "NAT_code": "DM860",
+        "title": "Online algoritmer",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340035102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "165c8bd69a522101125e39efa16cd5fa",
+            "db635b70242993cd94c8bfab0fc6e266",
+            "ff99a455c4b3f62fd62b1d4de6ce1339",
+            "1c662c63abbea1d2fd62c468fdc5bade",
+            "8493359b9babb657cbf545ee2d0e4000",
+            "12046e25ae5ec2d7cb7eb8faf8224bd0",
+            "fba76701c83ada0dff3dd07275629a06",
+            "d612373881d5b14bd25b68d8555fdce3",
+            "a369e6af683a5dc3daca7d441f57d2c8",
+            "55a84f83e79c2cd6b808e7bf5039cb88",
+            "ff0298e9fe4baf3cad83b2c4c06845c8",
+            "386051b31a1351a2a045a1755a32e820",
+            "36960d282291d0a6cd655286acc12383",
+            "8d4c386379c31b68269f8cf8c74904fe",
+            "ff55354a6df47a372e290dc01ed508d3",
+            "0a89c83f536529e05b4081663002f4c3",
+            "68b4b0bc07005ec11d6f7478ee4eca49",
+            "4aed492dcb17b4eea2df87975b6f592d",
+            "e75cfb6dc1604931a4b18e2e9da4ce21",
+            "eac6ae8e2007e07539dff8752b2579c3",
+            "58c8f208a20916f8532d31562f4e55a3",
+            "2d8eb7e9a25f821e58d2f51d546e0163",
+            "24e44c1fa082530c13604ec777aee825",
+            "172fb5ddb094f46f766a0a71a347dadc"
+        ],
+        "nstds": 24,
+        "rdays": 2
+    },
+    "N340047102": {
+        "STADS_ID": "N340047101",
+        "NAT_code": "DS802",
+        "title": "IT-sikkerhed, IT-etik og privathed",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340047102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "71a23e687cfcd83dd78b2c60bfe5802a",
+            "d2ad9b192f6288f14186c8b160a28ea6",
+            "a71eda5ddc706616b68a243d68cbaa6a",
+            "f3e3204166d42ea76bea7d9bfae7d291",
+            "7a9c9671040d84ddce412b951c818dc9",
+            "e827614408a1c74b83ce0c1c2ef1e919",
+            "4710924d511403aaa09367e0825f023c",
+            "a3ddf9a5e51b287b3b530838067f5579",
+            "2f16e911694da2c70716cee7d40cbe4a",
+            "2166c7286c74c927997257a1dc012a63",
+            "37046628e3fc2325368b56cbc0e1df4a",
+            "8c27f6f14c26686dd5510e8b2260e25b",
+            "93001ed4d2a591b567ddba29aec7f489",
+            "f8b1e66bd689e08c517220da5aea1709",
+            "0777f4ebcc7466b57ee05bb68705b2b8",
+            "8a34922df188221f2f55c0414e9b2f71",
+            "79fb6c49344f0d1c87a22399de12159a",
+            "4aa25af6a8b87e6b9ab6acc5e3d7cbcf",
+            "d1497c2fc36987c7fb7303457c94284a",
+            "b0d07c27800eb7f849ccc08e83341b77",
+            "6bee2c0079e9f3f4367f1b8ed65f5975",
+            "2404c52bd8012322fd07549d663fae11",
+            "5d2ecda01d486400b313953fcbbc0059",
+            "518560f6f97964417a6208e93215c211",
+            "e8a214ba5848bcc6c288ec2de09e902b",
+            "e6c0d612e812e38aaadc2f190d54e39e",
+            "8db2cb4b9c7ea6503b43c04be7472bff",
+            "481f7561d792de01fdd832cfb39dc8f7",
+            "838f004eed356a4bb2de5663cad31924",
+            "a66dc2c30a687c636cafd3ffe3d69b06",
+            "580245df793efbf2aa6c540801496d94",
+            "5c2705ef2b7a70e1ebc234950919d4a2",
+            "9d090b210ad0c7e3aa61941e1947070e",
+            "3c922f0247d4ca8318e3d507c6849d1a",
+            "e2ff6378d2d053a4de4bd26732695699",
+            "847b6278ffd9474ebe05baabbef21be6",
+            "a6ad964119c9f20b7d3cf2b2266ad484",
+            "77fc1ff055998dc36d6f41c29a7b41c4",
+            "99a4b5805fb7f4131b2d1c1857f4f9a3",
+            "055b137e9813f806be1f798c605f9cb3",
+            "3a0c0a40c9a4b9c63acfe882f6ad876f",
+            "c0a9c4fd3fb5b8d8320fca2a1330eae4",
+            "bfe3270b3d5caa66e1224aa7249a7da5",
+            "975d7cfad9b2cbca7d2f3f3ede0e4a46",
+            "7c29065239ac05c16cbb1f4ca3f883d8",
+            "11972e014a8462f93f204c2393605676",
+            "56776a3296f9a7e68d8753d38389e7f8",
+            "583d748075eeb8d74fd7be543a468f5e",
+            "6807606fc19a9f821b93467d5615f554",
+            "9f8702509cf6ee3bbb3f12fea6ae1e50",
+            "4acb54924e94d4f33cbd0ab5b64a33d7",
+            "423ae8bf596e5c33d3571baf4c34ff5e",
+            "6993c992b29ca3f2a05bc99830014342",
+            "4496612a0c92f156555b31843329b539",
+            "b2fb687cdfa0b4051d5db23ff1141120",
+            "8f4672670515782dcd81cd4b655e553b",
+            "e25c964cc6f5dc314b27d913be2f5de1",
+            "1d03caa64d5000257d9d53fe3849f76b",
+            "7f1ee48aed899d60beb201eef9795982",
+            "a7316e9e539ac56c6564cd0839e36931",
+            "745b780fb11fa379409f1d3362e80b92",
+            "09db52f900f2697a508b8bd4e468d40f",
+            "f1c0ca994efaebbb1c420e5fe7fdefeb",
+            "e99968e6ffb5d0d17c770cd837e17b0e",
+            "35f0a87dcfc07b01c64b69c6adaf83f2",
+            "4e2ba0b7c25457641bc20b55cd16e9d6",
+            "dde02881e7b95094a967d8c285c0885a",
+            "eec3468625576c816671a56adf71709e",
+            "29669ea60631db68dc16056a5fb993f1",
+            "07720ca15826626822989648d2448d69",
+            "ac1f7225b5053d18863890acc46abd0d",
+            "a625b8395c39b450e29014fa148e30f8",
+            "dc75744d96bb9accfa977200c30cf236",
+            "c95e6ae0c54a33939e4a785a0edf7821",
+            "98b83d2507989dbdf39e5692db05177a",
+            "67139fa2d6fe84eeb98a744016b5f8a8",
+            "24ab17dd37d80630ca16cc50e86e9a8e",
+            "e6f75bc5f4f0ea41a2d74890fd8c1d5c",
+            "87e38d672a9c557ed3991f5cf69a5658",
+            "942ae73dfae388e4e9b59eb81eae959c",
+            "da53ab46d1e3f967919f0aafe431567f",
+            "85efe8931ab3c85fc7cf82c3352ca421",
+            "6cbca884fd4e1568e925b58ace83aae6",
+            "114d1ecbd78b3a4ffc0a04c2fac09513",
+            "e97d6ecec7de76c4f65f01051c65911f",
+            "030548b24a7877f2d4c79ff6fb426712",
+            "283e7dd7ca2b142218f756efb54764a9",
+            "8a6f42f2c99aa827e3b57db58aa799d0",
+            "3ea16deeba01d4d32591a7e1b08a369d",
+            "60c646218bd130812da2370431219df9",
+            "47147ba20bd392e120310e36744b1e0c",
+            "292b13da4e5481820706333b34d0cfa7",
+            "741f9d7fe6c8fffba867e97aa2d9a4bf",
+            "553e270bfced111cfb6769f66d31df4a",
+            "9caca2b17b56d63fcfcf1c6a1e8ccdc5"
+        ],
+        "nstds": 95,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N340081102"
+        ]
+    },
+    "N340052102": {
+        "STADS_ID": "N340052101",
+        "NAT_code": "SPDM803",
+        "title": "SPDM803: Kandidatspeciale i datalogi for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340052102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N340054102": {
+        "STADS_ID": "N340054101",
+        "NAT_code": "DS810",
+        "title": "Data Driven Decision Making",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340054102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "29/1",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "c603c87e34fee9ae74d4b6e0553e386c",
+            "dbf60330664c84678d1fe008e8f17284",
+            "ea2cf6feabb6d463e90a5f55f97ab2f7",
+            "dbd1074f0626441caf5e76ce341b63ce",
+            "74dcceca5eb7720fb0c05f80e622845b",
+            "0fbc5ab9158c5c180606b5d184eb1657",
+            "e19845c6c74c162c33c8e2c56bb30f43",
+            "8a34922df188221f2f55c0414e9b2f71",
+            "9160f1eacafd4e5a0ab6194d2694f04e",
+            "cbb7aac9ab8698c9393f0e2aad179ec0",
+            "433b2b48721052287f636d2dc6678c04",
+            "00d281f489ffbae59ae0e397299323b9",
+            "233cc2842c0bc6186d969be5a52f08a0",
+            "86732b0b3092c8d8f411c9ed6dadf6fc",
+            "8cad2b3acf6ebbefdf9b4fdd079c5c03",
+            "2dc0b4c83cc5bb9a12791e6526a1fc05",
+            "399d7761093caf9bfc2497ca74cb1501",
+            "06d845e623863a1115615202bb1ad740",
+            "517fa55badbddaff332e0e2f692a3cfe",
+            "c8a59503ee92a4c363bb69640af9864a",
+            "f30d21fd7c6087440c8b817c6d855d4a",
+            "02141f6fe93c1b380178ba9ceda2fa0a",
+            "3a0c0ba94ddb3cefcc14bebdf86e6540",
+            "f92e240e0fbae1a47d8dfd4a3e6dbd3c",
+            "6d5238fefbdcbd9cf3738f7f05807fac",
+            "15388b39bee04ae09a0cb62bb5d01157",
+            "03237bfb0ddf7e44e85cf870a119055a",
+            "3fc2c6ab7037feb8e7f65c3e87c545f7",
+            "df03ee8c95709eb20a6cf3bc888fa0cc",
+            "5eeceed5032f517c51969dde3b8a9417",
+            "701cbc014fe91c5b2f296fd03598389f",
+            "a2cfdd2893bd06d644de9650ae9ee7ec",
+            "94569280a5bdb07762b18a3a386af5a4"
+        ],
+        "nstds": 33,
+        "rdays": 1,
+        "schedule": [
+            [
+                29,
+                "2024-01-29"
+            ]
+        ],
+        "conflicting": [
+            "N340103102",
+            "N340055102",
+            "N300005102"
+        ]
+    },
+    "N340055102": {
+        "STADS_ID": "N340055101",
+        "NAT_code": "DS811",
+        "title": "Introduktion til sundhedsdata",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340055102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "ed29314a08d45440b1ea8e2d034ec482",
+            "c603c87e34fee9ae74d4b6e0553e386c",
+            "980cb9d41f97b051686d30456fa65926",
+            "9e9d87ba8650f66400d8d309508ca24c",
+            "9b2f1457f6b10071e62cfcdd1856f7c6",
+            "14a7ec23a8d0e4bcf8d81d0e8ac413c1",
+            "9488b422a48922b20e39f156f0a7129c",
+            "d218410f0369cb7f8d6146b6c8ece680",
+            "c0a9c4fd3fb5b8d8320fca2a1330eae4",
+            "3093ed11d8e5ac7cb4d24d796793ed27",
+            "3393780f7972af72f57f52e194b4676d",
+            "43e3729f79deb75181fe0a0ac14a4565",
+            "ccfab1a9668dcfa9be5d120440285f22",
+            "947f723ed265c05751bd4c125dbf5731",
+            "892482c1f06eb7cfcd4b9b82529fa961",
+            "77c2c03ee2298ed89c5a01000fc0beb9",
+            "d052a23f0c7ddbac3edb9b0a23f83b48",
+            "4a171ab30e417a0f9b27491545359c92",
+            "3c64850d21f86c34144513b54b6782a5",
+            "eb687c6dd99f53ebcc6b9782e72785b5",
+            "3a4258db110e708c708d6bedeb0961e7",
+            "0388b74753071c4a26978e72162d8e31",
+            "19517c1d6e6ff136c037f613ea3f9eec",
+            "197e6b2be641b905108f09ca2d686fe3",
+            "737dcf960cf6226eefb38396011c772f",
+            "0214a89d912bd4c8f31d5c667c82fe6c",
+            "85243a6e2c4a64b6ac72779e8e8abebb",
+            "3b839f49abba416358b6e667fe63c988",
+            "877af8211166a1905ea43a18b625f566",
+            "296b0757d6c2b1a6e2e51a13908832fa",
+            "6009c2bf257d4be71c18c0199373143c",
+            "ccf39226e7824049dc9bb9021d72dcb2",
+            "0dcad9072cd1ae7703e97beed404d2e4",
+            "27e6345b51e57820ee027fb2dc7367f4",
+            "461f90ecf9320668b28ca36d222b7823",
+            "5b04fbe7e9470a7034e78b926ba1b39a",
+            "03dfd21d4a4aacfda9d5e6f7fd68e1ab"
+        ],
+        "nstds": 37,
+        "rdays": 3,
+        "conflicting": [
+            "N340054102",
+            "N340103102",
+            "N300005102",
+            "N340093102",
+            "N340100102"
+        ]
+    },
+    "N340068102": {
+        "STADS_ID": "N340068101",
+        "NAT_code": "DS817",
+        "title": "Algorithms we live by",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340068102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ]
+    },
+    "N340072102": {
+        "STADS_ID": "N340072101",
+        "NAT_code": "DM878",
+        "title": "Visualisering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340072102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "f1f8ac8536e6da35040b1ad118e72572",
+            "28d55e8f7b224b2d76573586e04373f5",
+            "b35ece0c99916e45cdfe52953e3904b5",
+            "87654d90fab001cd08d1bea70034cdd9"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "joining": [
+            "N340081102"
+        ]
+    },
+    "N340074102": {
+        "STADS_ID": "N340074101",
+        "NAT_code": "DS809",
+        "title": "Deep Learning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340074102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2f16e911694da2c70716cee7d40cbe4a",
+            "f457b4088d698986931d3fe00ab21b8a",
+            "0007ff4864853f0dca1a79930ff1ce0e",
+            "838f004eed356a4bb2de5663cad31924",
+            "5c2705ef2b7a70e1ebc234950919d4a2",
+            "3c922f0247d4ca8318e3d507c6849d1a",
+            "99a4b5805fb7f4131b2d1c1857f4f9a3",
+            "782e19b496dc16b11591d1627d8008a9",
+            "14f3ad646f75777b41589b95feaa7b85",
+            "6807606fc19a9f821b93467d5615f554",
+            "423ae8bf596e5c33d3571baf4c34ff5e",
+            "b2fb687cdfa0b4051d5db23ff1141120",
+            "a7316e9e539ac56c6564cd0839e36931",
+            "09db52f900f2697a508b8bd4e468d40f",
+            "eec3468625576c816671a56adf71709e",
+            "07720ca15826626822989648d2448d69",
+            "c95e6ae0c54a33939e4a785a0edf7821",
+            "98b83d2507989dbdf39e5692db05177a",
+            "6cbca884fd4e1568e925b58ace83aae6",
+            "47147ba20bd392e120310e36744b1e0c"
+        ],
+        "nstds": 20,
+        "rdays": 2,
+        "forbidden": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ]
+        ],
+        "joining": [
+            "N340031102",
+            "N340117102"
+        ]
+    },
+    "N340079102": {
+        "STADS_ID": "N340079101",
+        "NAT_code": "DS824",
+        "title": "Fra Data til Evidens",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340079102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "0007ff4864853f0dca1a79930ff1ce0e",
+            "77fc1ff055998dc36d6f41c29a7b41c4",
+            "6807606fc19a9f821b93467d5615f554",
+            "b2fb687cdfa0b4051d5db23ff1141120",
+            "1d03caa64d5000257d9d53fe3849f76b",
+            "09db52f900f2697a508b8bd4e468d40f",
+            "4e2ba0b7c25457641bc20b55cd16e9d6",
+            "29669ea60631db68dc16056a5fb993f1",
+            "a625b8395c39b450e29014fa148e30f8",
+            "87e38d672a9c557ed3991f5cf69a5658",
+            "60c646218bd130812da2370431219df9",
+            "292b13da4e5481820706333b34d0cfa7",
+            "d049c1ecdb8330358d0d860b79d4de04"
+        ],
+        "nstds": 13,
+        "rdays": 1
+    },
+    "N340081102": {
+        "STADS_ID": "N340081101",
+        "NAT_code": "DS808",
+        "title": "Visualisering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340081102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "71a23e687cfcd83dd78b2c60bfe5802a",
+            "d2ad9b192f6288f14186c8b160a28ea6",
+            "9e70a922b17af577808536db57236f05",
+            "a71eda5ddc706616b68a243d68cbaa6a",
+            "f3e3204166d42ea76bea7d9bfae7d291",
+            "7a9c9671040d84ddce412b951c818dc9",
+            "e827614408a1c74b83ce0c1c2ef1e919",
+            "4710924d511403aaa09367e0825f023c",
+            "a3ddf9a5e51b287b3b530838067f5579",
+            "2f16e911694da2c70716cee7d40cbe4a",
+            "8c27f6f14c26686dd5510e8b2260e25b",
+            "93001ed4d2a591b567ddba29aec7f489",
+            "f8b1e66bd689e08c517220da5aea1709",
+            "e442e2964f6792f549e917a0b4026d1f",
+            "0777f4ebcc7466b57ee05bb68705b2b8",
+            "8a34922df188221f2f55c0414e9b2f71",
+            "4aa25af6a8b87e6b9ab6acc5e3d7cbcf",
+            "d1497c2fc36987c7fb7303457c94284a",
+            "b0d07c27800eb7f849ccc08e83341b77",
+            "2404c52bd8012322fd07549d663fae11",
+            "5d2ecda01d486400b313953fcbbc0059",
+            "518560f6f97964417a6208e93215c211",
+            "e8a214ba5848bcc6c288ec2de09e902b",
+            "e6c0d612e812e38aaadc2f190d54e39e",
+            "8db2cb4b9c7ea6503b43c04be7472bff",
+            "481f7561d792de01fdd832cfb39dc8f7",
+            "838f004eed356a4bb2de5663cad31924",
+            "a66dc2c30a687c636cafd3ffe3d69b06",
+            "580245df793efbf2aa6c540801496d94",
+            "5c2705ef2b7a70e1ebc234950919d4a2",
+            "9d090b210ad0c7e3aa61941e1947070e",
+            "3c922f0247d4ca8318e3d507c6849d1a",
+            "e2ff6378d2d053a4de4bd26732695699",
+            "847b6278ffd9474ebe05baabbef21be6",
+            "a6ad964119c9f20b7d3cf2b2266ad484",
+            "77fc1ff055998dc36d6f41c29a7b41c4",
+            "99a4b5805fb7f4131b2d1c1857f4f9a3",
+            "055b137e9813f806be1f798c605f9cb3",
+            "3a0c0a40c9a4b9c63acfe882f6ad876f",
+            "782e19b496dc16b11591d1627d8008a9",
+            "bfe3270b3d5caa66e1224aa7249a7da5",
+            "7c29065239ac05c16cbb1f4ca3f883d8",
+            "11972e014a8462f93f204c2393605676",
+            "56776a3296f9a7e68d8753d38389e7f8",
+            "583d748075eeb8d74fd7be543a468f5e",
+            "6807606fc19a9f821b93467d5615f554",
+            "9f8702509cf6ee3bbb3f12fea6ae1e50",
+            "4acb54924e94d4f33cbd0ab5b64a33d7",
+            "423ae8bf596e5c33d3571baf4c34ff5e",
+            "6993c992b29ca3f2a05bc99830014342",
+            "4496612a0c92f156555b31843329b539",
+            "b2fb687cdfa0b4051d5db23ff1141120",
+            "8f4672670515782dcd81cd4b655e553b",
+            "e25c964cc6f5dc314b27d913be2f5de1",
+            "1d03caa64d5000257d9d53fe3849f76b",
+            "7f1ee48aed899d60beb201eef9795982",
+            "a7316e9e539ac56c6564cd0839e36931",
+            "745b780fb11fa379409f1d3362e80b92",
+            "09db52f900f2697a508b8bd4e468d40f",
+            "f1c0ca994efaebbb1c420e5fe7fdefeb",
+            "e99968e6ffb5d0d17c770cd837e17b0e",
+            "35f0a87dcfc07b01c64b69c6adaf83f2",
+            "4e2ba0b7c25457641bc20b55cd16e9d6",
+            "dde02881e7b95094a967d8c285c0885a",
+            "eec3468625576c816671a56adf71709e",
+            "29669ea60631db68dc16056a5fb993f1",
+            "07720ca15826626822989648d2448d69",
+            "ac1f7225b5053d18863890acc46abd0d",
+            "a625b8395c39b450e29014fa148e30f8",
+            "dc75744d96bb9accfa977200c30cf236",
+            "c95e6ae0c54a33939e4a785a0edf7821",
+            "98b83d2507989dbdf39e5692db05177a",
+            "67139fa2d6fe84eeb98a744016b5f8a8",
+            "24ab17dd37d80630ca16cc50e86e9a8e",
+            "e6f75bc5f4f0ea41a2d74890fd8c1d5c",
+            "87e38d672a9c557ed3991f5cf69a5658",
+            "942ae73dfae388e4e9b59eb81eae959c",
+            "da53ab46d1e3f967919f0aafe431567f",
+            "85efe8931ab3c85fc7cf82c3352ca421",
+            "6cbca884fd4e1568e925b58ace83aae6",
+            "114d1ecbd78b3a4ffc0a04c2fac09513",
+            "e97d6ecec7de76c4f65f01051c65911f",
+            "030548b24a7877f2d4c79ff6fb426712",
+            "283e7dd7ca2b142218f756efb54764a9",
+            "9f1e173eae1b89607c9ecaeda7868b59",
+            "8a6f42f2c99aa827e3b57db58aa799d0",
+            "3ea16deeba01d4d32591a7e1b08a369d",
+            "60c646218bd130812da2370431219df9",
+            "47147ba20bd392e120310e36744b1e0c",
+            "292b13da4e5481820706333b34d0cfa7",
+            "741f9d7fe6c8fffba867e97aa2d9a4bf",
+            "a33ddad661141a08874dc590d8d66809"
+        ],
+        "nstds": 92,
+        "rdays": 6,
+        "joining": [
+            "N340072102"
+        ],
+        "conflicting": [
+            "N340047102"
+        ]
+    },
+    "N340092102": {
+        "STADS_ID": "N340092101",
+        "NAT_code": "SPDS800",
+        "title": "SPDS800: Speciale i Data Science",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340092102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "imada",
+        "students": [
+            "d373db0a86c28069f7cb7b3d39307a82",
+            "ebd7a42fd1fefb2447e82fea92228997",
+            "4710924d511403aaa09367e0825f023c",
+            "2d24c9256bcf3717c55a39df4a91edd4",
+            "37046628e3fc2325368b56cbc0e1df4a",
+            "222712a48310e5268f4aa8f7f87f2fcf",
+            "da77c64ce3581a69451d82c585a0f3cf",
+            "1feb9b0bce9c1ce71341e85f84b58112",
+            "692b9964e5dede7385270e530adf2f9a",
+            "ba19eb699d366a9611417b76238d3060",
+            "8da9e551f22136bb0b4fbcea92c987d4",
+            "fc55deb8a72a62eecfc5dcc49139abdc",
+            "4d5a7ce4ef2cfebe7105d5df1383c8d8",
+            "11972e014a8462f93f204c2393605676"
+        ],
+        "nstds": 14,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N340093102": {
+        "STADS_ID": "N340093101",
+        "NAT_code": "DS820",
+        "title": "Diskrete metoder for Data Science",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340093102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "eb892e046dd0106343ba668db53314e9",
+            "53615918d427657abb0268f3858c5910",
+            "b3b9c640f81d4675181e76fd043f1f59",
+            "a1dddc71e41c6bcbd2fa085b3c23f2a3",
+            "a55d88d575ac550600966f12288c34a2",
+            "e2b094ac256fab663393c8d3309c82db",
+            "06cd3a61f89a19c9bf4cbfc714695754",
+            "0a21676a5c7542034496b68d28c24d70",
+            "e6c0d612e812e38aaadc2f190d54e39e",
+            "1d0071f8fe788d00e42e588d6e552ce1",
+            "601f99d12708467bf4c4a723208b3965",
+            "28dcdaeaeb3422b785c3ea0068876832",
+            "5a710d765d22966e8a5b5104c7b79578",
+            "febf1a9a38735acb8794153a3a06c86b",
+            "bfda52b0b10f455fbf6cd6e456d72cdc",
+            "17e9290da144954fe861c7153515f17b",
+            "8da9e551f22136bb0b4fbcea92c987d4",
+            "ef8ca07fdc4819403aa493db76301f42",
+            "4a31c74048522ab79d1cac122447d205",
+            "3856568ec6ccd8c51e78751a43da18b7",
+            "2bf04b805a8801f32d5413bc0e68ccff",
+            "e30b09a7d68d129a017184fc4ea55b75",
+            "4fe843468cfc45acc4cb4caa8f8fa357",
+            "7e5a80fb0636c98d56ac72c2a46b48f4",
+            "6134865fb4a0d73868def7a042787049",
+            "f187754ccb06895ea0dcc25b08099464",
+            "12fe105318bb1aef8d3d2929c7f66a26",
+            "c21160f3524e89005348dbfc2d9f2061",
+            "11cf1ee2204aca545acaabc60415f595",
+            "c36404ee536dfce6b49364fcd589b86e",
+            "7fc432d5d387f4ed472559b66116541d",
+            "e12ecfb1d8f683313ec88e1ab6bd6d95"
+        ],
+        "nstds": 32,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ]
+        ],
+        "joining": [
+            "N300005102",
+            "N330014102",
+            "N330079102",
+            "N300055102"
+        ],
+        "conflicting": [
+            "N340100102",
+            "N340055102"
+        ]
+    },
+    "N340100102": {
+        "STADS_ID": "N340100101",
+        "NAT_code": "DS830",
+        "title": "Introduktion til programmering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340100102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "eb892e046dd0106343ba668db53314e9",
+            "53615918d427657abb0268f3858c5910",
+            "b3b9c640f81d4675181e76fd043f1f59",
+            "a1dddc71e41c6bcbd2fa085b3c23f2a3",
+            "a55d88d575ac550600966f12288c34a2",
+            "e2b094ac256fab663393c8d3309c82db",
+            "06cd3a61f89a19c9bf4cbfc714695754",
+            "0a21676a5c7542034496b68d28c24d70",
+            "1d0071f8fe788d00e42e588d6e552ce1",
+            "601f99d12708467bf4c4a723208b3965",
+            "28dcdaeaeb3422b785c3ea0068876832",
+            "5a710d765d22966e8a5b5104c7b79578",
+            "febf1a9a38735acb8794153a3a06c86b",
+            "bfda52b0b10f455fbf6cd6e456d72cdc",
+            "17e9290da144954fe861c7153515f17b",
+            "ef8ca07fdc4819403aa493db76301f42",
+            "7f1ee48aed899d60beb201eef9795982",
+            "4a31c74048522ab79d1cac122447d205",
+            "3856568ec6ccd8c51e78751a43da18b7",
+            "2bf04b805a8801f32d5413bc0e68ccff",
+            "e30b09a7d68d129a017184fc4ea55b75",
+            "4fe843468cfc45acc4cb4caa8f8fa357",
+            "7e5a80fb0636c98d56ac72c2a46b48f4",
+            "6134865fb4a0d73868def7a042787049",
+            "f187754ccb06895ea0dcc25b08099464",
+            "12fe105318bb1aef8d3d2929c7f66a26",
+            "c21160f3524e89005348dbfc2d9f2061",
+            "11cf1ee2204aca545acaabc60415f595",
+            "c36404ee536dfce6b49364fcd589b86e",
+            "7fc432d5d387f4ed472559b66116541d",
+            "e12ecfb1d8f683313ec88e1ab6bd6d95"
+        ],
+        "nstds": 31,
+        "rdays": 2,
+        "joining": [
+            "N340105102"
+        ],
+        "conflicting": [
+            "N340093102",
+            "N340055102"
+        ]
+    },
+    "N340103102": {
+        "STADS_ID": "N340103101",
+        "NAT_code": "DS831",
+        "title": "Programmering for Data Science",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340103102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "3d378d955b9ab2f2feb516cc73f52e1f",
+            "ed29314a08d45440b1ea8e2d034ec482",
+            "d2ad9b192f6288f14186c8b160a28ea6",
+            "292c275b951b3426d161a71d9b0110dc",
+            "de6e6896a90caa3a8d0abd05406a4818",
+            "c603c87e34fee9ae74d4b6e0553e386c",
+            "c7e6c8ba0ddaa8024ea07398aef052c8",
+            "dbf60330664c84678d1fe008e8f17284",
+            "78f1aac50e4d5d50eb9c1f5607242c76",
+            "ea2cf6feabb6d463e90a5f55f97ab2f7",
+            "980cb9d41f97b051686d30456fa65926",
+            "9e9d87ba8650f66400d8d309508ca24c",
+            "dbd1074f0626441caf5e76ce341b63ce",
+            "22cd2068790545ff48dbcf09f22ec260",
+            "74dcceca5eb7720fb0c05f80e622845b",
+            "0fbc5ab9158c5c180606b5d184eb1657",
+            "e19845c6c74c162c33c8e2c56bb30f43",
+            "9160f1eacafd4e5a0ab6194d2694f04e",
+            "3681197d169c977c25823da9dd4f5729",
+            "d4d9fb66a439cc7819c2fc3d1afa2332",
+            "cbb7aac9ab8698c9393f0e2aad179ec0",
+            "861d0d80d17233fce9f1dd07648349a0",
+            "d625fd2caefec733dd6e5c9cbd9f2253",
+            "433b2b48721052287f636d2dc6678c04",
+            "4ab26aa65dacbb0b647cc9a4194cfe9b",
+            "00d281f489ffbae59ae0e397299323b9",
+            "233cc2842c0bc6186d969be5a52f08a0",
+            "9b2f1457f6b10071e62cfcdd1856f7c6",
+            "6552bb38b395da8e54f2de0f9d71ecb6",
+            "14a7ec23a8d0e4bcf8d81d0e8ac413c1",
+            "9488b422a48922b20e39f156f0a7129c",
+            "86732b0b3092c8d8f411c9ed6dadf6fc",
+            "59a8f8aa1fe56a4cd353041f573386fa",
+            "8cad2b3acf6ebbefdf9b4fdd079c5c03",
+            "e48df0303e04adf61063b0d5bae57999",
+            "d218410f0369cb7f8d6146b6c8ece680",
+            "2dc0b4c83cc5bb9a12791e6526a1fc05",
+            "399d7761093caf9bfc2497ca74cb1501",
+            "06d845e623863a1115615202bb1ad740",
+            "517fa55badbddaff332e0e2f692a3cfe",
+            "c0a9c4fd3fb5b8d8320fca2a1330eae4",
+            "764656ba8e0819fc05f60faff0970d23",
+            "a7cd72a787e9781720564b2fc0a57e1d",
+            "16369c8819d11e6dc802e108b0398530",
+            "c8a59503ee92a4c363bb69640af9864a",
+            "553e270bfced111cfb6769f66d31df4a",
+            "823a1f5d781caa6c6a28dcca7ca2dfda",
+            "f30d21fd7c6087440c8b817c6d855d4a",
+            "3093ed11d8e5ac7cb4d24d796793ed27",
+            "fba96e3734423215a8101371941e85c9",
+            "f5aabfb03be0dc52d8058986fa789662",
+            "02141f6fe93c1b380178ba9ceda2fa0a",
+            "a9a86b112f6e3c610cec44c16eabe981",
+            "3393780f7972af72f57f52e194b4676d",
+            "43e3729f79deb75181fe0a0ac14a4565",
+            "ccfab1a9668dcfa9be5d120440285f22",
+            "e921f839eca2d81bda5d6440ac463dcd",
+            "43f82fdd6a9e49f764ebc8916ed750f3",
+            "947f723ed265c05751bd4c125dbf5731",
+            "892482c1f06eb7cfcd4b9b82529fa961",
+            "07ffae9832d9e1a17a4d34b928631b20",
+            "77c2c03ee2298ed89c5a01000fc0beb9",
+            "91b77c30861e19806c8d9b34006f8ff4",
+            "d052a23f0c7ddbac3edb9b0a23f83b48",
+            "0f082c0e352ccab933e4560ee25bf3c7",
+            "4a171ab30e417a0f9b27491545359c92",
+            "3c64850d21f86c34144513b54b6782a5",
+            "eb687c6dd99f53ebcc6b9782e72785b5",
+            "3a4258db110e708c708d6bedeb0961e7",
+            "3a0c0ba94ddb3cefcc14bebdf86e6540",
+            "0388b74753071c4a26978e72162d8e31",
+            "f92e240e0fbae1a47d8dfd4a3e6dbd3c",
+            "6d5238fefbdcbd9cf3738f7f05807fac",
+            "19517c1d6e6ff136c037f613ea3f9eec",
+            "197e6b2be641b905108f09ca2d686fe3",
+            "3ba5655e98ecef52aa427139dfd7a405",
+            "737dcf960cf6226eefb38396011c772f",
+            "3d2f0b9844ab09fd1d04706d00441034",
+            "15388b39bee04ae09a0cb62bb5d01157",
+            "7aebb7854654a329ec4773b0c1767224",
+            "0214a89d912bd4c8f31d5c667c82fe6c",
+            "85243a6e2c4a64b6ac72779e8e8abebb",
+            "3b839f49abba416358b6e667fe63c988",
+            "877af8211166a1905ea43a18b625f566",
+            "296b0757d6c2b1a6e2e51a13908832fa",
+            "03237bfb0ddf7e44e85cf870a119055a",
+            "5a0d97ec9e121ffaee3f289c2c887a18",
+            "3fc2c6ab7037feb8e7f65c3e87c545f7",
+            "6009c2bf257d4be71c18c0199373143c",
+            "d093485189de16afe668c3cb19f077dd",
+            "9caca2b17b56d63fcfcf1c6a1e8ccdc5",
+            "9e1fd872e9e85bcdf2ce7506954f3dc1",
+            "5e69f331bcbe575a8791620f988d2342",
+            "ccf39226e7824049dc9bb9021d72dcb2",
+            "df03ee8c95709eb20a6cf3bc888fa0cc",
+            "5eeceed5032f517c51969dde3b8a9417",
+            "701cbc014fe91c5b2f296fd03598389f",
+            "a2cfdd2893bd06d644de9650ae9ee7ec",
+            "338b29dc6b9771d2d29ed7a9d24f6770",
+            "0dcad9072cd1ae7703e97beed404d2e4",
+            "94569280a5bdb07762b18a3a386af5a4",
+            "4beb62bda3033bb4288f8f2199394235",
+            "8673e6cf0b07203e95aa2c9178310e3a",
+            "27e6345b51e57820ee027fb2dc7367f4",
+            "95fed7922c506732a52c1f93a298844a",
+            "461f90ecf9320668b28ca36d222b7823",
+            "42c2ac386a3014c1339252069b21b643",
+            "62d09fb340bdefd936ce92a62bfe94e3",
+            "5b04fbe7e9470a7034e78b926ba1b39a",
+            "03dfd21d4a4aacfda9d5e6f7fd68e1ab",
+            "bb9e1a7c43e6524373cfec4a8df8bdd7"
+        ],
+        "nstds": 111,
+        "rdays": 7,
+        "conflicting": [
+            "N340054102",
+            "N340055102",
+            "N300005102"
+        ]
+    },
+    "N340105102": {
+        "STADS_ID": "N340105101",
+        "NAT_code": "DM857",
+        "title": "Introduktion til programmering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340105102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2868b2f94c5822914b70fc6ee6e0a7a7",
+            "cdc33a505747601bdfce1337997676c3",
+            "8ebb1556e4d2a80b11bb54011cb00f54",
+            "9cd456c102c8599fd782f5db147f3da2",
+            "cf35b3f778e60f19b0a7c9c23523e5b2",
+            "719d996318635ad96ca493e0c6da7218",
+            "02087566799bca70fb6105161b3bfd15",
+            "2677d4599016f1c45d1de4f1f56c6c1e",
+            "56254eafe63a2f99b3d0819345621701",
+            "1d1e224c0692f5dd3f81007d3fc8052c",
+            "085e411018a89c13ba38d768a06adbb6",
+            "b1b04f5dd80b98d701c7af31adfa9e11",
+            "a4e440b0026ef9b6f27458ae560bac42",
+            "b8661fce5a670d58868c9ca414322908",
+            "d43d74a12d2056fbb5052c4b6c7b8baa",
+            "ab136492e674ecab1bae28c150c2f252",
+            "16e43a5fbcfea0ccbf0df90fd04660b9",
+            "da9f6b0dd31cca500f8ddf4684cc3d7b",
+            "1a68e86dc5e6db4fa193f482ef0141c0",
+            "d0966224ea95313af8e0582bdfe6a089",
+            "79a8b5f46c56162ea7c0457bf3edcd3e",
+            "edc69771017b4e261703bed947812955",
+            "0db12b05d5ad3369ee5bab553481a96a",
+            "a3e70bea6c80c1a34d1fdee556f69dba",
+            "f81356ca1b40f5fcb9a32bb7d75a7ea9",
+            "33599d25e7a82dfda6d7224491ea7a53"
+        ],
+        "nstds": 26,
+        "rdays": 2,
+        "joining": [
+            "N340100102"
+        ]
+    },
+    "N340107102": {
+        "STADS_ID": "N340107101",
+        "NAT_code": "DM886",
+        "title": "Cryptographic Engineering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340107102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "f1f8ac8536e6da35040b1ad118e72572",
+            "0f40b8d035e82f67bb88681941ef2728",
+            "0fd68dc09be3338b46838cff15c1618b",
+            "28d55e8f7b224b2d76573586e04373f5",
+            "ff99a455c4b3f62fd62b1d4de6ce1339",
+            "8d4c386379c31b68269f8cf8c74904fe",
+            "0a89c83f536529e05b4081663002f4c3",
+            "eac6ae8e2007e07539dff8752b2579c3",
+            "6bce356ecf7de78fdf9aa48528cb304a",
+            "8a9b295c4ccd40419419631946c511d9",
+            "cb408f27f0d83eb8da035717f5a37321"
+        ],
+        "nstds": 11,
+        "rdays": 1
+    },
+    "N340116102": {
+        "STADS_ID": "N340116101",
+        "NAT_code": "DM888",
+        "title": "Spatial Data Management",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340116102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "2e16c8b8f53559adabddd7264dc2ac6d",
+            "ff99a455c4b3f62fd62b1d4de6ce1339",
+            "975d7cfad9b2cbca7d2f3f3ede0e4a46"
+        ],
+        "nstds": 3,
+        "rdays": 1
+    },
+    "N340117102": {
+        "STADS_ID": "N340117101",
+        "NAT_code": "DS833",
+        "title": "Deep Learning for Data Science",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340117102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "71a23e687cfcd83dd78b2c60bfe5802a",
+            "9e70a922b17af577808536db57236f05",
+            "a71eda5ddc706616b68a243d68cbaa6a",
+            "a71eda5ddc706616b68a243d68cbaa6a",
+            "f3e3204166d42ea76bea7d9bfae7d291",
+            "5dff54ea749e74242bcaeb2552804817",
+            "e442e2964f6792f549e917a0b4026d1f",
+            "e442e2964f6792f549e917a0b4026d1f",
+            "4aa25af6a8b87e6b9ab6acc5e3d7cbcf",
+            "5d2ecda01d486400b313953fcbbc0059",
+            "5d2ecda01d486400b313953fcbbc0059",
+            "055b137e9813f806be1f798c605f9cb3",
+            "9f8702509cf6ee3bbb3f12fea6ae1e50",
+            "6993c992b29ca3f2a05bc99830014342",
+            "8f4672670515782dcd81cd4b655e553b",
+            "e25c964cc6f5dc314b27d913be2f5de1",
+            "4e2ba0b7c25457641bc20b55cd16e9d6",
+            "dde02881e7b95094a967d8c285c0885a",
+            "ac1f7225b5053d18863890acc46abd0d",
+            "8a6f42f2c99aa827e3b57db58aa799d0",
+            "292b13da4e5481820706333b34d0cfa7"
+        ],
+        "nstds": 21,
+        "rdays": 2,
+        "joining": [
+            "N340074102",
+            "N340031102"
+        ]
+    },
+    "N340121102": {
+        "STADS_ID": "N340121101",
+        "NAT_code": "DM889",
+        "title": "Software Engineering",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340121102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "1ce032597f4df0856f0f1a8e64de17be",
+            "0ceac73739623c32e8b734bf7cb64f17",
+            "aca4885ba6663dd02b1229358257a6d6"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "joining": [
+            "N330043102"
+        ]
+    },
+    "N340130102": {
+        "STADS_ID": "N340130101",
+        "NAT_code": "DM893",
+        "title": "Quantum Computing",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340130102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "499f49b37df9e7537698f2b4ad6dcc14",
+            "ff99a455c4b3f62fd62b1d4de6ce1339",
+            "8b61a9b6516f788dc884b98b649a7376"
+        ],
+        "nstds": 3,
+        "rdays": 1
+    },
+    "N340131112": {
+        "STADS_ID": "N340131101",
+        "NAT_code": "DM894",
+        "title": "Advanced topics in data mining and machine learning",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N340131112",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "c5dec6ab38f01e851da4483b86143f7b",
+            "898b2d3ebfe3cc13a3de5984f4623653"
+        ],
+        "nstds": 2,
+        "rdays": 1
+    },
+    "N360000102": {
+        "STADS_ID": "N360000101",
+        "NAT_code": "ST521",
+        "title": "Matematisk statistik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N360000102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "0408a8a37b2998b96e16445e5501de77",
+            "1240133255d5466c335a6a1abd108660",
+            "50f9ff206e05f0bad9220c46b1b321ba",
+            "a5bc065d7406d3fb9bc992614e01652c",
+            "c6c8b482a8762c86d0f83190f619b9a0",
+            "0922d9a96e55d7c0d6f5e3b424f697fe",
+            "9ccec4549a8398907a88b84af94f37c8",
+            "fb1e68daeed2ceefeaf9e129b8a9492c",
+            "89a7ba3fb9150afdb7afe227519fa6d9",
+            "47e4372c602740eefb4b5936b520ee6a",
+            "c4a423e442d7e9e792d82ec6046cbf1c",
+            "06c0ab4c47eb7e3ca863bff51ecd5f07",
+            "6579d5e52ea2bae8384933ac11a37365",
+            "725dbe4495276c1c2253ef7826abec05",
+            "1b6112bc2b65e7c046d18849279f2892",
+            "d2dc2db1891563425f7d3019cab4e10b",
+            "80a7e24cf93f57b60741b5d2abd0a59d",
+            "3860c37d8d714bff96858a1ce01f68a1",
+            "4d7e7d2076a909dd3508f4ad138ded97",
+            "65d2a9f6907c5885169040eef3ff2e7d",
+            "9064c1df493d649f303df12584b6e7ce",
+            "7c26d8e9db740a5f7567219cbb8a754e",
+            "8cc9bac6d1f8c4545fe3f02b0c05509f",
+            "e525801973eb638fe40f7ddca195ea3c",
+            "6f0c408bb1e5c5e426112ffb44d6f5d0",
+            "f0e0fe728a672a896345792ee0cbf963",
+            "3d483edabe2eefe62bfa7c08b4e56877",
+            "f2d4a7bafff33982dd45e1fe1912266a",
+            "3ee96826c7c9d8ab035cc6ea48965871",
+            "48d842af8e2bc47797761d703d4df06b",
+            "66594cf3fa9e2c170dcded165a9a03f8",
+            "8819cb5e7bf9c54808d4b5a5deaa18d4",
+            "b2638bc345431d44867189efddc0cb56",
+            "64ba10c241d1f4a42d4dd4aea6c5cb77",
+            "44563f2dcbbe4d1ac19ba5e7857ea02d",
+            "501a5d97086ccb788de2d821eb768b68",
+            "9f301c2f626a0fc13faec9eaabf39e21",
+            "fe92548ef7384d29208c74d111dd6d6a",
+            "2ed8832365adc0abf41b7757fee6ff7b",
+            "143dc9a5c3094c2a5109d44b7f76c8ba",
+            "8c1e36796f7fb2869b605e6480184517",
+            "9249313a95f0268051095859c01f1200",
+            "f77016410591163cd1d7a25ed52efcea",
+            "373d17c0014ef97819ecabf5faae3c63",
+            "17fc8c34ab425f6c2637c7aa4474c81f",
+            "1d509a88e3d401714b1c8bab0826e921",
+            "95c1881a3ae14fc8dfa8c9fabcca541a",
+            "178903581768d08c4d3685beaca11fd7",
+            "026c41aa602dc27cb77a5c6b6f38530d",
+            "47f1c7bd6ffb1b5496cc4be9e998176d",
+            "df96a235fe02df3778470f7b315c4c61",
+            "6959d60ec809a8570d02606e6129e0d2",
+            "14980c6dd9d209d4d59b8879883292fe",
+            "53f09bcee87a1e80721a83c8043e1d51",
+            "bf1c917d4292720beb03b28043ba49b0",
+            "4df8151078032a03cfaa09fa9f6acd0f",
+            "028f55a491572975d78039baa5ae47e5",
+            "24847c502763093d01358c2a7600c3e7",
+            "0b4908fafc1c926ae97543234b6799e0",
+            "208dd6cec7690c87d8db85fa8bfff007",
+            "d049c1ecdb8330358d0d860b79d4de04",
+            "9e62e93ebc46db5bd79fb6f381361a2d"
+        ],
+        "nstds": 62,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N360014102"
+        ],
+        "conflicting": [
+            "N300009102",
+            "N300056102"
+        ]
+    },
+    "N360014102": {
+        "STADS_ID": "N360014101",
+        "NAT_code": "ST524",
+        "title": "Statistik og Sandsynlighed",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N360014102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "imada",
+        "students": [
+            "3671c4c2f52ef524e2a568fabd52f216",
+            "32966aca8edcdc6a92e73c64af61f318",
+            "95b2122dac74f6cb7433bb65f3670ffd",
+            "dc97021e880d7614bc31b0bee03ae902"
+        ],
+        "nstds": 4,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N360000102"
+        ]
+    },
+    "N710000102": {
+        "STADS_ID": "N710000101",
+        "NAT_code": "NAT808",
+        "title": "Undervisningspraksis i de naturvidenskabelige fag",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N710000102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "f8d832771054c379e853f707da8c64db",
+            "7079226212d2ab5c6d45dc51951fd7db",
+            "3671c4c2f52ef524e2a568fabd52f216",
+            "3731e2d6603f546eff3bc2658380b5cd",
+            "b4363d11ad54074d28e5ad80ab15aa84",
+            "c6c8b482a8762c86d0f83190f619b9a0",
+            "da4904e12e1caf4c50f2b4f41fc77620"
+        ],
+        "nstds": 7,
+        "rdays": 1
+    },
+    "N710016102": {
+        "STADS_ID": "N710016101",
+        "NAT_code": "NAT817",
+        "title": "Mundtlig formidling for naturvidenskab",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N710016102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "165c8bd69a522101125e39efa16cd5fa",
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "3671c4c2f52ef524e2a568fabd52f216",
+            "0fd68dc09be3338b46838cff15c1618b",
+            "a3c8a839a281970d99f40cb4a229c915",
+            "e6c0d612e812e38aaadc2f190d54e39e",
+            "eec2347a93a734114480dc87065a6e25",
+            "96efb08f8acc36588809caadda75052f",
+            "2e4a0fb56ae3057625c85cb00831f168",
+            "56075efed2e4cca673b3201d578970bd",
+            "d9fd0f07ab3d5bf4dcd7687d11ccccfa",
+            "00976045cb5adca53ac7cd8f3b54c34c",
+            "85a1472cc55bcabae7094a3aa5b29b2b",
+            "2da86c92b7cf21caf3f2debcd66cbc20",
+            "b121268f860730f9ab3f5886a84369e1",
+            "cf50e4ddd3029a8a55db62d28006ccd2",
+            "883f66b87f6650ebfacea61c3524e5a4",
+            "e10ca5cd5a60ff44029a81bae28e2c94",
+            "e0d28075f814774659078d96ac1d2cfd",
+            "12046e25ae5ec2d7cb7eb8faf8224bd0",
+            "2d089810b97cb83c31db203f341ebbd9",
+            "9f5867969089a22703a170eea57995dc",
+            "d51104a3a32c76ac28159f49903dc7c0",
+            "bd1736cbc4fb29420070dccb1cc7bcdb",
+            "d1d5b2c9da3fe62e18458f1d5cdab71c",
+            "23b7d7c82e29b5d4a599c5bdbde585f3",
+            "1f11fcc59bec8e7406e9e7b928ef1017",
+            "30f2cb0016f8ad656aabb0a983d54ca2",
+            "386051b31a1351a2a045a1755a32e820",
+            "ffb6d0e298ac0662ff133346a47be7bf",
+            "b467951fe4cd212f9c581b3c1626fc62",
+            "58fa7f5274afbf3615fda22ca278eaa9",
+            "c1d0f947298f355983b344b13a13cd60",
+            "3fd63c7e4e78fe6797269a18c1b00387",
+            "f6b159ad04675cc5bb069e3affa014f9",
+            "c421204394225a49920355038d4ddfe0",
+            "6a56e1c4308bac098242c074cd02312a",
+            "33078bc773f3129fd32dc82990e42f96",
+            "5ab43fb0b65270fd1a0d11237a2b83e4",
+            "2f8551a29e8512a5c1f668093fc3f529",
+            "3fe75247a786c19b8fb4906bff8da319",
+            "01dde9b1a5e1289fc84cad3ab8b2d662",
+            "e5b41b9240052a51eda2de2a61ffa82a",
+            "4f3db73a4d29b5a529b70bfe41a53220",
+            "b84ad10e588bca12d9e241761ca03467",
+            "73df4e2f0c8fbba392863c091ae5773b",
+            "f267f709ce9e4a74032de7d5a8bb1cb3",
+            "72189e223a61ad350c29fae4545a2de2",
+            "00229b1fab252e770fcba61d4be15495",
+            "6fba40586a1d0c2912782ae54caaa906",
+            "030548b24a7877f2d4c79ff6fb426712"
+        ],
+        "nstds": 51,
+        "rdays": 4
+    },
+    "N900017102": {
+        "STADS_ID": "N900017101",
+        "NAT_code": "MM109",
+        "title": "Matematisk analyse 2",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N900017102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1
+    },
+    "N900019102": {
+        "STADS_ID": "N900019101",
+        "NAT_code": "MM108",
+        "title": "Masterprojekt i matematik",
+        "Administrationsenhed": "IMADA",
+        "EKA": "N900019102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "imada",
+        "students": [
+            "c66ed5ee821eb0395930886255b5235c"
+        ],
+        "nstds": 1,
+        "rdays": 1
+    }
+}

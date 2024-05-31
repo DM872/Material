@@ -1,0 +1,1111 @@
+{
+    "N100005102": {
+        "STADS_ID": "N100005101",
+        "NAT_code": "BABB500",
+        "title": "BABB500: Bachelorprojekt i biologi ",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100005102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [
+            "afaa5136f8529062bfcf9288385b226c",
+            "1bf8915951513fc372bca5c66bebf587",
+            "db809ab10a9b9218a67b20c43a39604e",
+            "f0f80e9b6f207b9682b36f2ddf3a5bf0",
+            "1ce447de8c192837f1afc2c2e2eb4880",
+            "9ec6a63ed5d77df49ba970ba689772e3",
+            "3f78d46656096bc4a89cc1bd4693c6a3"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N100006102": {
+        "STADS_ID": "N100006101",
+        "NAT_code": "BABB501",
+        "title": "BABB501: Bachelorprojekt i biologi ",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100006102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [
+            "22cd2068790545ff48dbcf09f22ec260",
+            "1ed78f03612b0586c5bf24f638cf58b8",
+            "2b8bbaf537f8f18ab28743903054671a",
+            "37fc7544bfab5612bf2bd93c8092ffee",
+            "1cf4c1c6c0b6fafdac0d0c71837cabf7",
+            "898702ca2c3d311a53db50b36fbeef63",
+            "95c19a294dbc253a22decdf553e76fac",
+            "1e8b31e4a1d09321dfa8aeeb2008c6b8",
+            "f067fb9821b7df0b1beccff7681d9f2b",
+            "5604dfecc183cff108051b545bea4e89",
+            "624b78d25039697f70393c5e7dad8cb0",
+            "a7d71276df2ec02c4e258d7068f0fe9a",
+            "ed93e1a778271f35a8b458846721050d",
+            "a63b1391d7ebe7b386d3d6ac1f8c1de0",
+            "7e77976c295fb274a894f72f9bb7fc40",
+            "126211c2a0742a3603ce296c5932c0ed",
+            "5c4b30ac8956abf460837d1f9c0020c9"
+        ],
+        "nstds": 17,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N100007102": {
+        "STADS_ID": "N100007101",
+        "NAT_code": "BB512",
+        "title": "Population og Evolution",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100007102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [
+            "72b18e4595b050988ace311fffc508fe",
+            "1ed78f03612b0586c5bf24f638cf58b8",
+            "2b8bbaf537f8f18ab28743903054671a",
+            "cb1e5059a41c6a08037e4a946f286120",
+            "92156d4186bc7158d3a9e6bc651cc717",
+            "bf30103e7f0f5b6d1c278a5f0f9b0420",
+            "0d6f98e9468999c0c01dc3f9993088bd",
+            "661d43bbe57cf27c41782a8c8f64fa5a",
+            "a4544dddfdf5ee3da9a34547988227ef",
+            "eb6d196ce77b5c99871a46353900aa5d",
+            "478f39003196e75aa1b63e42c2f82a13",
+            "afaa5136f8529062bfcf9288385b226c",
+            "008db551a870ff8330c1e3b1ec4c6f1b",
+            "898702ca2c3d311a53db50b36fbeef63",
+            "5715b2af756ce7d7e51498a674777e5a",
+            "0145b98de741ee3dd5c9fda0e50b9ffe",
+            "4359ab23b1fea03e1057f48a7461f1a7",
+            "6cfa20f95c4b323527cc7a14db5b6006",
+            "455b702abbe9395c329e755ef285dc7e",
+            "9ac691928c827f0b884ba0722e04d443",
+            "416f8cf4bca88f1207a9c66dfc91e513",
+            "976097e4f078142c5f630703aa207c8c",
+            "b1d5e2af35fd6a6e5c08b2f4d72be581",
+            "c83763db7983d1e26233128c177466b6",
+            "8c34629a86cfbfbf3c8a917d6be66130",
+            "5604dfecc183cff108051b545bea4e89",
+            "d503fe9f799dd0c516c15499a74e7529",
+            "c8bc3c440c9e09aadebd5e73f9e24b9e",
+            "0d4f56bbe80321c4ccb34d182e032466",
+            "b7360d39ea459222448d687c4346bd17",
+            "19fee7bc136f1a3a599405c7d95f385b",
+            "c819c71c0d6fdfe74875a51c0ef525ce",
+            "a229a83372106670aa183b6092dfd274",
+            "624b78d25039697f70393c5e7dad8cb0",
+            "d0f42c72e4ca9b5d614e51fe8df0f415",
+            "899304d85b624be85ae56a3781ac9496",
+            "b386279fc333b19717be3cd656c74168",
+            "7099ea1fa16d818709d27b852f282761",
+            "a7d71276df2ec02c4e258d7068f0fe9a",
+            "ed93e1a778271f35a8b458846721050d",
+            "a63b1391d7ebe7b386d3d6ac1f8c1de0",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "0a5cae13ad70c502c858bcd0dad92938",
+            "405a5da60543eabb37fb9a1125e23a9f",
+            "79e9bf549f1f58a80d4c1ef7e3718723",
+            "459c11c4f8f2a9fbe2f33f8cd5bd043c",
+            "a9b861ccccd327d6a8ff4d33f7963733",
+            "f744c83890d7b3f0bf88298fad760701",
+            "93a6878fee800d4e4a093f55e2571e1e",
+            "3e7940164d78d0a2a7197f33593daf31",
+            "9a69378aa71135e09e8bce4588070cdb",
+            "e92610d48786a40de3b25efbd999fcd4",
+            "85e1841c6dedbbc8e640ef7711510261",
+            "7e77976c295fb274a894f72f9bb7fc40",
+            "2b32e7ea8a13ba842abda48d3967169d",
+            "d6f3798ecc4c1c3fd7b1522023305809",
+            "3a4dbd73ff4b16f46db0da0102115cf4",
+            "126211c2a0742a3603ce296c5932c0ed",
+            "f4ad0db0919304294a3058313c2ce3d9",
+            "f5f6f47876d7d6ed9ed0d217d7953d6f",
+            "031ce7eb1f0be59e429852c616c3223c",
+            "738dbf73736eaada3047323433a7e685",
+            "ec48c4fe717b715adb76c663fb026f63",
+            "141099bf93e849ca39297955892d8aa5",
+            "4955d6087baaa8e391b5b3e358001457",
+            "aa3358e0c69ce8d650a624fca3c06fa0",
+            "e51789393840658d20d74eba8944d3e5",
+            "42aa7a9e1e4478034cf3f1a4a036ef7a",
+            "47fffed094d7eff2cb16842e81090077",
+            "e892ea629d61d36b726479500ac70638",
+            "4f7172b59d4a55824f2531718b154317",
+            "267d287bd40283d8b6a11d47fc89bff1",
+            "8dd54c3afc4ead905d157197037024f8",
+            "74d3df4a96f283b8a96a0ec35de041f5",
+            "ded1ca7df99e7b48c2b464af6b5af14a",
+            "e0d7b33ec1abe1a49851973074023b5f",
+            "c1004be3a5c11fb096331081205ddf27",
+            "074c6597ca666ee219fdb9e7c62cfe8b",
+            "229edec30abfd80c53500e343df4a2cb",
+            "1bd7945283d442532de485a0861463fc",
+            "027daba96e1a5df9de68a5a954ffe8c0",
+            "82cdc090a03bf7abd7a8210c3bf7be59",
+            "5e1960b609e33e8404470447e68904d1",
+            "63389288a84334ade3bfac3694c3d5d8",
+            "644432e54138375e85b7056d8e9e4c32",
+            "b422707ee53ef1baf32876b6e1d3d1a6",
+            "986c92014f197b698c6ddc6d113c90ea",
+            "040b6e7319f6796f116a03c8e9807b76",
+            "90e2ab2fcf3b8b0b8e0608e6d5a07e95",
+            "00ee9f02337c0427a47dc751c0b5b04c",
+            "e2afe8baa649cc06eba5efad16fdc822",
+            "9eb12bc8855cc02c177b7b4c3875e951",
+            "0d81d7c10765096e8b2ea27e3e000e6c",
+            "26a4dcccaec9eac21123e1f0fdd128c5",
+            "e9a50f8ed59ae1e2e7b0e91ad8c752be",
+            "c79fe34adab76a75e5fad408f5914b6a",
+            "48e09626ede4eb7932b0291247e4ecfd",
+            "7372ac5420d8ff1f49e92df60f47176d",
+            "44302a926bf2ca71f8f02345ab56c24f",
+            "0ffc2ab9246f1b8b237d00fa6e4c80e3"
+        ],
+        "nstds": 100,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N100064102",
+            "N200009102",
+            "N100029102",
+            "N200031102"
+        ]
+    },
+    "N100008102": {
+        "STADS_ID": "N100008101",
+        "NAT_code": "BB525",
+        "title": "Zoologi og evolution",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100008102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 3.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N100065102",
+            "N100008132"
+        ]
+    },
+    "N100008132": {
+        "STADS_ID": "N100008101",
+        "NAT_code": "BB525",
+        "title": "Zoologi og evolution",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100008132",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 3.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [
+            "5398cc078e8e9189e9e653d9e6fd5e38",
+            "10eb5123b4ccd048b4ce5ddb99e38ac3",
+            "bf16f52f9c519cb34d0edb1d37fb5e58",
+            "a928512f0fad6730c60edd9c32feeafd",
+            "b367ef3b8c8643ec98c8fd8142f00a56",
+            "1ce99c314ec291202e272606c8b8bdc1",
+            "7ea8324513614abbe4f86b0e3e894b5d",
+            "5cbe911a51bd050fba6ac5f244ec2f79",
+            "27323274c952be02da0f309fa7acb9a0",
+            "61ee1cbab1f70e353734316426d0ef41",
+            "8020a019b06a327db6eb6471f0ffee82",
+            "86dcd06aed1b6345b7f84e5a21bf99e7",
+            "f1feefc84d32e145c1f2862f7413448b",
+            "3977746ffe93fd89c062184f0a3dd4d1",
+            "f00167134aa6ab9eeedd3ca694d5c6dd",
+            "87e01cbc3b255c9a2e548a81f9ed2bd6",
+            "f685ea82aca583723b05a70630d5ba4f",
+            "6f9bbdc3a19220068267d8823dcbb197",
+            "2384838d0a25bcec3305f626e46d54c3",
+            "923d295ec91c2f3ae495731ab6871cb4",
+            "27d872e8e423da552a1525c7a8fe8056",
+            "72a34fec7fca457bec4de8107cdef3db",
+            "5cb626d8cf2175b306c8536e2335d636",
+            "23387b56726730768933fe3267cb3da8",
+            "da3a5c8be1a2602ea92758e4606988f1",
+            "6cff88a361b35c79e676831fc9cef6ba",
+            "ad038dd1f56634cf4a2c34f73aff7b26",
+            "1d985060a975a672f8f0512e538603e0",
+            "d05d90096031db7e01c9616ebeacc148",
+            "66ae6d5b54ae03afd23b50c7a310410f",
+            "dd3976b6a399642e9528a3a88158fc49",
+            "ccf4b0bb1ca4666ad384b1454bf375b5",
+            "f55fd8721154d52f7e6f7e65de3d3f0f",
+            "8ed151ad7fdd8a1579551201d6ed931e",
+            "6df7d14354612ed7bd2ee18398e589d6",
+            "77eca3e2fc152dd6e96c42d9bc11eba5",
+            "eacef0c13de4710e80c8e1f1ae37b86d",
+            "043727d05c3266195902762a51d44c0b",
+            "a26f94b0334ecfac97f729f5a291eabe",
+            "c2f0e378a86dde98a08fd97d5e4b33db",
+            "d0ae18bacfad3c62fa534621c6824134",
+            "f19074bc5887bcf909e01491dd4e7e3d",
+            "ad133e08e78b4b68e43818f116597def",
+            "fec588d1d3c90028b2134fc9aa74d95a",
+            "2b8eadd37261625936baf1a876802dd6",
+            "0331602f63faaa8ddecb6580109d295a",
+            "a48d6b22da207d2958eca707af3f90b8",
+            "b156447dded5904b456f8d2a5e8a54b5",
+            "5e6410bbc45b2cd8aff146eca3ee57d0",
+            "d5cb1cd637ed15defdd6b8e059a0dd15",
+            "b8f6337c1e8d67210bd5d16caad9f146",
+            "83a5326913e24e29ff7591f762acc64d",
+            "65d40100ee41a14d3fb65a3901c2aabf",
+            "e086dd5af276661022930e769305b47f",
+            "7bc952a4792953436bb9a06f08009e60",
+            "59b835a8c0977b7bef5014dc1674753b",
+            "61e92a9159b37f1243bacc939e9ab2c8",
+            "26a0c82dac719b9d526a68e3e975b3eb",
+            "149154dd22940837123b6e7623869770",
+            "a3388860dc67eb04cfc3049de680fafa",
+            "ccbee09c5ac2a6c88e9205b262e5952d",
+            "b903d9cff514af0027d8ab377eefa7ca",
+            "07a9fa052a509fb589fd57951b57556c",
+            "f8074d1ca6e0e39653ec033a13282903",
+            "991846ce79de538388491deb4e2e45e8",
+            "a7120b5a2fd1d32419714f865e0b5a0b"
+        ],
+        "nstds": 66,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N100065102",
+            "N100008102"
+        ]
+    },
+    "N100015102": {
+        "STADS_ID": "N100015101",
+        "NAT_code": "BB540",
+        "title": "Mikrobiel økologi og globale stofkredsløb",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100015102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "biologi",
+        "students": [
+            "04db3108929557d8163e6e4b9bd39da2",
+            "bf30103e7f0f5b6d1c278a5f0f9b0420",
+            "9ac691928c827f0b884ba0722e04d443",
+            "976097e4f078142c5f630703aa207c8c",
+            "d503fe9f799dd0c516c15499a74e7529",
+            "f744c83890d7b3f0bf88298fad760701",
+            "3a4dbd73ff4b16f46db0da0102115cf4",
+            "f5f6f47876d7d6ed9ed0d217d7953d6f",
+            "388d478b73ccc30776f4d9b038c59e6a"
+        ],
+        "nstds": 9,
+        "rdays": 1
+    },
+    "N100029102": {
+        "STADS_ID": "N100029101",
+        "NAT_code": "BB547",
+        "title": "Økologi A",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100029102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "biologi",
+        "students": [
+            "72b18e4595b050988ace311fffc508fe",
+            "1ed78f03612b0586c5bf24f638cf58b8",
+            "9eea0f4de525e51e6e1e0675c6ac35e6",
+            "478f39003196e75aa1b63e42c2f82a13",
+            "b58689ad0e2ee92c9ba852ff8170315f",
+            "008db551a870ff8330c1e3b1ec4c6f1b",
+            "f067fb9821b7df0b1beccff7681d9f2b",
+            "6cfa20f95c4b323527cc7a14db5b6006",
+            "455b702abbe9395c329e755ef285dc7e",
+            "9ac691928c827f0b884ba0722e04d443",
+            "c83763db7983d1e26233128c177466b6",
+            "899304d85b624be85ae56a3781ac9496",
+            "b386279fc333b19717be3cd656c74168",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "a9b861ccccd327d6a8ff4d33f7963733",
+            "93a6878fee800d4e4a093f55e2571e1e",
+            "0cd528083224ae204a6b4dc2e66965d9",
+            "8020a019b06a327db6eb6471f0ffee82",
+            "1a2ac3098021f1206f522107f9c2cb33",
+            "ec48c4fe717b715adb76c663fb026f63",
+            "141099bf93e849ca39297955892d8aa5",
+            "4955d6087baaa8e391b5b3e358001457",
+            "aa3358e0c69ce8d650a624fca3c06fa0",
+            "e51789393840658d20d74eba8944d3e5",
+            "42aa7a9e1e4478034cf3f1a4a036ef7a",
+            "47fffed094d7eff2cb16842e81090077",
+            "e892ea629d61d36b726479500ac70638",
+            "4f7172b59d4a55824f2531718b154317",
+            "267d287bd40283d8b6a11d47fc89bff1",
+            "8dd54c3afc4ead905d157197037024f8",
+            "74d3df4a96f283b8a96a0ec35de041f5",
+            "ded1ca7df99e7b48c2b464af6b5af14a",
+            "e0d7b33ec1abe1a49851973074023b5f",
+            "c1004be3a5c11fb096331081205ddf27",
+            "074c6597ca666ee219fdb9e7c62cfe8b",
+            "229edec30abfd80c53500e343df4a2cb",
+            "1bd7945283d442532de485a0861463fc",
+            "027daba96e1a5df9de68a5a954ffe8c0",
+            "82cdc090a03bf7abd7a8210c3bf7be59",
+            "5e1960b609e33e8404470447e68904d1",
+            "63389288a84334ade3bfac3694c3d5d8",
+            "644432e54138375e85b7056d8e9e4c32",
+            "b422707ee53ef1baf32876b6e1d3d1a6",
+            "986c92014f197b698c6ddc6d113c90ea",
+            "040b6e7319f6796f116a03c8e9807b76",
+            "90e2ab2fcf3b8b0b8e0608e6d5a07e95",
+            "00ee9f02337c0427a47dc751c0b5b04c",
+            "e2afe8baa649cc06eba5efad16fdc822",
+            "9eb12bc8855cc02c177b7b4c3875e951",
+            "0d81d7c10765096e8b2ea27e3e000e6c",
+            "26a4dcccaec9eac21123e1f0fdd128c5",
+            "e9a50f8ed59ae1e2e7b0e91ad8c752be",
+            "c79fe34adab76a75e5fad408f5914b6a",
+            "48e09626ede4eb7932b0291247e4ecfd"
+        ],
+        "nstds": 54,
+        "rdays": 4,
+        "conflicting": [
+            "N100064102",
+            "N200009102",
+            "N100007102"
+        ]
+    },
+    "N100064102": {
+        "STADS_ID": "N100064101",
+        "NAT_code": "BB531",
+        "title": "Planter, protister og svampe",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100064102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 9.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [
+            "10eb5123b4ccd048b4ce5ddb99e38ac3",
+            "5b6cddea3ef47930a74ebd4debd4f4df",
+            "478f39003196e75aa1b63e42c2f82a13",
+            "008db551a870ff8330c1e3b1ec4c6f1b",
+            "1ce99c314ec291202e272606c8b8bdc1",
+            "6cfa20f95c4b323527cc7a14db5b6006",
+            "455b702abbe9395c329e755ef285dc7e",
+            "b1d5e2af35fd6a6e5c08b2f4d72be581",
+            "c83763db7983d1e26233128c177466b6",
+            "b386279fc333b19717be3cd656c74168",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "a9b861ccccd327d6a8ff4d33f7963733",
+            "93a6878fee800d4e4a093f55e2571e1e",
+            "3e7940164d78d0a2a7197f33593daf31",
+            "27323274c952be02da0f309fa7acb9a0",
+            "8020a019b06a327db6eb6471f0ffee82",
+            "1a2ac3098021f1206f522107f9c2cb33",
+            "86dcd06aed1b6345b7f84e5a21bf99e7",
+            "ec48c4fe717b715adb76c663fb026f63",
+            "141099bf93e849ca39297955892d8aa5",
+            "4955d6087baaa8e391b5b3e358001457",
+            "aa3358e0c69ce8d650a624fca3c06fa0",
+            "e51789393840658d20d74eba8944d3e5",
+            "42aa7a9e1e4478034cf3f1a4a036ef7a",
+            "47fffed094d7eff2cb16842e81090077",
+            "e892ea629d61d36b726479500ac70638",
+            "4f7172b59d4a55824f2531718b154317",
+            "267d287bd40283d8b6a11d47fc89bff1",
+            "8dd54c3afc4ead905d157197037024f8",
+            "74d3df4a96f283b8a96a0ec35de041f5",
+            "ded1ca7df99e7b48c2b464af6b5af14a",
+            "e0d7b33ec1abe1a49851973074023b5f",
+            "c1004be3a5c11fb096331081205ddf27",
+            "074c6597ca666ee219fdb9e7c62cfe8b",
+            "229edec30abfd80c53500e343df4a2cb",
+            "1bd7945283d442532de485a0861463fc",
+            "027daba96e1a5df9de68a5a954ffe8c0",
+            "82cdc090a03bf7abd7a8210c3bf7be59",
+            "5e1960b609e33e8404470447e68904d1",
+            "63389288a84334ade3bfac3694c3d5d8",
+            "644432e54138375e85b7056d8e9e4c32",
+            "b422707ee53ef1baf32876b6e1d3d1a6",
+            "986c92014f197b698c6ddc6d113c90ea",
+            "040b6e7319f6796f116a03c8e9807b76",
+            "90e2ab2fcf3b8b0b8e0608e6d5a07e95",
+            "00ee9f02337c0427a47dc751c0b5b04c",
+            "e2afe8baa649cc06eba5efad16fdc822",
+            "9eb12bc8855cc02c177b7b4c3875e951",
+            "0d81d7c10765096e8b2ea27e3e000e6c",
+            "26a4dcccaec9eac21123e1f0fdd128c5",
+            "e9a50f8ed59ae1e2e7b0e91ad8c752be",
+            "c79fe34adab76a75e5fad408f5914b6a",
+            "48e09626ede4eb7932b0291247e4ecfd",
+            "7bc952a4792953436bb9a06f08009e60"
+        ],
+        "nstds": 54,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200009102",
+            "N100029102",
+            "N100007102"
+        ]
+    },
+    "N100065102": {
+        "STADS_ID": "N100065101",
+        "NAT_code": "BB537",
+        "title": "Biologi fra Molekyle til Økosystem",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100065102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 7.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [
+            "5398cc078e8e9189e9e653d9e6fd5e38",
+            "10eb5123b4ccd048b4ce5ddb99e38ac3",
+            "5b6cddea3ef47930a74ebd4debd4f4df",
+            "bf16f52f9c519cb34d0edb1d37fb5e58",
+            "a928512f0fad6730c60edd9c32feeafd",
+            "b367ef3b8c8643ec98c8fd8142f00a56",
+            "1ce99c314ec291202e272606c8b8bdc1",
+            "5cbe911a51bd050fba6ac5f244ec2f79",
+            "27323274c952be02da0f309fa7acb9a0",
+            "86dcd06aed1b6345b7f84e5a21bf99e7",
+            "f1feefc84d32e145c1f2862f7413448b",
+            "3977746ffe93fd89c062184f0a3dd4d1",
+            "f00167134aa6ab9eeedd3ca694d5c6dd",
+            "87e01cbc3b255c9a2e548a81f9ed2bd6",
+            "f685ea82aca583723b05a70630d5ba4f",
+            "6f9bbdc3a19220068267d8823dcbb197",
+            "2384838d0a25bcec3305f626e46d54c3",
+            "923d295ec91c2f3ae495731ab6871cb4",
+            "27d872e8e423da552a1525c7a8fe8056",
+            "72a34fec7fca457bec4de8107cdef3db",
+            "5cb626d8cf2175b306c8536e2335d636",
+            "23387b56726730768933fe3267cb3da8",
+            "da3a5c8be1a2602ea92758e4606988f1",
+            "6cff88a361b35c79e676831fc9cef6ba",
+            "ad038dd1f56634cf4a2c34f73aff7b26",
+            "1d985060a975a672f8f0512e538603e0",
+            "d05d90096031db7e01c9616ebeacc148",
+            "66ae6d5b54ae03afd23b50c7a310410f",
+            "dd3976b6a399642e9528a3a88158fc49",
+            "ccf4b0bb1ca4666ad384b1454bf375b5",
+            "f55fd8721154d52f7e6f7e65de3d3f0f",
+            "8ed151ad7fdd8a1579551201d6ed931e",
+            "6df7d14354612ed7bd2ee18398e589d6",
+            "77eca3e2fc152dd6e96c42d9bc11eba5",
+            "eacef0c13de4710e80c8e1f1ae37b86d",
+            "043727d05c3266195902762a51d44c0b",
+            "a26f94b0334ecfac97f729f5a291eabe",
+            "c2f0e378a86dde98a08fd97d5e4b33db",
+            "d0ae18bacfad3c62fa534621c6824134",
+            "f19074bc5887bcf909e01491dd4e7e3d",
+            "b156447dded5904b456f8d2a5e8a54b5",
+            "5e6410bbc45b2cd8aff146eca3ee57d0",
+            "d5cb1cd637ed15defdd6b8e059a0dd15",
+            "b8f6337c1e8d67210bd5d16caad9f146",
+            "83a5326913e24e29ff7591f762acc64d",
+            "65d40100ee41a14d3fb65a3901c2aabf",
+            "e086dd5af276661022930e769305b47f",
+            "7bc952a4792953436bb9a06f08009e60",
+            "59b835a8c0977b7bef5014dc1674753b",
+            "61e92a9159b37f1243bacc939e9ab2c8",
+            "26a0c82dac719b9d526a68e3e975b3eb",
+            "149154dd22940837123b6e7623869770",
+            "a3388860dc67eb04cfc3049de680fafa",
+            "ccbee09c5ac2a6c88e9205b262e5952d",
+            "b903d9cff514af0027d8ab377eefa7ca",
+            "07a9fa052a509fb589fd57951b57556c",
+            "f8074d1ca6e0e39653ec033a13282903",
+            "991846ce79de538388491deb4e2e45e8",
+            "a7120b5a2fd1d32419714f865e0b5a0b"
+        ],
+        "nstds": 59,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N100008102",
+            "N100008132"
+        ]
+    },
+    "N100072102": {
+        "STADS_ID": "N100072101",
+        "NAT_code": "BB552",
+        "title": "Projektledelse for biologer",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N100072102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "biologi",
+        "students": [
+            "cb1e5059a41c6a08037e4a946f286120",
+            "d503fe9f799dd0c516c15499a74e7529",
+            "0d4f56bbe80321c4ccb34d182e032466",
+            "1ce447de8c192837f1afc2c2e2eb4880",
+            "b7360d39ea459222448d687c4346bd17",
+            "d0f42c72e4ca9b5d614e51fe8df0f415",
+            "899304d85b624be85ae56a3781ac9496",
+            "405a5da60543eabb37fb9a1125e23a9f",
+            "459c11c4f8f2a9fbe2f33f8cd5bd043c",
+            "e92610d48786a40de3b25efbd999fcd4",
+            "85e1841c6dedbbc8e640ef7711510261",
+            "031ce7eb1f0be59e429852c616c3223c"
+        ],
+        "nstds": 12,
+        "rdays": 1,
+        "forbidden": [
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N150013102"
+        ]
+    },
+    "N110003102": {
+        "STADS_ID": "N110003101",
+        "NAT_code": "SPBB800",
+        "title": "SPBB800: Speciale i biologi",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N110003102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 30.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [
+            "b68fd2844bda2094dc3d882e3be18c70",
+            "08f63b2d6c51224fa4d115264d552cd4"
+        ],
+        "nstds": 2,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N110004102": {
+        "STADS_ID": "N110004101",
+        "NAT_code": "SPBB801",
+        "title": "SPBB801: Speciale i biologi",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N110004102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [
+            "78d4ae90c036f7a8382e09d9d6ccb558",
+            "70fd5a144af25985f6e0647faf191bfd",
+            "ecb71ffe927686072c8468b053b05c65",
+            "2d3c0b57bc3b8a6856955056d04d2a69",
+            "51a01ba1f35d238a29c2196e2999674f",
+            "6fba40586a1d0c2912782ae54caaa906",
+            "b3300c4b8b542c7701b04bed4f9b75bb",
+            "922ac267e8cd92d72b865c9c152658fa"
+        ],
+        "nstds": 8,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N110005102": {
+        "STADS_ID": "N110005101",
+        "NAT_code": "SPBB802",
+        "title": "SPBB802: Speciale i biologi",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N110005102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N110007102": {
+        "STADS_ID": "N110007101",
+        "NAT_code": "BB807",
+        "title": "Molekylær toksikologi",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N110007102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "biologi",
+        "students": [
+            "9cd0b46855949b2bea0d1ce858734148",
+            "f3cec59874726f635f8f62ccce70b545",
+            "2b5770acc907ad8a03edf3eb624c85f6",
+            "4b506a7bb38606ecc5895e3263d9e5b1",
+            "7586f99e9a36693d07406bd6753bb923"
+        ],
+        "nstds": 5,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ]
+    },
+    "N110041102": {
+        "STADS_ID": "N110041101",
+        "NAT_code": "SPBB803",
+        "title": "SPBB803: Kandidatspeciale i biologi for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N110041102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "biologi",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N150012102": {
+        "STADS_ID": "N150012101",
+        "NAT_code": "BB903",
+        "title": "Klimatilpasningsteknologier og -værktøjer",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N150012102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 7.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "biologi",
+        "students": [
+            "f3a314cb5199a90eb51b1029ee746711",
+            "5e20e658fe2f1dd9ba7b1f451bbe3496",
+            "157ffe4eb5a4f1c40f568f4164c66d43",
+            "dd3defa8d8809d1520dd9c8961d05ecf",
+            "bdff461576e28eded403d9ab2cf0dccd",
+            "5c00ea08e2b9286ccc5c0d5be8c92344",
+            "5e2b6d65048cd1a19eeab2857e2f3b65",
+            "7941319a6d960b92e3db254749029282",
+            "e4fb6adcce16c4c85d2c9ea643b55830"
+        ],
+        "nstds": 9,
+        "rdays": 1,
+        "conflicting": [
+            "N150013102"
+        ]
+    },
+    "N150013102": {
+        "STADS_ID": "N150013101",
+        "NAT_code": "BB904",
+        "title": "Projektledelse, økonomi og kommunikation",
+        "Administrationsenhed": "Biologi",
+        "EKA": "N150013102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 7.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "biologi",
+        "students": [
+            "f3a314cb5199a90eb51b1029ee746711",
+            "5e20e658fe2f1dd9ba7b1f451bbe3496",
+            "157ffe4eb5a4f1c40f568f4164c66d43",
+            "dd3defa8d8809d1520dd9c8961d05ecf",
+            "bdff461576e28eded403d9ab2cf0dccd",
+            "5c00ea08e2b9286ccc5c0d5be8c92344",
+            "5e2b6d65048cd1a19eeab2857e2f3b65",
+            "7941319a6d960b92e3db254749029282",
+            "e4fb6adcce16c4c85d2c9ea643b55830"
+        ],
+        "nstds": 9,
+        "rdays": 1,
+        "forbidden": [
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "joining": [
+            "N100072102"
+        ],
+        "conflicting": [
+            "N150012102"
+        ]
+    }
+}

@@ -1,0 +1,2710 @@
+{
+    "N200001102": {
+        "STADS_ID": "N200001101",
+        "NAT_code": "BABMB500",
+        "title": "BABMB500: Bachelorprojekt i biomedicin",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200001102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N200002102": {
+        "STADS_ID": "N200002101",
+        "NAT_code": "BABMB501",
+        "title": "BABMB501: Bachelorprojekt i biokemi og molekylær biologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200002102",
+        "Prøveform": "Bachelorprojekt",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "cdc33a505747601bdfce1337997676c3",
+            "71d39c4f0d1e5447e4e77bb0f4146323",
+            "d188fc3a71977b3f490d09ef66ebf391"
+        ],
+        "nstds": 3,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N200004102": {
+        "STADS_ID": "N200004101",
+        "NAT_code": "BMB509",
+        "title": "Bioanalytisk instrumentering",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200004102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "bmb",
+        "students": [
+            "191c1a697c07835ca51c102e347437db",
+            "074376260d61a06a8a0c7122dff62415",
+            "5156fef4dd6f4548eaddc86d3bacaa45",
+            "d188fc3a71977b3f490d09ef66ebf391",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "1c37587b2ee7e6cead7191a624bdee9c",
+            "e61a7010787a505e54fc2a787148d8a5",
+            "23b910c6f456d819a8ee26a567dcad42",
+            "9e730b21940771134ebe32b90f5faa09",
+            "7e0872687bd7e3d4128896daea3e65dd",
+            "3f66528e0ce409cfca3ccacebdcaeb7a",
+            "66a88bac1648ac0aff6ea0c2f160215f",
+            "026d47d2c5a4b020663e09945ca40c4f",
+            "21d2e86730eca6f0eff5f783cebdf38c",
+            "3db0891986ce9f131938c4905e45c705",
+            "66b190a901531750c55e30e6d465622f",
+            "cbb3e0feeb1eb8e1e3158655593d2169",
+            "20b96b4794adb326ad7a13235c868407",
+            "023ce38019352bf9f3025f3e3887fb26",
+            "8e1af81701280edebe0b26809db5b980",
+            "6b8a8ab700b9916d9ed56474468b547f",
+            "0d36b2b712f3c42f680194d2a6422aa6",
+            "4456b8acd9248945aeb9374caa224ade",
+            "25107ed0f184dac7fc50619f068a6d27",
+            "c5094189a53ec9ee47723f230299912a",
+            "aaf4e3d4aae25f828adff22600deaf61",
+            "b803d73a622d8f3d526c4f5245dc5f03",
+            "b0f3c556e2454487b78f184350172751",
+            "80a07099ecc048f9c4f294bdfb937824"
+        ],
+        "nstds": 30,
+        "rdays": 2,
+        "conflicting": [
+            "N200019102",
+            "N200042132",
+            "N200005102",
+            "N200006102"
+        ]
+    },
+    "N200005102": {
+        "STADS_ID": "N200005101",
+        "NAT_code": "BMB511",
+        "title": "Bioinformatik I",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200005102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "5156fef4dd6f4548eaddc86d3bacaa45",
+            "1190c5fbb0b8219e98e31031397768b2",
+            "480393d5d30d76f30f709832f6f291a2",
+            "92979db325d936f971370459cb4aad9a",
+            "cfb55cd0314b4d73c5d484e490f5f746",
+            "6f23bc3456c310753cccf95595542030",
+            "39fd84a05e1a9e401073f9d659b1ac8b",
+            "303285c9ad5be40e118dff13cd2da84b",
+            "e61a7010787a505e54fc2a787148d8a5",
+            "23b910c6f456d819a8ee26a567dcad42",
+            "640a9f45e6602e0c277f90a099c1104c",
+            "2533b054b758df7f149c284d0a228d5c",
+            "dc1ea740e78a12fbe17be1a72d5832f2",
+            "ad4a4c431819ca0ee76bc8c143db8736",
+            "7dc164047aba6dd2efd0af84ec8dbec9",
+            "9e730b21940771134ebe32b90f5faa09",
+            "ef23989586e23e871657df60849249e3",
+            "da5db738c6d4aae608711451998bbb41",
+            "3841b08f6517c67d4cc1a890454a6452",
+            "bffe04f2074cf7490d8d37645e2cd02d",
+            "7caf108c144f927a990d8d24e46f1fa9",
+            "7e0872687bd7e3d4128896daea3e65dd",
+            "b4fafd4c8f06feb91ecac9ceeff55874",
+            "f8313110a92ffb44cd6abef1fcf9b100",
+            "956dcb8316c4bc4aa79b968fcd5b17b9",
+            "3f66528e0ce409cfca3ccacebdcaeb7a",
+            "5fb5e22b1f6dc64b436d5f8d8667fa18",
+            "c6481d125ebb834065c9c3c8741de446",
+            "4f0daddd37dfadc3a4297e6da49ffdc7",
+            "4ff897f7e27b3a9cbcf35cf976159d3f",
+            "dea8d6dc7092b4448d76a53b96a8add5",
+            "2781820933070bb10291105313be2ac1",
+            "a0b4b7dc13a7285afd4a5a1c285be352",
+            "67abcc343d3687cfb9cd30fdba44834c",
+            "66a88bac1648ac0aff6ea0c2f160215f",
+            "026d47d2c5a4b020663e09945ca40c4f",
+            "ff0b95d23dfd9b6708ae250d411f708a",
+            "b6962b120549bfb0d16020521e97b7a0",
+            "bb3dcc889410898cefe95dec36a7babe",
+            "21d2e86730eca6f0eff5f783cebdf38c",
+            "6d8df3ad7bb0c8b9c5a1b8718a5d24c6",
+            "322fe1c29090fce6e3255d4ce19448bc",
+            "3db0891986ce9f131938c4905e45c705",
+            "66b190a901531750c55e30e6d465622f",
+            "9be85e7ca3048c27d5201575c9f52d69",
+            "43bc32410d8e64b870893be4670f5497",
+            "f42dbf18e68782869396a9679c8030a1",
+            "bc4cb0def4b635490e88876a4f010990",
+            "fade88447e2986d2cb992dcafbcfeb1b",
+            "cbb3e0feeb1eb8e1e3158655593d2169",
+            "4be179650e422f19bc16f9bb0e45bdf1",
+            "869c0f672a160c6624f7f692ed3605ec",
+            "098ac9b3ce60f1525c6ed59344a5df07",
+            "b398b68fcc74d995b7910b23fb1f12a3",
+            "20b96b4794adb326ad7a13235c868407",
+            "023ce38019352bf9f3025f3e3887fb26",
+            "5136af11f4917826dfd9e4334b9038cc",
+            "8e1af81701280edebe0b26809db5b980",
+            "7990a4479f92b2f1c0e6400ceaa090b3",
+            "e48c9dc0ce32882d6c888d1c88951660",
+            "6b8a8ab700b9916d9ed56474468b547f",
+            "904baf2f8dc79dde07d2954df1ecb5ab",
+            "d9bf4f523eb01fbddf75dd9923019c8f",
+            "7bf1720da6f8383e92aa72113c023752",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "46e21fe8b368e975c82d18e1c8d88c57",
+            "0d36b2b712f3c42f680194d2a6422aa6",
+            "4dc71fd4742afd2fa4b0d78ac4d90c24",
+            "4b20fb27b2632e4885c1d07923f2e39e",
+            "4456b8acd9248945aeb9374caa224ade",
+            "875cf4d282f2df97e7f047605aafcf0f",
+            "38e742bee06278b013cd653f0f659c18",
+            "25107ed0f184dac7fc50619f068a6d27",
+            "4b2b4cd6129fd756ab45de14f725c472",
+            "9d8d64916ecbe7155f8a7682a5bb82af",
+            "c5094189a53ec9ee47723f230299912a",
+            "5c3efc7ed8a4e04fedac3ba8bcf63dbd",
+            "a1504023f9d3679b80b4a090b575c890",
+            "67f6f9cf1f886f4b49ccbd696495001b",
+            "a671daf982813ca86b2edd70e339b3df",
+            "2eeb412508b2e79680644c2c67aa253e",
+            "aaf4e3d4aae25f828adff22600deaf61",
+            "b803d73a622d8f3d526c4f5245dc5f03",
+            "fc025828e7d026841f7e0ec89a516701",
+            "725e275a6a6e1e8d61fcd6e5e8c06ae5",
+            "4139fb4c94dafa1cd059d51bf8928d22",
+            "b0f3c556e2454487b78f184350172751",
+            "04f625762203efd0ad5b8dc87330891c",
+            "ed2def67ea1ef9e282fdf40888e68fcc",
+            "80a07099ecc048f9c4f294bdfb937824",
+            "016444590c16603efb4048cf77349b3a",
+            "762f91ff69a4cd7c653cb8e5974be64c"
+        ],
+        "nstds": 92,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N200006102",
+            "N800007102",
+            "N200004102"
+        ]
+    },
+    "N200006102": {
+        "STADS_ID": "N200006101",
+        "NAT_code": "BMB512",
+        "title": "Teoretisk immunologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200006102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "0b9f546c9afc0f3d2c435ba298a4e8a9",
+            "191c1a697c07835ca51c102e347437db",
+            "cdc33a505747601bdfce1337997676c3",
+            "ed65e56ba3bb7b0685d7806e933e0813",
+            "5156fef4dd6f4548eaddc86d3bacaa45",
+            "1190c5fbb0b8219e98e31031397768b2",
+            "d188fc3a71977b3f490d09ef66ebf391",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "68d21a5c08900d68cc8cadcd3bfda176",
+            "6d8d729fe210567b93b890844b65afbe",
+            "480393d5d30d76f30f709832f6f291a2",
+            "92979db325d936f971370459cb4aad9a",
+            "f3646f70942d3dee61f8fb0f8989ef4d",
+            "6f23bc3456c310753cccf95595542030",
+            "39fd84a05e1a9e401073f9d659b1ac8b",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "db6d361e9502f3027a9350d09f261844",
+            "53b0805e3f53754230249c92f86481b9",
+            "e61a7010787a505e54fc2a787148d8a5",
+            "23b910c6f456d819a8ee26a567dcad42",
+            "640a9f45e6602e0c277f90a099c1104c",
+            "2533b054b758df7f149c284d0a228d5c",
+            "dc1ea740e78a12fbe17be1a72d5832f2",
+            "ad4a4c431819ca0ee76bc8c143db8736",
+            "7dc164047aba6dd2efd0af84ec8dbec9",
+            "9e730b21940771134ebe32b90f5faa09",
+            "ef23989586e23e871657df60849249e3",
+            "da5db738c6d4aae608711451998bbb41",
+            "3841b08f6517c67d4cc1a890454a6452",
+            "bffe04f2074cf7490d8d37645e2cd02d",
+            "7caf108c144f927a990d8d24e46f1fa9",
+            "7e0872687bd7e3d4128896daea3e65dd",
+            "b4fafd4c8f06feb91ecac9ceeff55874",
+            "f8313110a92ffb44cd6abef1fcf9b100",
+            "5fb5e22b1f6dc64b436d5f8d8667fa18",
+            "c6481d125ebb834065c9c3c8741de446",
+            "4f0daddd37dfadc3a4297e6da49ffdc7",
+            "4ff897f7e27b3a9cbcf35cf976159d3f",
+            "dea8d6dc7092b4448d76a53b96a8add5",
+            "2781820933070bb10291105313be2ac1",
+            "a0b4b7dc13a7285afd4a5a1c285be352",
+            "67abcc343d3687cfb9cd30fdba44834c",
+            "66a88bac1648ac0aff6ea0c2f160215f",
+            "026d47d2c5a4b020663e09945ca40c4f",
+            "ff0b95d23dfd9b6708ae250d411f708a",
+            "b6962b120549bfb0d16020521e97b7a0",
+            "bb3dcc889410898cefe95dec36a7babe",
+            "21d2e86730eca6f0eff5f783cebdf38c",
+            "6d8df3ad7bb0c8b9c5a1b8718a5d24c6",
+            "322fe1c29090fce6e3255d4ce19448bc",
+            "3db0891986ce9f131938c4905e45c705",
+            "66b190a901531750c55e30e6d465622f",
+            "9be85e7ca3048c27d5201575c9f52d69",
+            "43bc32410d8e64b870893be4670f5497",
+            "f42dbf18e68782869396a9679c8030a1",
+            "bc4cb0def4b635490e88876a4f010990",
+            "fade88447e2986d2cb992dcafbcfeb1b",
+            "cbb3e0feeb1eb8e1e3158655593d2169",
+            "4be179650e422f19bc16f9bb0e45bdf1",
+            "869c0f672a160c6624f7f692ed3605ec",
+            "098ac9b3ce60f1525c6ed59344a5df07",
+            "b398b68fcc74d995b7910b23fb1f12a3",
+            "20b96b4794adb326ad7a13235c868407",
+            "023ce38019352bf9f3025f3e3887fb26",
+            "5136af11f4917826dfd9e4334b9038cc",
+            "8e1af81701280edebe0b26809db5b980",
+            "7990a4479f92b2f1c0e6400ceaa090b3",
+            "e48c9dc0ce32882d6c888d1c88951660",
+            "6b8a8ab700b9916d9ed56474468b547f",
+            "904baf2f8dc79dde07d2954df1ecb5ab",
+            "d9bf4f523eb01fbddf75dd9923019c8f",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "46e21fe8b368e975c82d18e1c8d88c57",
+            "0d36b2b712f3c42f680194d2a6422aa6",
+            "4dc71fd4742afd2fa4b0d78ac4d90c24",
+            "4456b8acd9248945aeb9374caa224ade",
+            "875cf4d282f2df97e7f047605aafcf0f",
+            "38e742bee06278b013cd653f0f659c18",
+            "25107ed0f184dac7fc50619f068a6d27",
+            "4b2b4cd6129fd756ab45de14f725c472",
+            "9d8d64916ecbe7155f8a7682a5bb82af",
+            "c5094189a53ec9ee47723f230299912a",
+            "5c3efc7ed8a4e04fedac3ba8bcf63dbd",
+            "a1504023f9d3679b80b4a090b575c890",
+            "a671daf982813ca86b2edd70e339b3df",
+            "2eeb412508b2e79680644c2c67aa253e",
+            "aaf4e3d4aae25f828adff22600deaf61",
+            "b803d73a622d8f3d526c4f5245dc5f03",
+            "fc025828e7d026841f7e0ec89a516701",
+            "725e275a6a6e1e8d61fcd6e5e8c06ae5",
+            "4139fb4c94dafa1cd059d51bf8928d22",
+            "b0f3c556e2454487b78f184350172751",
+            "04f625762203efd0ad5b8dc87330891c",
+            "ed2def67ea1ef9e282fdf40888e68fcc",
+            "80a07099ecc048f9c4f294bdfb937824",
+            "016444590c16603efb4048cf77349b3a",
+            "762f91ff69a4cd7c653cb8e5974be64c",
+            "ad489b23963d1c40d67c0930ae268bf5"
+        ],
+        "nstds": 98,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200005102",
+            "N800007102",
+            "N200004102"
+        ]
+    },
+    "N200009102": {
+        "STADS_ID": "N200009101",
+        "NAT_code": "BMB530",
+        "title": "Grundlæggende biokemi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200009102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "72b18e4595b050988ace311fffc508fe",
+            "2b8bbaf537f8f18ab28743903054671a",
+            "416de63da21752a2957ca36f2700c907",
+            "92156d4186bc7158d3a9e6bc651cc717",
+            "478f39003196e75aa1b63e42c2f82a13",
+            "b58689ad0e2ee92c9ba852ff8170315f",
+            "008db551a870ff8330c1e3b1ec4c6f1b",
+            "7d84416d0c591bd23d469493298a33df",
+            "577665371f73897ca4b057644a28b240",
+            "f067fb9821b7df0b1beccff7681d9f2b",
+            "d5bb1e566a1a03c65fdffea7ab96a21c",
+            "12d09202ec41e499787c3ea2d01531d8",
+            "6cfa20f95c4b323527cc7a14db5b6006",
+            "455b702abbe9395c329e755ef285dc7e",
+            "b571481d1f154b3ab5086a46bdc3c9ac",
+            "5bb55c23fe97cf3cb1a6490d9546d3b2",
+            "c83763db7983d1e26233128c177466b6",
+            "e6b026143c19e55d68b97b6c244e3c91",
+            "233c6c4b1e26eacaaad2cd16c7b15d05",
+            "b386279fc333b19717be3cd656c74168",
+            "9422192c68878f9aad94b552265c81d4",
+            "dd5111098859f8faa4c4733c8f61fb4b",
+            "48388a35e2eb16db2863fb8961f2d120",
+            "3ceb19b3f894e1c1323bad0b0ab40e05",
+            "a9b861ccccd327d6a8ff4d33f7963733",
+            "3e5cd518a7706e133f3f42ab75cbdaf6",
+            "da36ed8b344a0c9e0bbe54e72c83810d",
+            "93a6878fee800d4e4a093f55e2571e1e",
+            "3414edeb0774ade444254ab49b8f2fe5",
+            "8020a019b06a327db6eb6471f0ffee82",
+            "40bddee0d66a43b3cddb967f9c8f6a9b",
+            "1a2ac3098021f1206f522107f9c2cb33",
+            "0fbd7f8ab390883e3c788cface967181",
+            "4b9f8813692ade1f6efb9bb4cc164bdd",
+            "2d076e44141b0ac071bd0240687e321b",
+            "ec48c4fe717b715adb76c663fb026f63",
+            "141099bf93e849ca39297955892d8aa5",
+            "4b6a4eb4effe16543c82937c78c4a88c",
+            "4955d6087baaa8e391b5b3e358001457",
+            "aa3358e0c69ce8d650a624fca3c06fa0",
+            "6e701f60c0d678a57b08c0cf1e0bb132",
+            "6b8a0355f120049f8f52a4065fa7d680",
+            "e51789393840658d20d74eba8944d3e5",
+            "42aa7a9e1e4478034cf3f1a4a036ef7a",
+            "47fffed094d7eff2cb16842e81090077",
+            "b58f6a10ca0eb4982715c8e63c26487c",
+            "e892ea629d61d36b726479500ac70638",
+            "a6fe3156de145727688b841da2abcdcd",
+            "4f7172b59d4a55824f2531718b154317",
+            "267d287bd40283d8b6a11d47fc89bff1",
+            "8dd54c3afc4ead905d157197037024f8",
+            "dcf56873bd6548090f7f13338baafb25",
+            "42c50f50ac98a2c4c7909d20ec728207",
+            "acbc22bb01d2682b5ffc2678317a9b23",
+            "d1fab55686bcb61923b7eaec841863fc",
+            "3091f501765668f0de80d7cfc8ff0701",
+            "74d3df4a96f283b8a96a0ec35de041f5",
+            "8d0d24ea42a08ce8b7bb43dbf4bf26b0",
+            "6ea5b39170054411d478f6e00886ad30",
+            "0ac6f84505a1a10d27c842b03d9f066e",
+            "48c5fa7a6cdd67943f1539ac5625a524",
+            "487bdb01d1f93dcc6522a47ada3b83d3",
+            "fe90407dee20a508f06dd2ba249316a0",
+            "ded1ca7df99e7b48c2b464af6b5af14a",
+            "3d64ed1c4b5ef8404d5f8c1db35763e0",
+            "89f53191c71b4a9d25b9469f171be38e",
+            "b2175b9c6ea245d8804642560422a446",
+            "2c00d9ac13be5038c7564ca87e2d4065",
+            "1f1f2612cfe0d91d5654c95c99cb0d6a",
+            "7204403c72a08dcd4f8f6150a0bcf808",
+            "ed7f1b11d717ea9962a05815b3941a23",
+            "e0d7b33ec1abe1a49851973074023b5f",
+            "c1004be3a5c11fb096331081205ddf27",
+            "074c6597ca666ee219fdb9e7c62cfe8b",
+            "bd594cd6d00f352c731fdb9b70c40b73",
+            "51fc36ef566089f226e9414a20f9fd0d",
+            "a306d2dfd9dfba8955a3dacf95ac9a63",
+            "229edec30abfd80c53500e343df4a2cb",
+            "3386ec4eab3119f0217252cda5d5cf10",
+            "1bd7945283d442532de485a0861463fc",
+            "6e95426048b3f0faefae9c8d3511416b",
+            "027daba96e1a5df9de68a5a954ffe8c0",
+            "82cdc090a03bf7abd7a8210c3bf7be59",
+            "d5d0814fa8030e3d3138efb5b3c817ea",
+            "6f725239d2325643efce222a1cb79fa2",
+            "71d9aec31f3f62e39ed5dff313974a71",
+            "c7be75e0cffa54977bcbd2f34916f7a0",
+            "5e1960b609e33e8404470447e68904d1",
+            "6041f6b04bfba5810501f0ffc2473b78",
+            "63389288a84334ade3bfac3694c3d5d8",
+            "644432e54138375e85b7056d8e9e4c32",
+            "fc8447b8b2dd3b4f8faa6a7f6f02b226",
+            "b422707ee53ef1baf32876b6e1d3d1a6",
+            "986c92014f197b698c6ddc6d113c90ea",
+            "673d79eb93ab2f778b986c9c38d7e138",
+            "315de0d4df1cbc1b24ccf0ef05c21475",
+            "aee2ebba2d3c46d822255169d16de5ab",
+            "040b6e7319f6796f116a03c8e9807b76",
+            "536a3a2cbd2fa4cb6e478ddd1ab3ad52",
+            "90e2ab2fcf3b8b0b8e0608e6d5a07e95",
+            "00ee9f02337c0427a47dc751c0b5b04c",
+            "a2a7444c2ebcd11cd4bc97eb2dc4f381",
+            "e3b6829922d1abf270aece1ab22fb5d2",
+            "93dcd332bf82226e3a65ffe299e38524",
+            "e2afe8baa649cc06eba5efad16fdc822",
+            "9eb12bc8855cc02c177b7b4c3875e951",
+            "0d81d7c10765096e8b2ea27e3e000e6c",
+            "d095023a953121e1bba4af210dc96b1f",
+            "26a4dcccaec9eac21123e1f0fdd128c5",
+            "1a1ef75aab53ff16f63eb1c2a42c1937",
+            "1625826e3d4bc1af1b75f68bb9de76c7",
+            "47a6dd43e7a13cca21d2e2f798b6b3f8",
+            "e9a50f8ed59ae1e2e7b0e91ad8c752be",
+            "56e6ccc6066860eac983d2a3b76e68e1",
+            "e0b9e9c353b93c7354c1a1d0071458d6",
+            "48e09626ede4eb7932b0291247e4ecfd",
+            "dd09b1ab1ab35b375cc07cb9df9e7872",
+            "558df6524ea92756ae757e3f6ce311ff"
+        ],
+        "nstds": 118,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N100064102",
+            "N100029102",
+            "N100007102",
+            "N560011102",
+            "N200031102",
+            "N560033102"
+        ]
+    },
+    "N200019102": {
+        "STADS_ID": "N200019101",
+        "NAT_code": "BMB540",
+        "title": "Fysisk Biokemi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200019102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "2fa8e5d108efe2faea0a26a54f53ad51",
+            "074376260d61a06a8a0c7122dff62415",
+            "673eb8057b9bd71d484273557fc25a35",
+            "573ec6c8506c07d92270f61a4c50ab49",
+            "ef9dd2ace97e68d3b056216330bed9cd",
+            "4eb333a110f7b8fcdafebf11c89db031",
+            "ef9f70b5765d091bee0d3ab246af9fa8",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "cabb3ff5b620135b1b59599f4779e032",
+            "26c87979792cce2879ed1c84b0b809e5",
+            "b27b20108553e2f002c3e200227a744f",
+            "6f01ef41cf96733c9039f9de4a4e0ebb",
+            "50b693430451c172b6d1d076127cd9eb",
+            "c4003f866e702f383a13d07ef8c5e946",
+            "9e517ef5b4744b05f232ddae0e5cdedb",
+            "ee9e0253b2d7f7f05152af287976bc7c",
+            "26f8dae2ea474e91769681948e00bbbd",
+            "9608496eb27568837d004147823e2e89",
+            "9e6b78aad89fe81e7be982f9f93802f2",
+            "80bde473d02d10ac8fef0c37eec37f6e",
+            "3768b0df712ac69e94c33a766cd65293",
+            "ef0bc59720f267cd24ab6a782a46ed26",
+            "634a3ac1d39fec2025714b369ff583ce",
+            "2e63fe6e88f6575d77a637e6e8f94446",
+            "ddd376d8434dc5692e29601b9aec6f38",
+            "b0423de0c75b42c5b3b02ea164843af9",
+            "80770a74fc4be1706022034880544e50",
+            "ef7e34645e9b0ba360eb8f267b55f2bb",
+            "7c90e9ba4594217605ee7d21f6b34392",
+            "dfcab2e1feb31b544cfefecadc48977e",
+            "312856f80eee88e8451552172f05541d",
+            "69d4113d6fb87da8fa36cffe578d2251",
+            "1f0b72c9eb42e26c663f9a75933b215a",
+            "0d13dae474f19e867476560500106574",
+            "f8a88cfde6820ef27d5c9a4f0af0ccb5",
+            "009f8a741b8f6d597dab2e9e299cc585",
+            "86c7dd50d7ef08d1f2d7f52d02a2266e",
+            "cf34dddf566537c285699ea61e988ae6",
+            "a64011a0f60bc89411f102265b187789",
+            "9b473b1e847f2aa6ccbf32e539c7ab16",
+            "c9224562d623f737aab1034205a7e4de",
+            "97f8e5a76cf7532ac5e17b5bd389dac6",
+            "854cc46a21f3cb0ab397bae81e26302e",
+            "ed56cc9e803063f6fbdcc6dc6b02c59e",
+            "a8d4af943bb26325ac49440bfcabd845",
+            "db34c77d5307598c264ee4d49c9ba529",
+            "bb636d949c2ecaf28e7e723308004659",
+            "2169fd4df3f351267f48eaec0e328ffb",
+            "ea1464f481b041cbc3e067b070bc0015",
+            "24ff4b621fa32b3f459364ee65d0adfd",
+            "4b015f99b88b7c03855a7805296351c7",
+            "e6025c4c7ddb9006509d4b22164cff70",
+            "d0336a7cb1edf68614a8d123b18682d9",
+            "a68a2f4341de393013b242d7dd329fc9",
+            "ffb81512d77285ff37cec3ce77cf2584",
+            "e6a606447cf676aaceee7504949d7780",
+            "348a9a542a419e0cd98b7f485f8fd478",
+            "bd7c62e1475800d07e3e09ec75d0f2be",
+            "dd00195f94dfadbef123608e09035239",
+            "c874464e4c6eb5dcb7de8bf247011781",
+            "2881ab2bdb607ceda670b1c58534ffa8",
+            "25d5516cc19789caa0ab8cf4d269b7fe",
+            "129261816645204f9ef17db51e53c24a",
+            "2ac852541acf31ea926f1825f4b6cd25",
+            "97b15b45e7b5df65eb2aa28c30ea9559",
+            "63bb54d269795e09ec74421e6e4b0ed5",
+            "092e35bbfa7fdf5889c5b46835eeaaba",
+            "17ae2fa03d11d1559180ac85a5b14917",
+            "5c6123064f166499bd560a87bd23a7a7",
+            "72961ae8eb7b9f571d9ec7567e6691b1",
+            "1febb4b37eecd76df1614e5e6807ebf2",
+            "0a160a44b81f8babbf1a7076fe5bb91c",
+            "1de106f3a37347e4fe6226f1d8e485ee",
+            "458f77a45b31c28a88da24be6832e4e1",
+            "dde9ac743aad1af2000a4c7fcc08cc5e",
+            "e07a89fd832354d931f271c6ee1f5b49",
+            "2f52fac48aa21bceb4a4ec4c04d90fa4",
+            "ba7ddc56d6348d3cf25bad3834706fa5",
+            "ceb499a56b8e15806c0bcd1564d4f964",
+            "ede122e963cb8568802a7f48779573e9",
+            "5c3c8601feb2ed013f1a4127985618f5",
+            "a87e66e95b7f2a62a2daedab13a05bcc",
+            "243d97768626c0bf6a4c2cf842a11f2e",
+            "472be1348f6d07008a6f6a0dde19196f",
+            "77faff806c8afc7b2eeab0738185f91d",
+            "69273ce7108d2708a62f0415abc59327",
+            "aaec0bd7cefd57341bc36b55b9129b1f",
+            "5e458f42023eb257660004fb91228562",
+            "2c9efedd96fa21f6610e8bba4cc38763",
+            "84f7e22a5acbc3402d834666f9074639",
+            "b39a8d541acce602753bdbcb4247f19f",
+            "9c5e5bb725cd2e03624160ba5191ee28",
+            "72d2e513f5e80b7c91e1895c13efe085",
+            "dafad1610dd43fdc98dade130a8d9e54",
+            "8acc4939c8896a5693bb2032edb1f736"
+        ],
+        "nstds": 95,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200004102",
+            "N200036102",
+            "N200039102",
+            "N800000102",
+            "N530061102"
+        ]
+    },
+    "N200020102": {
+        "STADS_ID": "N200020101",
+        "NAT_code": "BMB541",
+        "title": "Principperne for udvikling af lægemidler",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200020102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 2.5,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "dce42590da8f590862495e8cb741f4b9",
+            "52b32c65312f29ebffb285bd8595336b",
+            "61c750e0837aeaaf008ee1133e8f7184",
+            "c655db7e3b2dcb0e925650e30d6fe036",
+            "c21699dfd521c6312f3ccc4daab42f90",
+            "56c59002b261d7d0f34ac19dc259ac70",
+            "6fbd1389a25fa27d798ec63ea30874e5",
+            "dcef89ab086e296a27a6bfb66d7ca597",
+            "12527c29b3bb3e14a0ff40cf5c32310f",
+            "5056862df5c8a19decaa96730f7d7f54",
+            "aaf9ce0a5bba63222cb0d69d923c9d08",
+            "9a31eae013d26768b917c76e27d70332",
+            "eaed12cf96f07c96a771f0ccb5675532",
+            "d5a4941df354ce8d741ca248dbc3c441",
+            "dc91b141598c5b193518d9dc3ada7a48",
+            "db35fe15b87e527751d8af4fbe821010",
+            "d370d703067ebf02deafb0c4d2fc9bf2",
+            "34615e198af8f2b1f691434e787a875f",
+            "1ac2df58345f2bf4bb71d142d9670168",
+            "dd1f642a72ac8e2dce9fbc01a4568b94",
+            "c8746f37ab4a1cb983b8e85de2d7d8f5",
+            "e18f109c2b3d83bfa605dae50b40b080",
+            "bdc00daffe91a780a8db05ec4ca6ef45",
+            "7de6036b44da1be9492571204e7e2795",
+            "d54c8e957a70079fb211d1b0033a988e",
+            "5bfb209d6b8ef1aa252a5f9f36fd6680",
+            "d624d5ee9a2e014f2e39f8b4ba7e9c67",
+            "e5fd86158f0264989e37b70dedaf4561",
+            "d214506e814022f268dfbe2a4f8999f4",
+            "e7fd0dbc30fe0d690ff0344fb0c42f05",
+            "1944d0aeb33511ad9ae210bb176023a7",
+            "d4188331e29a801551eb6d1233c57972",
+            "5cd40c490f194e20d57a096cda4fe22d",
+            "d9def4358d7f7fea86e7d531c99f63ac",
+            "4b03475687c914f578f625a7735ebefe",
+            "0728c284463483f269c3bd26ebd4e232",
+            "98507f96858a74401563fe98e57fcb3f",
+            "f46ac31d5ec11fbb45535a09675c0b84",
+            "5ee71f5aaf017959897a7210f706dbfa",
+            "e210ca1eca2a46133310918e991d2106",
+            "ebdbb30b0b6aad73f7a67b6c62e92a13",
+            "f0480e76c7106e5a4bd7f8a66de8d2bd",
+            "3835cf16e6e84753385a8c930ce8a843",
+            "b847b55d65d5203ff37040528f174af8",
+            "b7b80390507a65712c537bcc66daeb57",
+            "5c455862dd9665c24e3862ad554e1305",
+            "5cbc75733007018559377fc0c9937ee3",
+            "5dc2af94df6a9de12c0f83f952bef7e5",
+            "5c77fc4efe5f96ca28468e5c2b63da4c",
+            "dd4aae42daa8e1569bde489966cd0b1c",
+            "4976e94c92ee8bdc9b9a6d3bdf8afea8",
+            "ea3e9f0cdbb470a6c8c7809e895a9436",
+            "f52106e4d6406b01dae53883d203837f",
+            "c2003784fafaef1e6a497fe2b238cf80",
+            "850d7edd6bc37fd9b5897a97e5a95976",
+            "958fc38363cb190897e6f52f2815f005",
+            "06ad2cb3ef22e7c134f6997724c271d2",
+            "16ab7c0388cd1afcf141975a522e31b8",
+            "dfd45f61dcf7687d007a139e708e6bab",
+            "fa56520c5e0dbabfe6c1c3d206861b13",
+            "f8087672248b1ed778f12c879438e875",
+            "5005217b12e7cbeb888555330814c9fc",
+            "134846cb0bc5fc8bd99f63d11d897ec6",
+            "5e6d0c56fd560dacae0bf0efd6f404f7",
+            "495412dfe8f41316e117bb76628ab505",
+            "96066c8fa464304fada40776d62cbfa1",
+            "236f1dacd5a15886965b23afe5254f0f",
+            "37933836866f29a1e9e7f1c9ee88ee81",
+            "a659b1c2cd01c78f08ae2937780a6b88",
+            "b7bd9f9e178232833abe1fd2bdeaca7a",
+            "7b3e21d72d4ed59f385c259e2f3cd61a",
+            "45ab107e6aaba69b95f79d63d670e880",
+            "ba3b3e34c252032104ae02cac08d1863",
+            "3cb6b85d62c9d49b3773a5796a6ad319",
+            "5100ad5f619aa4cb9714a9ca82b47d86",
+            "0405708fbc47f4a492cb98efc4b8275e",
+            "1f585beb34c6ce5ca1610e529a9217ca",
+            "6e3371617532fe52863b1adddfc070a4",
+            "c7ae95ba16db98bad38cc97a4e1ea6aa"
+        ],
+        "nstds": 79,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N200046102",
+            "N530042102",
+            "N200044152",
+            "N200042132"
+        ]
+    },
+    "N200030102": {
+        "STADS_ID": "N200030101",
+        "NAT_code": "BMB538",
+        "title": "Cellulær Identitet",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200030102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 3.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "7d4e53d530c63a358ab34ee3d8bbad99",
+            "d46e949a402b99dd6235cf74d7cef238",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "be134f0e726741d97f6260d66f5fb66c",
+            "0e527f718eb9760a2db629a68f0d9057",
+            "8f151a768ba7177149dec92b81152a98",
+            "b28c700724a6f84ae5893741b4f52d83",
+            "3567bec0cf4b529d97e691af3453c76c",
+            "402f75d6da16afbf6f8ce4987eccebd1",
+            "7e959aac4fbbda2b709a7294570bc935",
+            "4493f6526f37191dec092c3e13325b5b",
+            "c875a38c329fb3b6e0312213daddc96f",
+            "c705993cde7742c761f8ace12dc0bda0",
+            "4c77353326445facebb9748d4556acb5",
+            "35f73a38114fb8579a571265f299e5bc",
+            "357ddc2cd26501e0306ad9e37794f577",
+            "d379a91abaa73bd786bd59998478cf6a",
+            "372d2704288caa576bd808fde3e00f5d",
+            "6846e1eb0242f06b9ddd5216db2f60dd",
+            "859b2fbcb20b3491dc3e43249c75f335",
+            "331886147f2294968906a93141200c31",
+            "db402ed5e624bf718c71bb6d4ef61184",
+            "77b8324a9e710c9f697fd4acdcb19eee",
+            "17fba966f4f112d63edee47f601fad44",
+            "a9aa259ce2add57bb619c40934f95ee3",
+            "ea2af69392b74f237fc4cd58c87aa4a5",
+            "2c028ae144e80b32cd57ff0cfa545851",
+            "b503c9addf1bec46c7bb9fbd38cea32a",
+            "91524fbb3e98df2439096b342d84e36d",
+            "311b6b76ae924675aeeea36a03aabe0e",
+            "a8302cad78100f2aa20422c6b6d340de",
+            "b835f60b3fbb330191ed4b27f7ce81f1",
+            "635baab284f0fd8f72380682b5fa7e9b",
+            "4a7ae698cc7003d6a0dd3b742146819d"
+        ],
+        "nstds": 36,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N530042102",
+            "N200046102",
+            "N200042132",
+            "N200044152"
+        ]
+    },
+    "N200031102": {
+        "STADS_ID": "N200031101",
+        "NAT_code": "BMB504",
+        "title": "Fundamental Molekylær Biologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200031102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "72b18e4595b050988ace311fffc508fe",
+            "1e4ed1e1ab27e3a9166db215b3838d27",
+            "04db3108929557d8163e6e4b9bd39da2",
+            "1ed78f03612b0586c5bf24f638cf58b8",
+            "2b8bbaf537f8f18ab28743903054671a",
+            "eec2347a93a734114480dc87065a6e25",
+            "416de63da21752a2957ca36f2700c907",
+            "cb1e5059a41c6a08037e4a946f286120",
+            "92156d4186bc7158d3a9e6bc651cc717",
+            "9eea0f4de525e51e6e1e0675c6ac35e6",
+            "bf30103e7f0f5b6d1c278a5f0f9b0420",
+            "0d6f98e9468999c0c01dc3f9993088bd",
+            "dc4b61ca7bb169a977f287ae6fd0638b",
+            "661d43bbe57cf27c41782a8c8f64fa5a",
+            "a4544dddfdf5ee3da9a34547988227ef",
+            "1f852a144c1e95eae6b0be975e2c5db9",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "330055aa0ebaeda7a66e23a49116402c",
+            "afaa5136f8529062bfcf9288385b226c",
+            "898702ca2c3d311a53db50b36fbeef63",
+            "1b216df81c605deb0a83b302dabbdd1e",
+            "5715b2af756ce7d7e51498a674777e5a",
+            "0145b98de741ee3dd5c9fda0e50b9ffe",
+            "1e8b31e4a1d09321dfa8aeeb2008c6b8",
+            "f067fb9821b7df0b1beccff7681d9f2b",
+            "996bda694679da9534e3c48e50cf829d",
+            "4359ab23b1fea03e1057f48a7461f1a7",
+            "9ac691928c827f0b884ba0722e04d443",
+            "74cc83f091ff486f328210822f1b50d1",
+            "416f8cf4bca88f1207a9c66dfc91e513",
+            "b571481d1f154b3ab5086a46bdc3c9ac",
+            "b3710f6fa0f53e1ab2dc7dd1ec26c4da",
+            "0e20f5749b7e1c1d26f8ad325bcf36dd",
+            "976097e4f078142c5f630703aa207c8c",
+            "e4557d981b7afb3a7a7c4796be10a4bd",
+            "b1d5e2af35fd6a6e5c08b2f4d72be581",
+            "8c34629a86cfbfbf3c8a917d6be66130",
+            "5604dfecc183cff108051b545bea4e89",
+            "d503fe9f799dd0c516c15499a74e7529",
+            "233c6c4b1e26eacaaad2cd16c7b15d05",
+            "c8bc3c440c9e09aadebd5e73f9e24b9e",
+            "0d4f56bbe80321c4ccb34d182e032466",
+            "b7360d39ea459222448d687c4346bd17",
+            "a9aad4e904ca6cbdcbe417c2f471e876",
+            "19fee7bc136f1a3a599405c7d95f385b",
+            "c819c71c0d6fdfe74875a51c0ef525ce",
+            "a229a83372106670aa183b6092dfd274",
+            "624b78d25039697f70393c5e7dad8cb0",
+            "d0f42c72e4ca9b5d614e51fe8df0f415",
+            "899304d85b624be85ae56a3781ac9496",
+            "7099ea1fa16d818709d27b852f282761",
+            "a7d71276df2ec02c4e258d7068f0fe9a",
+            "6dac5e40cd515b7318628b286952c0fc",
+            "ed93e1a778271f35a8b458846721050d",
+            "a63b1391d7ebe7b386d3d6ac1f8c1de0",
+            "dd5111098859f8faa4c4733c8f61fb4b",
+            "0a5cae13ad70c502c858bcd0dad92938",
+            "405a5da60543eabb37fb9a1125e23a9f",
+            "79e9bf549f1f58a80d4c1ef7e3718723",
+            "459c11c4f8f2a9fbe2f33f8cd5bd043c",
+            "3ceb19b3f894e1c1323bad0b0ab40e05",
+            "3e5cd518a7706e133f3f42ab75cbdaf6",
+            "da36ed8b344a0c9e0bbe54e72c83810d",
+            "a9a4d16b165e09ff0d64b094a4d3f5f4",
+            "f744c83890d7b3f0bf88298fad760701",
+            "3414edeb0774ade444254ab49b8f2fe5",
+            "3e7940164d78d0a2a7197f33593daf31",
+            "9a69378aa71135e09e8bce4588070cdb",
+            "e92610d48786a40de3b25efbd999fcd4",
+            "85e1841c6dedbbc8e640ef7711510261",
+            "1b0a57e008b2c21889f1a5638031575c",
+            "7e77976c295fb274a894f72f9bb7fc40",
+            "c440cb1ac7bd41bccbd292f727694d48",
+            "2b32e7ea8a13ba842abda48d3967169d",
+            "d6f3798ecc4c1c3fd7b1522023305809",
+            "3a4dbd73ff4b16f46db0da0102115cf4",
+            "126211c2a0742a3603ce296c5932c0ed",
+            "f4ad0db0919304294a3058313c2ce3d9",
+            "ed927de9e6b13a9cc5be1b528ff5a0dd",
+            "6a96467455ea902838087bfd982f78ac",
+            "40bddee0d66a43b3cddb967f9c8f6a9b",
+            "f5f6f47876d7d6ed9ed0d217d7953d6f",
+            "031ce7eb1f0be59e429852c616c3223c",
+            "738dbf73736eaada3047323433a7e685",
+            "2b014196228659cbfa84ae94a9b0447d",
+            "2d076e44141b0ac071bd0240687e321b",
+            "4b6a4eb4effe16543c82937c78c4a88c",
+            "6e701f60c0d678a57b08c0cf1e0bb132",
+            "6b8a0355f120049f8f52a4065fa7d680",
+            "b58f6a10ca0eb4982715c8e63c26487c",
+            "a6fe3156de145727688b841da2abcdcd",
+            "dcf56873bd6548090f7f13338baafb25",
+            "42c50f50ac98a2c4c7909d20ec728207",
+            "acbc22bb01d2682b5ffc2678317a9b23",
+            "d1fab55686bcb61923b7eaec841863fc",
+            "3091f501765668f0de80d7cfc8ff0701",
+            "8d0d24ea42a08ce8b7bb43dbf4bf26b0",
+            "6ea5b39170054411d478f6e00886ad30",
+            "0ac6f84505a1a10d27c842b03d9f066e",
+            "48c5fa7a6cdd67943f1539ac5625a524",
+            "487bdb01d1f93dcc6522a47ada3b83d3",
+            "fe90407dee20a508f06dd2ba249316a0",
+            "3d64ed1c4b5ef8404d5f8c1db35763e0",
+            "89f53191c71b4a9d25b9469f171be38e",
+            "b2175b9c6ea245d8804642560422a446",
+            "2c00d9ac13be5038c7564ca87e2d4065",
+            "1f1f2612cfe0d91d5654c95c99cb0d6a",
+            "7204403c72a08dcd4f8f6150a0bcf808",
+            "ed7f1b11d717ea9962a05815b3941a23",
+            "bd594cd6d00f352c731fdb9b70c40b73",
+            "51fc36ef566089f226e9414a20f9fd0d",
+            "a306d2dfd9dfba8955a3dacf95ac9a63",
+            "3386ec4eab3119f0217252cda5d5cf10",
+            "6e95426048b3f0faefae9c8d3511416b",
+            "d5d0814fa8030e3d3138efb5b3c817ea",
+            "6f725239d2325643efce222a1cb79fa2",
+            "71d9aec31f3f62e39ed5dff313974a71",
+            "c7be75e0cffa54977bcbd2f34916f7a0",
+            "6041f6b04bfba5810501f0ffc2473b78",
+            "fc8447b8b2dd3b4f8faa6a7f6f02b226",
+            "673d79eb93ab2f778b986c9c38d7e138",
+            "315de0d4df1cbc1b24ccf0ef05c21475",
+            "aee2ebba2d3c46d822255169d16de5ab",
+            "536a3a2cbd2fa4cb6e478ddd1ab3ad52",
+            "a2a7444c2ebcd11cd4bc97eb2dc4f381",
+            "e3b6829922d1abf270aece1ab22fb5d2",
+            "93dcd332bf82226e3a65ffe299e38524",
+            "d095023a953121e1bba4af210dc96b1f",
+            "1a1ef75aab53ff16f63eb1c2a42c1937",
+            "1625826e3d4bc1af1b75f68bb9de76c7",
+            "47a6dd43e7a13cca21d2e2f798b6b3f8",
+            "56e6ccc6066860eac983d2a3b76e68e1",
+            "e0b9e9c353b93c7354c1a1d0071458d6"
+        ],
+        "nstds": 133,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N100007102",
+            "N560011102",
+            "N200009102",
+            "N560033102",
+            "N530004102",
+            "N530022102"
+        ]
+    },
+    "N200036102": {
+        "STADS_ID": "N200036101",
+        "NAT_code": "BMB532",
+        "title": "Fundamental Biokemi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200036102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "2fa8e5d108efe2faea0a26a54f53ad51",
+            "cdc33a505747601bdfce1337997676c3",
+            "673eb8057b9bd71d484273557fc25a35",
+            "1f9ff8e45b95fc7d7d15f43edfa446a8",
+            "ef9dd2ace97e68d3b056216330bed9cd",
+            "9422192c68878f9aad94b552265c81d4",
+            "4eb333a110f7b8fcdafebf11c89db031",
+            "ef9f70b5765d091bee0d3ab246af9fa8",
+            "cabb3ff5b620135b1b59599f4779e032",
+            "26c87979792cce2879ed1c84b0b809e5",
+            "b27b20108553e2f002c3e200227a744f",
+            "6f01ef41cf96733c9039f9de4a4e0ebb",
+            "50b693430451c172b6d1d076127cd9eb",
+            "c4003f866e702f383a13d07ef8c5e946",
+            "9e517ef5b4744b05f232ddae0e5cdedb",
+            "ee9e0253b2d7f7f05152af287976bc7c",
+            "26f8dae2ea474e91769681948e00bbbd",
+            "9608496eb27568837d004147823e2e89",
+            "9e6b78aad89fe81e7be982f9f93802f2",
+            "80bde473d02d10ac8fef0c37eec37f6e",
+            "3768b0df712ac69e94c33a766cd65293",
+            "ef0bc59720f267cd24ab6a782a46ed26",
+            "634a3ac1d39fec2025714b369ff583ce",
+            "2e63fe6e88f6575d77a637e6e8f94446",
+            "ddd376d8434dc5692e29601b9aec6f38",
+            "b0423de0c75b42c5b3b02ea164843af9",
+            "ad489b23963d1c40d67c0930ae268bf5",
+            "80770a74fc4be1706022034880544e50",
+            "ef7e34645e9b0ba360eb8f267b55f2bb",
+            "7c90e9ba4594217605ee7d21f6b34392",
+            "dfcab2e1feb31b544cfefecadc48977e",
+            "312856f80eee88e8451552172f05541d",
+            "69d4113d6fb87da8fa36cffe578d2251",
+            "1f0b72c9eb42e26c663f9a75933b215a",
+            "0d13dae474f19e867476560500106574",
+            "f8a88cfde6820ef27d5c9a4f0af0ccb5",
+            "009f8a741b8f6d597dab2e9e299cc585",
+            "86c7dd50d7ef08d1f2d7f52d02a2266e",
+            "cf34dddf566537c285699ea61e988ae6",
+            "a64011a0f60bc89411f102265b187789",
+            "9b473b1e847f2aa6ccbf32e539c7ab16",
+            "c9224562d623f737aab1034205a7e4de",
+            "97f8e5a76cf7532ac5e17b5bd389dac6",
+            "854cc46a21f3cb0ab397bae81e26302e",
+            "ed56cc9e803063f6fbdcc6dc6b02c59e",
+            "a8d4af943bb26325ac49440bfcabd845",
+            "db34c77d5307598c264ee4d49c9ba529",
+            "bb636d949c2ecaf28e7e723308004659",
+            "2169fd4df3f351267f48eaec0e328ffb",
+            "ea1464f481b041cbc3e067b070bc0015",
+            "24ff4b621fa32b3f459364ee65d0adfd",
+            "4b015f99b88b7c03855a7805296351c7",
+            "e6025c4c7ddb9006509d4b22164cff70",
+            "d0336a7cb1edf68614a8d123b18682d9",
+            "a68a2f4341de393013b242d7dd329fc9",
+            "ffb81512d77285ff37cec3ce77cf2584",
+            "e6a606447cf676aaceee7504949d7780",
+            "348a9a542a419e0cd98b7f485f8fd478",
+            "bd7c62e1475800d07e3e09ec75d0f2be",
+            "dd00195f94dfadbef123608e09035239",
+            "6332c8d03f185c2e79e7d1fb47c53005",
+            "c874464e4c6eb5dcb7de8bf247011781",
+            "2881ab2bdb607ceda670b1c58534ffa8",
+            "25d5516cc19789caa0ab8cf4d269b7fe",
+            "129261816645204f9ef17db51e53c24a",
+            "2ac852541acf31ea926f1825f4b6cd25",
+            "97b15b45e7b5df65eb2aa28c30ea9559",
+            "63bb54d269795e09ec74421e6e4b0ed5",
+            "092e35bbfa7fdf5889c5b46835eeaaba",
+            "17ae2fa03d11d1559180ac85a5b14917",
+            "5c6123064f166499bd560a87bd23a7a7",
+            "72961ae8eb7b9f571d9ec7567e6691b1",
+            "1febb4b37eecd76df1614e5e6807ebf2",
+            "0a160a44b81f8babbf1a7076fe5bb91c",
+            "1de106f3a37347e4fe6226f1d8e485ee",
+            "458f77a45b31c28a88da24be6832e4e1",
+            "dde9ac743aad1af2000a4c7fcc08cc5e",
+            "e07a89fd832354d931f271c6ee1f5b49",
+            "2f52fac48aa21bceb4a4ec4c04d90fa4",
+            "ba7ddc56d6348d3cf25bad3834706fa5",
+            "ceb499a56b8e15806c0bcd1564d4f964",
+            "ede122e963cb8568802a7f48779573e9",
+            "5c3c8601feb2ed013f1a4127985618f5",
+            "a87e66e95b7f2a62a2daedab13a05bcc",
+            "243d97768626c0bf6a4c2cf842a11f2e",
+            "472be1348f6d07008a6f6a0dde19196f",
+            "77faff806c8afc7b2eeab0738185f91d",
+            "69273ce7108d2708a62f0415abc59327",
+            "aaec0bd7cefd57341bc36b55b9129b1f",
+            "5e458f42023eb257660004fb91228562",
+            "2c9efedd96fa21f6610e8bba4cc38763",
+            "84f7e22a5acbc3402d834666f9074639",
+            "b39a8d541acce602753bdbcb4247f19f",
+            "9c5e5bb725cd2e03624160ba5191ee28",
+            "72d2e513f5e80b7c91e1895c13efe085",
+            "dafad1610dd43fdc98dade130a8d9e54",
+            "8acc4939c8896a5693bb2032edb1f736"
+        ],
+        "nstds": 98,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N200039102",
+            "N200019102",
+            "N800000102",
+            "N530061102"
+        ]
+    },
+    "N200039102": {
+        "STADS_ID": "N200039101",
+        "NAT_code": "BMB533",
+        "title": "Molekylær biologi og proteinkemi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200039102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "2fa8e5d108efe2faea0a26a54f53ad51",
+            "d188fc3a71977b3f490d09ef66ebf391",
+            "673eb8057b9bd71d484273557fc25a35",
+            "212896237038419b049d861bb328bf79",
+            "573ec6c8506c07d92270f61a4c50ab49",
+            "ef9dd2ace97e68d3b056216330bed9cd",
+            "4eb333a110f7b8fcdafebf11c89db031",
+            "ef9f70b5765d091bee0d3ab246af9fa8",
+            "cabb3ff5b620135b1b59599f4779e032",
+            "26c87979792cce2879ed1c84b0b809e5",
+            "b27b20108553e2f002c3e200227a744f",
+            "6f01ef41cf96733c9039f9de4a4e0ebb",
+            "50b693430451c172b6d1d076127cd9eb",
+            "c4003f866e702f383a13d07ef8c5e946",
+            "9e517ef5b4744b05f232ddae0e5cdedb",
+            "ee9e0253b2d7f7f05152af287976bc7c",
+            "26f8dae2ea474e91769681948e00bbbd",
+            "9608496eb27568837d004147823e2e89",
+            "9e6b78aad89fe81e7be982f9f93802f2",
+            "80bde473d02d10ac8fef0c37eec37f6e",
+            "3768b0df712ac69e94c33a766cd65293",
+            "ef0bc59720f267cd24ab6a782a46ed26",
+            "634a3ac1d39fec2025714b369ff583ce",
+            "2e63fe6e88f6575d77a637e6e8f94446",
+            "ddd376d8434dc5692e29601b9aec6f38",
+            "b0423de0c75b42c5b3b02ea164843af9",
+            "ad489b23963d1c40d67c0930ae268bf5",
+            "80770a74fc4be1706022034880544e50",
+            "ef7e34645e9b0ba360eb8f267b55f2bb",
+            "7c90e9ba4594217605ee7d21f6b34392",
+            "dfcab2e1feb31b544cfefecadc48977e",
+            "312856f80eee88e8451552172f05541d",
+            "69d4113d6fb87da8fa36cffe578d2251",
+            "1f0b72c9eb42e26c663f9a75933b215a",
+            "0d13dae474f19e867476560500106574",
+            "f8a88cfde6820ef27d5c9a4f0af0ccb5",
+            "009f8a741b8f6d597dab2e9e299cc585",
+            "86c7dd50d7ef08d1f2d7f52d02a2266e",
+            "cf34dddf566537c285699ea61e988ae6",
+            "a64011a0f60bc89411f102265b187789",
+            "9b473b1e847f2aa6ccbf32e539c7ab16",
+            "c9224562d623f737aab1034205a7e4de",
+            "97f8e5a76cf7532ac5e17b5bd389dac6",
+            "854cc46a21f3cb0ab397bae81e26302e",
+            "ed56cc9e803063f6fbdcc6dc6b02c59e",
+            "a8d4af943bb26325ac49440bfcabd845",
+            "db34c77d5307598c264ee4d49c9ba529",
+            "bb636d949c2ecaf28e7e723308004659",
+            "2169fd4df3f351267f48eaec0e328ffb",
+            "ea1464f481b041cbc3e067b070bc0015",
+            "24ff4b621fa32b3f459364ee65d0adfd",
+            "4b015f99b88b7c03855a7805296351c7",
+            "e6025c4c7ddb9006509d4b22164cff70",
+            "d0336a7cb1edf68614a8d123b18682d9",
+            "a68a2f4341de393013b242d7dd329fc9",
+            "ffb81512d77285ff37cec3ce77cf2584",
+            "e6a606447cf676aaceee7504949d7780",
+            "348a9a542a419e0cd98b7f485f8fd478",
+            "bd7c62e1475800d07e3e09ec75d0f2be",
+            "dd00195f94dfadbef123608e09035239",
+            "6332c8d03f185c2e79e7d1fb47c53005",
+            "c874464e4c6eb5dcb7de8bf247011781",
+            "2881ab2bdb607ceda670b1c58534ffa8",
+            "25d5516cc19789caa0ab8cf4d269b7fe",
+            "129261816645204f9ef17db51e53c24a",
+            "2ac852541acf31ea926f1825f4b6cd25",
+            "97b15b45e7b5df65eb2aa28c30ea9559",
+            "63bb54d269795e09ec74421e6e4b0ed5",
+            "092e35bbfa7fdf5889c5b46835eeaaba",
+            "17ae2fa03d11d1559180ac85a5b14917",
+            "5c6123064f166499bd560a87bd23a7a7",
+            "72961ae8eb7b9f571d9ec7567e6691b1",
+            "1febb4b37eecd76df1614e5e6807ebf2",
+            "0a160a44b81f8babbf1a7076fe5bb91c",
+            "1de106f3a37347e4fe6226f1d8e485ee",
+            "458f77a45b31c28a88da24be6832e4e1",
+            "dde9ac743aad1af2000a4c7fcc08cc5e",
+            "e07a89fd832354d931f271c6ee1f5b49",
+            "2f52fac48aa21bceb4a4ec4c04d90fa4",
+            "ba7ddc56d6348d3cf25bad3834706fa5",
+            "ceb499a56b8e15806c0bcd1564d4f964",
+            "ede122e963cb8568802a7f48779573e9",
+            "5c3c8601feb2ed013f1a4127985618f5",
+            "a87e66e95b7f2a62a2daedab13a05bcc",
+            "243d97768626c0bf6a4c2cf842a11f2e",
+            "472be1348f6d07008a6f6a0dde19196f",
+            "77faff806c8afc7b2eeab0738185f91d",
+            "69273ce7108d2708a62f0415abc59327",
+            "aaec0bd7cefd57341bc36b55b9129b1f",
+            "e4d8d056d6b9656e2c3154e91a99b5fe",
+            "5e458f42023eb257660004fb91228562",
+            "2c9efedd96fa21f6610e8bba4cc38763",
+            "84f7e22a5acbc3402d834666f9074639",
+            "b39a8d541acce602753bdbcb4247f19f",
+            "9c5e5bb725cd2e03624160ba5191ee28",
+            "72d2e513f5e80b7c91e1895c13efe085",
+            "dafad1610dd43fdc98dade130a8d9e54",
+            "8acc4939c8896a5693bb2032edb1f736"
+        ],
+        "nstds": 99,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200036102",
+            "N200019102",
+            "N800000102",
+            "N530061102"
+        ]
+    },
+    "N200042132": {
+        "STADS_ID": "N200042101",
+        "NAT_code": "BMB547",
+        "title": "Molekylær Data Science",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200042132",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 3.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "7d4e53d530c63a358ab34ee3d8bbad99",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "dce42590da8f590862495e8cb741f4b9",
+            "573ec6c8506c07d92270f61a4c50ab49",
+            "52b32c65312f29ebffb285bd8595336b",
+            "61c750e0837aeaaf008ee1133e8f7184",
+            "c655db7e3b2dcb0e925650e30d6fe036",
+            "c21699dfd521c6312f3ccc4daab42f90",
+            "56c59002b261d7d0f34ac19dc259ac70",
+            "6fbd1389a25fa27d798ec63ea30874e5",
+            "dcef89ab086e296a27a6bfb66d7ca597",
+            "12527c29b3bb3e14a0ff40cf5c32310f",
+            "5056862df5c8a19decaa96730f7d7f54",
+            "0e527f718eb9760a2db629a68f0d9057",
+            "aaf9ce0a5bba63222cb0d69d923c9d08",
+            "9a31eae013d26768b917c76e27d70332",
+            "eaed12cf96f07c96a771f0ccb5675532",
+            "d5a4941df354ce8d741ca248dbc3c441",
+            "8f151a768ba7177149dec92b81152a98",
+            "dc91b141598c5b193518d9dc3ada7a48",
+            "db35fe15b87e527751d8af4fbe821010",
+            "d370d703067ebf02deafb0c4d2fc9bf2",
+            "b28c700724a6f84ae5893741b4f52d83",
+            "34615e198af8f2b1f691434e787a875f",
+            "3567bec0cf4b529d97e691af3453c76c",
+            "402f75d6da16afbf6f8ce4987eccebd1",
+            "7e959aac4fbbda2b709a7294570bc935",
+            "1ac2df58345f2bf4bb71d142d9670168",
+            "dd1f642a72ac8e2dce9fbc01a4568b94",
+            "c8746f37ab4a1cb983b8e85de2d7d8f5",
+            "4493f6526f37191dec092c3e13325b5b",
+            "c875a38c329fb3b6e0312213daddc96f",
+            "e18f109c2b3d83bfa605dae50b40b080",
+            "bdc00daffe91a780a8db05ec4ca6ef45",
+            "7de6036b44da1be9492571204e7e2795",
+            "c705993cde7742c761f8ace12dc0bda0",
+            "4c77353326445facebb9748d4556acb5",
+            "d54c8e957a70079fb211d1b0033a988e",
+            "5bfb209d6b8ef1aa252a5f9f36fd6680",
+            "d624d5ee9a2e014f2e39f8b4ba7e9c67",
+            "e5fd86158f0264989e37b70dedaf4561",
+            "d214506e814022f268dfbe2a4f8999f4",
+            "e7fd0dbc30fe0d690ff0344fb0c42f05",
+            "1944d0aeb33511ad9ae210bb176023a7",
+            "d4188331e29a801551eb6d1233c57972",
+            "5cd40c490f194e20d57a096cda4fe22d",
+            "d9def4358d7f7fea86e7d531c99f63ac",
+            "4b03475687c914f578f625a7735ebefe",
+            "0728c284463483f269c3bd26ebd4e232",
+            "98507f96858a74401563fe98e57fcb3f",
+            "35f73a38114fb8579a571265f299e5bc",
+            "f46ac31d5ec11fbb45535a09675c0b84",
+            "5ee71f5aaf017959897a7210f706dbfa",
+            "e210ca1eca2a46133310918e991d2106",
+            "357ddc2cd26501e0306ad9e37794f577",
+            "d379a91abaa73bd786bd59998478cf6a",
+            "ebdbb30b0b6aad73f7a67b6c62e92a13",
+            "f0480e76c7106e5a4bd7f8a66de8d2bd",
+            "3835cf16e6e84753385a8c930ce8a843",
+            "372d2704288caa576bd808fde3e00f5d",
+            "b847b55d65d5203ff37040528f174af8",
+            "b7b80390507a65712c537bcc66daeb57",
+            "6846e1eb0242f06b9ddd5216db2f60dd",
+            "5c455862dd9665c24e3862ad554e1305",
+            "5cbc75733007018559377fc0c9937ee3",
+            "859b2fbcb20b3491dc3e43249c75f335",
+            "5dc2af94df6a9de12c0f83f952bef7e5",
+            "5c77fc4efe5f96ca28468e5c2b63da4c",
+            "dd4aae42daa8e1569bde489966cd0b1c",
+            "4976e94c92ee8bdc9b9a6d3bdf8afea8",
+            "331886147f2294968906a93141200c31",
+            "ea3e9f0cdbb470a6c8c7809e895a9436",
+            "f52106e4d6406b01dae53883d203837f",
+            "c2003784fafaef1e6a497fe2b238cf80",
+            "850d7edd6bc37fd9b5897a97e5a95976",
+            "958fc38363cb190897e6f52f2815f005",
+            "06ad2cb3ef22e7c134f6997724c271d2",
+            "16ab7c0388cd1afcf141975a522e31b8",
+            "dfd45f61dcf7687d007a139e708e6bab",
+            "db402ed5e624bf718c71bb6d4ef61184",
+            "77b8324a9e710c9f697fd4acdcb19eee",
+            "fa56520c5e0dbabfe6c1c3d206861b13",
+            "f8087672248b1ed778f12c879438e875",
+            "5005217b12e7cbeb888555330814c9fc",
+            "134846cb0bc5fc8bd99f63d11d897ec6",
+            "5e6d0c56fd560dacae0bf0efd6f404f7",
+            "495412dfe8f41316e117bb76628ab505",
+            "17fba966f4f112d63edee47f601fad44",
+            "a9aa259ce2add57bb619c40934f95ee3",
+            "ea2af69392b74f237fc4cd58c87aa4a5",
+            "2c028ae144e80b32cd57ff0cfa545851",
+            "b503c9addf1bec46c7bb9fbd38cea32a",
+            "96066c8fa464304fada40776d62cbfa1",
+            "236f1dacd5a15886965b23afe5254f0f",
+            "37933836866f29a1e9e7f1c9ee88ee81",
+            "a659b1c2cd01c78f08ae2937780a6b88",
+            "91524fbb3e98df2439096b342d84e36d",
+            "b7bd9f9e178232833abe1fd2bdeaca7a",
+            "7b3e21d72d4ed59f385c259e2f3cd61a",
+            "311b6b76ae924675aeeea36a03aabe0e",
+            "45ab107e6aaba69b95f79d63d670e880",
+            "ba3b3e34c252032104ae02cac08d1863",
+            "3cb6b85d62c9d49b3773a5796a6ad319",
+            "b835f60b3fbb330191ed4b27f7ce81f1",
+            "5100ad5f619aa4cb9714a9ca82b47d86",
+            "0405708fbc47f4a492cb98efc4b8275e",
+            "635baab284f0fd8f72380682b5fa7e9b",
+            "1f585beb34c6ce5ca1610e529a9217ca",
+            "6e3371617532fe52863b1adddfc070a4",
+            "4a7ae698cc7003d6a0dd3b742146819d",
+            "c7ae95ba16db98bad38cc97a4e1ea6aa"
+        ],
+        "nstds": 112,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N200004102",
+            "N200020102",
+            "N200046102",
+            "N530042102",
+            "N200044152",
+            "N200030102"
+        ]
+    },
+    "N200044152": {
+        "STADS_ID": "N200044101",
+        "NAT_code": "BMB550",
+        "title": "Eksperimentel Life Science",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200044152",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "7d4e53d530c63a358ab34ee3d8bbad99",
+            "d46e949a402b99dd6235cf74d7cef238",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "dce42590da8f590862495e8cb741f4b9",
+            "52b32c65312f29ebffb285bd8595336b",
+            "61c750e0837aeaaf008ee1133e8f7184",
+            "c655db7e3b2dcb0e925650e30d6fe036",
+            "c21699dfd521c6312f3ccc4daab42f90",
+            "56c59002b261d7d0f34ac19dc259ac70",
+            "6fbd1389a25fa27d798ec63ea30874e5",
+            "be134f0e726741d97f6260d66f5fb66c",
+            "12527c29b3bb3e14a0ff40cf5c32310f",
+            "5056862df5c8a19decaa96730f7d7f54",
+            "0e527f718eb9760a2db629a68f0d9057",
+            "aaf9ce0a5bba63222cb0d69d923c9d08",
+            "9a31eae013d26768b917c76e27d70332",
+            "eaed12cf96f07c96a771f0ccb5675532",
+            "d5a4941df354ce8d741ca248dbc3c441",
+            "8f151a768ba7177149dec92b81152a98",
+            "dc91b141598c5b193518d9dc3ada7a48",
+            "db35fe15b87e527751d8af4fbe821010",
+            "d370d703067ebf02deafb0c4d2fc9bf2",
+            "b28c700724a6f84ae5893741b4f52d83",
+            "34615e198af8f2b1f691434e787a875f",
+            "3567bec0cf4b529d97e691af3453c76c",
+            "402f75d6da16afbf6f8ce4987eccebd1",
+            "7e959aac4fbbda2b709a7294570bc935",
+            "1ac2df58345f2bf4bb71d142d9670168",
+            "dd1f642a72ac8e2dce9fbc01a4568b94",
+            "c8746f37ab4a1cb983b8e85de2d7d8f5",
+            "4493f6526f37191dec092c3e13325b5b",
+            "c875a38c329fb3b6e0312213daddc96f",
+            "e18f109c2b3d83bfa605dae50b40b080",
+            "bdc00daffe91a780a8db05ec4ca6ef45",
+            "7de6036b44da1be9492571204e7e2795",
+            "c705993cde7742c761f8ace12dc0bda0",
+            "4c77353326445facebb9748d4556acb5",
+            "d54c8e957a70079fb211d1b0033a988e",
+            "5bfb209d6b8ef1aa252a5f9f36fd6680",
+            "d624d5ee9a2e014f2e39f8b4ba7e9c67",
+            "e5fd86158f0264989e37b70dedaf4561",
+            "d214506e814022f268dfbe2a4f8999f4",
+            "e7fd0dbc30fe0d690ff0344fb0c42f05",
+            "1944d0aeb33511ad9ae210bb176023a7",
+            "d4188331e29a801551eb6d1233c57972",
+            "5cd40c490f194e20d57a096cda4fe22d",
+            "d9def4358d7f7fea86e7d531c99f63ac",
+            "4b03475687c914f578f625a7735ebefe",
+            "0728c284463483f269c3bd26ebd4e232",
+            "98507f96858a74401563fe98e57fcb3f",
+            "35f73a38114fb8579a571265f299e5bc",
+            "f46ac31d5ec11fbb45535a09675c0b84",
+            "5ee71f5aaf017959897a7210f706dbfa",
+            "e210ca1eca2a46133310918e991d2106",
+            "357ddc2cd26501e0306ad9e37794f577",
+            "d379a91abaa73bd786bd59998478cf6a",
+            "ebdbb30b0b6aad73f7a67b6c62e92a13",
+            "f0480e76c7106e5a4bd7f8a66de8d2bd",
+            "3835cf16e6e84753385a8c930ce8a843",
+            "372d2704288caa576bd808fde3e00f5d",
+            "b847b55d65d5203ff37040528f174af8",
+            "b7b80390507a65712c537bcc66daeb57",
+            "6846e1eb0242f06b9ddd5216db2f60dd",
+            "5c455862dd9665c24e3862ad554e1305",
+            "5cbc75733007018559377fc0c9937ee3",
+            "859b2fbcb20b3491dc3e43249c75f335",
+            "5dc2af94df6a9de12c0f83f952bef7e5",
+            "5c77fc4efe5f96ca28468e5c2b63da4c",
+            "dd4aae42daa8e1569bde489966cd0b1c",
+            "4976e94c92ee8bdc9b9a6d3bdf8afea8",
+            "331886147f2294968906a93141200c31",
+            "ea3e9f0cdbb470a6c8c7809e895a9436",
+            "f52106e4d6406b01dae53883d203837f",
+            "c2003784fafaef1e6a497fe2b238cf80",
+            "850d7edd6bc37fd9b5897a97e5a95976",
+            "958fc38363cb190897e6f52f2815f005",
+            "06ad2cb3ef22e7c134f6997724c271d2",
+            "16ab7c0388cd1afcf141975a522e31b8",
+            "dfd45f61dcf7687d007a139e708e6bab",
+            "db402ed5e624bf718c71bb6d4ef61184",
+            "77b8324a9e710c9f697fd4acdcb19eee",
+            "fa56520c5e0dbabfe6c1c3d206861b13",
+            "f8087672248b1ed778f12c879438e875",
+            "5005217b12e7cbeb888555330814c9fc",
+            "134846cb0bc5fc8bd99f63d11d897ec6",
+            "5e6d0c56fd560dacae0bf0efd6f404f7",
+            "495412dfe8f41316e117bb76628ab505",
+            "17fba966f4f112d63edee47f601fad44",
+            "a9aa259ce2add57bb619c40934f95ee3",
+            "ea2af69392b74f237fc4cd58c87aa4a5",
+            "2c028ae144e80b32cd57ff0cfa545851",
+            "b503c9addf1bec46c7bb9fbd38cea32a",
+            "96066c8fa464304fada40776d62cbfa1",
+            "236f1dacd5a15886965b23afe5254f0f",
+            "37933836866f29a1e9e7f1c9ee88ee81",
+            "a659b1c2cd01c78f08ae2937780a6b88",
+            "91524fbb3e98df2439096b342d84e36d",
+            "b7bd9f9e178232833abe1fd2bdeaca7a",
+            "7b3e21d72d4ed59f385c259e2f3cd61a",
+            "311b6b76ae924675aeeea36a03aabe0e",
+            "45ab107e6aaba69b95f79d63d670e880",
+            "ba3b3e34c252032104ae02cac08d1863",
+            "3cb6b85d62c9d49b3773a5796a6ad319",
+            "b835f60b3fbb330191ed4b27f7ce81f1",
+            "5100ad5f619aa4cb9714a9ca82b47d86",
+            "0405708fbc47f4a492cb98efc4b8275e",
+            "635baab284f0fd8f72380682b5fa7e9b",
+            "1f585beb34c6ce5ca1610e529a9217ca",
+            "6e3371617532fe52863b1adddfc070a4",
+            "4a7ae698cc7003d6a0dd3b742146819d",
+            "c7ae95ba16db98bad38cc97a4e1ea6aa"
+        ],
+        "nstds": 112,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200020102",
+            "N200046102",
+            "N530042102",
+            "N200042132",
+            "N200030102"
+        ]
+    },
+    "N200046102": {
+        "STADS_ID": "N200046101",
+        "NAT_code": "BMB544",
+        "title": "Grundlæggende cellebiologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N200046102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 4.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "344539354ce335d0a9f28d5248783de5",
+            "7d4e53d530c63a358ab34ee3d8bbad99",
+            "18ed05b04e634682ccd22d8565ea44f5",
+            "dce42590da8f590862495e8cb741f4b9",
+            "45fe66116cf12a0437290518b786762b",
+            "6bf5c2e4b9d4d9afc695c37dd6f8f62e",
+            "52b32c65312f29ebffb285bd8595336b",
+            "61c750e0837aeaaf008ee1133e8f7184",
+            "c655db7e3b2dcb0e925650e30d6fe036",
+            "c21699dfd521c6312f3ccc4daab42f90",
+            "56c59002b261d7d0f34ac19dc259ac70",
+            "5ed27504cd32ea41440f4fcda5b3de5a",
+            "6fbd1389a25fa27d798ec63ea30874e5",
+            "be134f0e726741d97f6260d66f5fb66c",
+            "c9224562d623f737aab1034205a7e4de",
+            "561271f3e8b9a347916063f8d3c7c9eb",
+            "12527c29b3bb3e14a0ff40cf5c32310f",
+            "63bb54d269795e09ec74421e6e4b0ed5",
+            "5056862df5c8a19decaa96730f7d7f54",
+            "0e527f718eb9760a2db629a68f0d9057",
+            "ec959cb2c2fb21a33874cdb33147be86",
+            "aaf9ce0a5bba63222cb0d69d923c9d08",
+            "5d2af273fbd10084d14559367398411e",
+            "9a31eae013d26768b917c76e27d70332",
+            "eaed12cf96f07c96a771f0ccb5675532",
+            "d5a4941df354ce8d741ca248dbc3c441",
+            "8f151a768ba7177149dec92b81152a98",
+            "dc91b141598c5b193518d9dc3ada7a48",
+            "db35fe15b87e527751d8af4fbe821010",
+            "d370d703067ebf02deafb0c4d2fc9bf2",
+            "b28c700724a6f84ae5893741b4f52d83",
+            "34615e198af8f2b1f691434e787a875f",
+            "3567bec0cf4b529d97e691af3453c76c",
+            "402f75d6da16afbf6f8ce4987eccebd1",
+            "7e959aac4fbbda2b709a7294570bc935",
+            "1ac2df58345f2bf4bb71d142d9670168",
+            "dd1f642a72ac8e2dce9fbc01a4568b94",
+            "c8746f37ab4a1cb983b8e85de2d7d8f5",
+            "4493f6526f37191dec092c3e13325b5b",
+            "c875a38c329fb3b6e0312213daddc96f",
+            "f907bfa6d7c1cd55b18dc9ba6c1350b3",
+            "e18f109c2b3d83bfa605dae50b40b080",
+            "bdc00daffe91a780a8db05ec4ca6ef45",
+            "7de6036b44da1be9492571204e7e2795",
+            "c705993cde7742c761f8ace12dc0bda0",
+            "4c77353326445facebb9748d4556acb5",
+            "d54c8e957a70079fb211d1b0033a988e",
+            "5bfb209d6b8ef1aa252a5f9f36fd6680",
+            "d624d5ee9a2e014f2e39f8b4ba7e9c67",
+            "e5fd86158f0264989e37b70dedaf4561",
+            "d214506e814022f268dfbe2a4f8999f4",
+            "e7fd0dbc30fe0d690ff0344fb0c42f05",
+            "1944d0aeb33511ad9ae210bb176023a7",
+            "d4188331e29a801551eb6d1233c57972",
+            "5cd40c490f194e20d57a096cda4fe22d",
+            "d9def4358d7f7fea86e7d531c99f63ac",
+            "4b03475687c914f578f625a7735ebefe",
+            "0728c284463483f269c3bd26ebd4e232",
+            "98507f96858a74401563fe98e57fcb3f",
+            "35f73a38114fb8579a571265f299e5bc",
+            "f46ac31d5ec11fbb45535a09675c0b84",
+            "5ee71f5aaf017959897a7210f706dbfa",
+            "e210ca1eca2a46133310918e991d2106",
+            "ab251e804ddd0dc5e395635753d15862",
+            "357ddc2cd26501e0306ad9e37794f577",
+            "d379a91abaa73bd786bd59998478cf6a",
+            "ebdbb30b0b6aad73f7a67b6c62e92a13",
+            "f0480e76c7106e5a4bd7f8a66de8d2bd",
+            "3835cf16e6e84753385a8c930ce8a843",
+            "372d2704288caa576bd808fde3e00f5d",
+            "844f4e5441eaace0498d0526289c69ce",
+            "b847b55d65d5203ff37040528f174af8",
+            "b7b80390507a65712c537bcc66daeb57",
+            "6846e1eb0242f06b9ddd5216db2f60dd",
+            "5c455862dd9665c24e3862ad554e1305",
+            "5cbc75733007018559377fc0c9937ee3",
+            "859b2fbcb20b3491dc3e43249c75f335",
+            "5dc2af94df6a9de12c0f83f952bef7e5",
+            "5c77fc4efe5f96ca28468e5c2b63da4c",
+            "dd4aae42daa8e1569bde489966cd0b1c",
+            "4976e94c92ee8bdc9b9a6d3bdf8afea8",
+            "7c96cad8bfdae9b9554cbcf4987d7d6b",
+            "331886147f2294968906a93141200c31",
+            "ea3e9f0cdbb470a6c8c7809e895a9436",
+            "f52106e4d6406b01dae53883d203837f",
+            "c2003784fafaef1e6a497fe2b238cf80",
+            "850d7edd6bc37fd9b5897a97e5a95976",
+            "958fc38363cb190897e6f52f2815f005",
+            "06ad2cb3ef22e7c134f6997724c271d2",
+            "147782e404b157697c8816461591cc98",
+            "16ab7c0388cd1afcf141975a522e31b8",
+            "dfd45f61dcf7687d007a139e708e6bab",
+            "db402ed5e624bf718c71bb6d4ef61184",
+            "77b8324a9e710c9f697fd4acdcb19eee",
+            "fa56520c5e0dbabfe6c1c3d206861b13",
+            "f8087672248b1ed778f12c879438e875",
+            "5005217b12e7cbeb888555330814c9fc",
+            "134846cb0bc5fc8bd99f63d11d897ec6",
+            "5e6d0c56fd560dacae0bf0efd6f404f7",
+            "495412dfe8f41316e117bb76628ab505",
+            "17fba966f4f112d63edee47f601fad44",
+            "a9aa259ce2add57bb619c40934f95ee3",
+            "d43325c8db3c146d6435d2083df15d59",
+            "ea2af69392b74f237fc4cd58c87aa4a5",
+            "2c028ae144e80b32cd57ff0cfa545851",
+            "b503c9addf1bec46c7bb9fbd38cea32a",
+            "96066c8fa464304fada40776d62cbfa1",
+            "236f1dacd5a15886965b23afe5254f0f",
+            "37933836866f29a1e9e7f1c9ee88ee81",
+            "d4c4c3137eabdd43fbcf0dc0272c40de",
+            "4996ec5bc6c5f09e33204f29c57584bf",
+            "a659b1c2cd01c78f08ae2937780a6b88",
+            "91524fbb3e98df2439096b342d84e36d",
+            "b7bd9f9e178232833abe1fd2bdeaca7a",
+            "7b3e21d72d4ed59f385c259e2f3cd61a",
+            "311b6b76ae924675aeeea36a03aabe0e",
+            "2173abd4e0be70f958ef3fd045c6d81d",
+            "45ab107e6aaba69b95f79d63d670e880",
+            "ba3b3e34c252032104ae02cac08d1863",
+            "3cb6b85d62c9d49b3773a5796a6ad319",
+            "b835f60b3fbb330191ed4b27f7ce81f1",
+            "91f7d11784e402293c412f1465313063",
+            "5100ad5f619aa4cb9714a9ca82b47d86",
+            "0405708fbc47f4a492cb98efc4b8275e",
+            "ed021cfa38a47fd7620851aff7a00e43",
+            "dcf41bba2c519fe1d07301e3ceda40b4",
+            "635baab284f0fd8f72380682b5fa7e9b",
+            "1f585beb34c6ce5ca1610e529a9217ca",
+            "6e3371617532fe52863b1adddfc070a4",
+            "4a7ae698cc7003d6a0dd3b742146819d",
+            "c7ae95ba16db98bad38cc97a4e1ea6aa",
+            "215e88e522c40c14c796994644884e4d"
+        ],
+        "nstds": 132,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200020102",
+            "N530042102",
+            "N200044152",
+            "N200042132",
+            "N200030102",
+            "N530028102"
+        ]
+    },
+    "N210023102": {
+        "STADS_ID": "N210023101",
+        "NAT_code": "SPBMB800",
+        "title": "SPBMB800: Speciale i biomedicin",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210023102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "4bfd2acc45da00825ef86bec18aef69a",
+            "03c6aa2ef21d37957ffa8b619ba9a323",
+            "96a5e31d9944caa24d73047cec9e59df",
+            "a7bd47455b06f50f3993e36c7b53df80",
+            "81de3bb797b072f83afec6eb228d226d",
+            "e9ed5b1767c807011bccecd39da466c1",
+            "3e0e4b259c43084637f52a4cb1ac05a9"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210025102": {
+        "STADS_ID": "N210025101",
+        "NAT_code": "SPBMB801",
+        "title": "SPBMB801: Speciale i biokemi og molekylær biologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210025102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "dec1aa75d6db907709de16c493552fe8",
+            "c39cfbbaa54ccfe8ce6a4295649f96e8",
+            "998402a77e487b695f3c3dd45b081331",
+            "670c1db78ead5cef7830c703d7b0d127",
+            "282494383f8219ec23774ae29c049197",
+            "de2ad6bf53833abadcb3f28e84651f2f",
+            "acd36fe7984284ba29284c52e627814f"
+        ],
+        "nstds": 7,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210027102": {
+        "STADS_ID": "N210027101",
+        "NAT_code": "SPBMB802",
+        "title": "SPBMB802: Speciale i biokemi og molekylær biologi",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210027102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "a6e085a60806205305a003df63a5295f"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210030102": {
+        "STADS_ID": "N210030101",
+        "NAT_code": "SPBMB803",
+        "title": "SPBMB803: Speciale i biomedicin",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210030102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "e037b222a88a663e991648a7ece9fd5f"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210033102": {
+        "STADS_ID": "N210033101",
+        "NAT_code": "SPCB801",
+        "title": "SPCB801: Speciale i Biomedicinsk informatik",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210033102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "84b219c54c47fb888968d88bfc0eef53"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210054102": {
+        "STADS_ID": "N210054101",
+        "NAT_code": "SPBMB805",
+        "title": "SPBMB805: Kandidatspeciale i biomedicin for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210054102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N210059102": {
+        "STADS_ID": "N210059101",
+        "NAT_code": "BMB844",
+        "title": "Præcisionsmedicin",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210059102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 3.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "bmb",
+        "students": [
+            "bc7e2295fa099509d6b92e21253b09ef",
+            "f82b904b63010ac95eadb081a3e8b462",
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "cd89d762ece95b2786239c8511f42888",
+            "ef0e1ca93867960464aeb643ece32966",
+            "401e2c75de31ea3246c724b8a1213992",
+            "b121268f860730f9ab3f5886a84369e1",
+            "1d0720840ee2144233ed892a4951638c",
+            "35bb20598dea92f23695d4b00f6a2105",
+            "eb6d196ce77b5c99871a46353900aa5d",
+            "3f95978f746d507ce58cc9cdaa9589e7",
+            "9707c9c6372fe8fb82a04f6b29dbaae9",
+            "35f92cf4ee6118749fd7ac174c50ff9c",
+            "0bc749728d2409b2722b60cb8823adb2",
+            "4e3d649c9f7879709114bc1cab8054a0",
+            "b570825bd6d693d58d0f4586e43ed44c",
+            "25ef28690cad9459da1006dc5029fade",
+            "bfb44b882adb2b5fd03c718740a1b1bb",
+            "caac2c8e40e70ba3d3e43546b7f655f5",
+            "e48cae9015e44fff5a38c3bc2b08790c",
+            "b62b67f63cc52e4afb8574312a77345a",
+            "ff70a8873a55e433cc6b1bbc9e67bcc2",
+            "de957da9f805e306657817176371f421",
+            "0540e62b0e8e5e6a385175d12b05b2a9",
+            "574e771b7ad9a96ce7b8aa42187d0f76",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "d268192a201b955e8ac005690f71afbb",
+            "0c55756f609294aab451221469a980bb",
+            "ed5d556a7c0bd7550c6d67022c1a624e",
+            "99567e585eba436e46228f6f6b43b29a",
+            "ab859cb4b4653a777a6c05e8a6a6eb0f",
+            "c67433cf0494d3e1b06839094213e51c",
+            "ef786e313b8599e90b1fe5aa20b296f0",
+            "e70b06e52512255f9f333543b9d28c1c",
+            "4bd6be8af50fe0ea2cbd3de00d46bb05",
+            "63e884255d5624b9c5dfcbffc11d0320",
+            "b6c23dddd3d601b7b9bb09eb7b3f24c4",
+            "7f73c39df409051fd453ad04b91bd064",
+            "21615aab817a3035b5952bc8648f3912",
+            "aa0d6b827e3d83cf934ba78a1d973bfc",
+            "53b0805e3f53754230249c92f86481b9",
+            "335ba9814e4051a3b32de1d03fee20c0",
+            "97ac682f4c6975678c09e961743bf60b",
+            "dbefd2f9872f8f7fdface5e3fd43563b",
+            "43ae1644392ecb26316f809a01d9815d",
+            "44302a926bf2ca71f8f02345ab56c24f",
+            "4b506a7bb38606ecc5895e3263d9e5b1",
+            "97f64b77e8e8edf653bf88b0fa989a44",
+            "f3e4803f4fa9904872bfcf768b5d51ac",
+            "30739443697de4fe4d7d3cf0671b70f1"
+        ],
+        "nstds": 50,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ],
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ],
+            [
+                29,
+                "2024-01-29"
+            ],
+            [
+                30,
+                "2024-01-30"
+            ]
+        ],
+        "conflicting": [
+            "N810001102",
+            "N810006102",
+            "N810006112",
+            "N210058102"
+        ]
+    },
+    "N210060102": {
+        "STADS_ID": "N210060101",
+        "NAT_code": "SPCB802",
+        "title": "SPCB802: Speciale i Biomedicinsk informatik",
+        "Administrationsenhed": "BMB",
+        "EKA": "N210060102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [],
+        "nstds": 0,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    },
+    "N710013102": {
+        "STADS_ID": "N710013101",
+        "NAT_code": "SPBMB804",
+        "title": "SPBMB804: Kandidatspeciale i biokemi og molekylærbiologi for PhD-studerende på 4+4 ordning",
+        "Administrationsenhed": "BMB",
+        "EKA": "N710013102",
+        "Prøveform": "Kandidatspeciale med mundtligt forsvar",
+        "ECTS/prøve": 60.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "3/1",
+        "stype": "u",
+        "institute": "bmb",
+        "students": [
+            "73c6a783d96700e39ce05e0fcbf144b6"
+        ],
+        "nstds": 1,
+        "rdays": 1,
+        "schedule": [
+            [
+                3,
+                "2024-01-03"
+            ]
+        ]
+    }
+}

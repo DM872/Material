@@ -1,0 +1,878 @@
+{
+    "N210058102": {
+        "STADS_ID": "N210058101",
+        "NAT_code": "SU811",
+        "title": "Molekylær Patofysiologi",
+        "Administrationsenhed": "SUND",
+        "EKA": "N210058102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 10.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "sund",
+        "students": [
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "ba4b2ff345b03169ca1743268fca8634",
+            "401e2c75de31ea3246c724b8a1213992",
+            "1d0720840ee2144233ed892a4951638c",
+            "c0f340f53bc9c23f93324b3b16914398",
+            "3f95978f746d507ce58cc9cdaa9589e7",
+            "9707c9c6372fe8fb82a04f6b29dbaae9",
+            "35f92cf4ee6118749fd7ac174c50ff9c",
+            "0bc749728d2409b2722b60cb8823adb2",
+            "4e3d649c9f7879709114bc1cab8054a0",
+            "25ef28690cad9459da1006dc5029fade",
+            "bfb44b882adb2b5fd03c718740a1b1bb",
+            "caac2c8e40e70ba3d3e43546b7f655f5",
+            "e48cae9015e44fff5a38c3bc2b08790c",
+            "b62b67f63cc52e4afb8574312a77345a",
+            "ff70a8873a55e433cc6b1bbc9e67bcc2",
+            "de957da9f805e306657817176371f421",
+            "0540e62b0e8e5e6a385175d12b05b2a9",
+            "574e771b7ad9a96ce7b8aa42187d0f76",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "d268192a201b955e8ac005690f71afbb",
+            "0c55756f609294aab451221469a980bb",
+            "ed5d556a7c0bd7550c6d67022c1a624e",
+            "ab859cb4b4653a777a6c05e8a6a6eb0f",
+            "c67433cf0494d3e1b06839094213e51c",
+            "ef786e313b8599e90b1fe5aa20b296f0",
+            "63e884255d5624b9c5dfcbffc11d0320",
+            "b6c23dddd3d601b7b9bb09eb7b3f24c4",
+            "7f73c39df409051fd453ad04b91bd064",
+            "21615aab817a3035b5952bc8648f3912",
+            "aa0d6b827e3d83cf934ba78a1d973bfc",
+            "53b0805e3f53754230249c92f86481b9",
+            "335ba9814e4051a3b32de1d03fee20c0",
+            "97ac682f4c6975678c09e961743bf60b",
+            "dbefd2f9872f8f7fdface5e3fd43563b",
+            "97f64b77e8e8edf653bf88b0fa989a44",
+            "f3e4803f4fa9904872bfcf768b5d51ac",
+            "30739443697de4fe4d7d3cf0671b70f1"
+        ],
+        "nstds": 38,
+        "rdays": 3,
+        "conflicting": [
+            "N810001102",
+            "N810006102",
+            "N810006112",
+            "N210059102"
+        ]
+    },
+    "N560022102": {
+        "STADS_ID": "N560022101",
+        "NAT_code": "SU516",
+        "title": "Fysiologi og farmakologu for farmaceuter - Modul 1:molekylder og celler",
+        "Administrationsenhed": "SUND",
+        "EKA": "N560022102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "sund",
+        "students": [
+            "bf364c0e96e635737a86bc99946c22f1",
+            "8f6211d7d93c8d0d102caf8a72fa0e41"
+        ],
+        "nstds": 2,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N560033102"
+        ]
+    },
+    "N560033102": {
+        "STADS_ID": "N560033101",
+        "NAT_code": "SU520",
+        "title": "Fysiologi og farmakologi for farmaceuter - Modul 1: molekyler og celler",
+        "Administrationsenhed": "SUND",
+        "EKA": "N560033102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 6.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "sund",
+        "students": [
+            "416de63da21752a2957ca36f2700c907",
+            "1f852a144c1e95eae6b0be975e2c5db9",
+            "6ae60f6a3ba87ce7fcaef21eb2932e8a",
+            "1b216df81c605deb0a83b302dabbdd1e",
+            "2a39d51bb35c14cb0dc7a62309429cf3",
+            "44909baffe2c85338fa7b792fc1bd40d",
+            "c0a38aa1b4af660d2f81e392f6b76f21",
+            "c2dbe141942d0854a5ff4da56c8dee9c",
+            "12d09202ec41e499787c3ea2d01531d8",
+            "1fd40268310288cc43ea70e6b5d78e4e",
+            "af7df580251ca3eb70c05c4bacb59bb4",
+            "465e623a94f62d5670cd7ccab3ad45ca",
+            "3a3a179b65a2735a4a9dc8720e5cbd30",
+            "74cc83f091ff486f328210822f1b50d1",
+            "5912d82228db0ca2e3e85a608dbca146",
+            "b571481d1f154b3ab5086a46bdc3c9ac",
+            "5f4474db02a0c666601bc9cead3a7998",
+            "5bb55c23fe97cf3cb1a6490d9546d3b2",
+            "233c6c4b1e26eacaaad2cd16c7b15d05",
+            "688040d23c16eff516974201079964b2",
+            "9422192c68878f9aad94b552265c81d4",
+            "495fbac8f0917e2e69f72add2548eb84",
+            "655bb8acd989ce15ab98d2b4c1e1759a",
+            "09e91e54f3b6ffd0d3601cf156387d59",
+            "763f0d758a81932e338b35ae8ee079cd",
+            "dd5111098859f8faa4c4733c8f61fb4b",
+            "3ceb19b3f894e1c1323bad0b0ab40e05",
+            "3e5cd518a7706e133f3f42ab75cbdaf6",
+            "da36ed8b344a0c9e0bbe54e72c83810d",
+            "af46c86d6d36b1ac7492505f1ca72daf",
+            "a9a4d16b165e09ff0d64b094a4d3f5f4",
+            "251967ba1c260bbc496ca805bf97bc00",
+            "3414edeb0774ade444254ab49b8f2fe5",
+            "067e66d9862f0f0b3d4abf579f3d97f4",
+            "40bddee0d66a43b3cddb967f9c8f6a9b",
+            "2d076e44141b0ac071bd0240687e321b",
+            "4b6a4eb4effe16543c82937c78c4a88c",
+            "6e701f60c0d678a57b08c0cf1e0bb132",
+            "6b8a0355f120049f8f52a4065fa7d680",
+            "b58f6a10ca0eb4982715c8e63c26487c",
+            "a6fe3156de145727688b841da2abcdcd",
+            "dcf56873bd6548090f7f13338baafb25",
+            "42c50f50ac98a2c4c7909d20ec728207",
+            "acbc22bb01d2682b5ffc2678317a9b23",
+            "d1fab55686bcb61923b7eaec841863fc",
+            "3091f501765668f0de80d7cfc8ff0701",
+            "8d0d24ea42a08ce8b7bb43dbf4bf26b0",
+            "6ea5b39170054411d478f6e00886ad30",
+            "0ac6f84505a1a10d27c842b03d9f066e",
+            "48c5fa7a6cdd67943f1539ac5625a524",
+            "487bdb01d1f93dcc6522a47ada3b83d3",
+            "fe90407dee20a508f06dd2ba249316a0",
+            "3d64ed1c4b5ef8404d5f8c1db35763e0",
+            "89f53191c71b4a9d25b9469f171be38e",
+            "b2175b9c6ea245d8804642560422a446",
+            "2c00d9ac13be5038c7564ca87e2d4065",
+            "1f1f2612cfe0d91d5654c95c99cb0d6a",
+            "7204403c72a08dcd4f8f6150a0bcf808",
+            "ed7f1b11d717ea9962a05815b3941a23",
+            "bd594cd6d00f352c731fdb9b70c40b73",
+            "51fc36ef566089f226e9414a20f9fd0d",
+            "a306d2dfd9dfba8955a3dacf95ac9a63",
+            "3386ec4eab3119f0217252cda5d5cf10",
+            "6e95426048b3f0faefae9c8d3511416b",
+            "d5d0814fa8030e3d3138efb5b3c817ea",
+            "6f725239d2325643efce222a1cb79fa2",
+            "71d9aec31f3f62e39ed5dff313974a71",
+            "c7be75e0cffa54977bcbd2f34916f7a0",
+            "6041f6b04bfba5810501f0ffc2473b78",
+            "fc8447b8b2dd3b4f8faa6a7f6f02b226",
+            "673d79eb93ab2f778b986c9c38d7e138",
+            "315de0d4df1cbc1b24ccf0ef05c21475",
+            "aee2ebba2d3c46d822255169d16de5ab",
+            "536a3a2cbd2fa4cb6e478ddd1ab3ad52",
+            "a2a7444c2ebcd11cd4bc97eb2dc4f381",
+            "e3b6829922d1abf270aece1ab22fb5d2",
+            "93dcd332bf82226e3a65ffe299e38524",
+            "d095023a953121e1bba4af210dc96b1f",
+            "1a1ef75aab53ff16f63eb1c2a42c1937",
+            "1625826e3d4bc1af1b75f68bb9de76c7",
+            "47a6dd43e7a13cca21d2e2f798b6b3f8",
+            "56e6ccc6066860eac983d2a3b76e68e1",
+            "e0b9e9c353b93c7354c1a1d0071458d6",
+            "dd09b1ab1ab35b375cc07cb9df9e7872",
+            "4b82636a22030314a8b1d21a0d0569c9",
+            "558df6524ea92756ae757e3f6ce311ff"
+        ],
+        "nstds": 86,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "joining": [
+            "N560022102"
+        ],
+        "conflicting": [
+            "N560011102",
+            "N200009102",
+            "N200031102"
+        ]
+    },
+    "N800000102": {
+        "STADS_ID": "N800000101",
+        "NAT_code": "SU501",
+        "title": "Anatomi",
+        "Administrationsenhed": "SUND",
+        "EKA": "N800000102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær",
+        "Faste datoer": "22/1-26/1",
+        "stype": "m",
+        "institute": "sund",
+        "students": [
+            "f29c186aaaf43a9bfcfd1895f69d0a97",
+            "2fa8e5d108efe2faea0a26a54f53ad51",
+            "573ec6c8506c07d92270f61a4c50ab49",
+            "ef9dd2ace97e68d3b056216330bed9cd",
+            "ef9f70b5765d091bee0d3ab246af9fa8",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "cabb3ff5b620135b1b59599f4779e032",
+            "b803d73a622d8f3d526c4f5245dc5f03",
+            "b27b20108553e2f002c3e200227a744f",
+            "6f01ef41cf96733c9039f9de4a4e0ebb",
+            "50b693430451c172b6d1d076127cd9eb",
+            "c4003f866e702f383a13d07ef8c5e946",
+            "9e517ef5b4744b05f232ddae0e5cdedb",
+            "ee9e0253b2d7f7f05152af287976bc7c",
+            "9608496eb27568837d004147823e2e89",
+            "9e6b78aad89fe81e7be982f9f93802f2",
+            "80bde473d02d10ac8fef0c37eec37f6e",
+            "3768b0df712ac69e94c33a766cd65293",
+            "634a3ac1d39fec2025714b369ff583ce",
+            "ddd376d8434dc5692e29601b9aec6f38",
+            "b0423de0c75b42c5b3b02ea164843af9",
+            "80770a74fc4be1706022034880544e50",
+            "7c90e9ba4594217605ee7d21f6b34392",
+            "dfcab2e1feb31b544cfefecadc48977e",
+            "312856f80eee88e8451552172f05541d",
+            "69d4113d6fb87da8fa36cffe578d2251",
+            "1f0b72c9eb42e26c663f9a75933b215a",
+            "0d13dae474f19e867476560500106574",
+            "f8a88cfde6820ef27d5c9a4f0af0ccb5",
+            "009f8a741b8f6d597dab2e9e299cc585",
+            "86c7dd50d7ef08d1f2d7f52d02a2266e",
+            "cf34dddf566537c285699ea61e988ae6",
+            "9b473b1e847f2aa6ccbf32e539c7ab16",
+            "c9224562d623f737aab1034205a7e4de",
+            "854cc46a21f3cb0ab397bae81e26302e",
+            "ed56cc9e803063f6fbdcc6dc6b02c59e",
+            "a8d4af943bb26325ac49440bfcabd845",
+            "db34c77d5307598c264ee4d49c9ba529",
+            "bb636d949c2ecaf28e7e723308004659",
+            "2169fd4df3f351267f48eaec0e328ffb",
+            "ea1464f481b041cbc3e067b070bc0015",
+            "e6025c4c7ddb9006509d4b22164cff70",
+            "d0336a7cb1edf68614a8d123b18682d9",
+            "a68a2f4341de393013b242d7dd329fc9",
+            "ffb81512d77285ff37cec3ce77cf2584",
+            "e6a606447cf676aaceee7504949d7780",
+            "dd00195f94dfadbef123608e09035239",
+            "c874464e4c6eb5dcb7de8bf247011781",
+            "2881ab2bdb607ceda670b1c58534ffa8",
+            "25d5516cc19789caa0ab8cf4d269b7fe",
+            "129261816645204f9ef17db51e53c24a",
+            "2ac852541acf31ea926f1825f4b6cd25",
+            "97b15b45e7b5df65eb2aa28c30ea9559",
+            "63bb54d269795e09ec74421e6e4b0ed5",
+            "092e35bbfa7fdf5889c5b46835eeaaba",
+            "17ae2fa03d11d1559180ac85a5b14917",
+            "72961ae8eb7b9f571d9ec7567e6691b1",
+            "1febb4b37eecd76df1614e5e6807ebf2",
+            "1de106f3a37347e4fe6226f1d8e485ee",
+            "458f77a45b31c28a88da24be6832e4e1",
+            "e07a89fd832354d931f271c6ee1f5b49",
+            "ceb499a56b8e15806c0bcd1564d4f964",
+            "5c3c8601feb2ed013f1a4127985618f5",
+            "a87e66e95b7f2a62a2daedab13a05bcc",
+            "243d97768626c0bf6a4c2cf842a11f2e",
+            "aaec0bd7cefd57341bc36b55b9129b1f",
+            "b39a8d541acce602753bdbcb4247f19f",
+            "72d2e513f5e80b7c91e1895c13efe085",
+            "dafad1610dd43fdc98dade130a8d9e54"
+        ],
+        "nstds": 69,
+        "rdays": 5,
+        "schedule": [
+            [
+                22,
+                "2024-01-22"
+            ],
+            [
+                23,
+                "2024-01-23"
+            ],
+            [
+                24,
+                "2024-01-24"
+            ],
+            [
+                25,
+                "2024-01-25"
+            ],
+            [
+                26,
+                "2024-01-26"
+            ]
+        ],
+        "conflicting": [
+            "N200036102",
+            "N200039102",
+            "N200019102"
+        ]
+    },
+    "N800002102": {
+        "STADS_ID": "N800002101",
+        "NAT_code": "SU504",
+        "title": "Grundlæggende biologisk antropologi",
+        "Administrationsenhed": "SUND",
+        "EKA": "N800002102",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 15.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "sund",
+        "students": [
+            "00976045cb5adca53ac7cd8f3b54c34c",
+            "0d6f98e9468999c0c01dc3f9993088bd",
+            "c819c71c0d6fdfe74875a51c0ef525ce",
+            "7ea8324513614abbe4f86b0e3e894b5d",
+            "2b32e7ea8a13ba842abda48d3967169d",
+            "d6f3798ecc4c1c3fd7b1522023305809",
+            "f4ad0db0919304294a3058313c2ce3d9",
+            "61ee1cbab1f70e353734316426d0ef41",
+            "ad133e08e78b4b68e43818f116597def",
+            "fec588d1d3c90028b2134fc9aa74d95a",
+            "2b8eadd37261625936baf1a876802dd6",
+            "0331602f63faaa8ddecb6580109d295a",
+            "a48d6b22da207d2958eca707af3f90b8",
+            "aeeda1dfea331d754a08035a71e5c218"
+        ],
+        "nstds": 14,
+        "rdays": 1
+    },
+    "N800007102": {
+        "STADS_ID": "N800007101",
+        "NAT_code": "SU502",
+        "title": "Medicinsk fysiologi",
+        "Administrationsenhed": "SUND",
+        "EKA": "N800007102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 8.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "sund",
+        "students": [
+            "0b9f546c9afc0f3d2c435ba298a4e8a9",
+            "1190c5fbb0b8219e98e31031397768b2",
+            "647aa4c9c68a705f211afd57b5e8e3ac",
+            "480393d5d30d76f30f709832f6f291a2",
+            "92979db325d936f971370459cb4aad9a",
+            "6f23bc3456c310753cccf95595542030",
+            "39fd84a05e1a9e401073f9d659b1ac8b",
+            "212896237038419b049d861bb328bf79",
+            "640a9f45e6602e0c277f90a099c1104c",
+            "2533b054b758df7f149c284d0a228d5c",
+            "dc1ea740e78a12fbe17be1a72d5832f2",
+            "ad4a4c431819ca0ee76bc8c143db8736",
+            "7dc164047aba6dd2efd0af84ec8dbec9",
+            "ef23989586e23e871657df60849249e3",
+            "da5db738c6d4aae608711451998bbb41",
+            "3841b08f6517c67d4cc1a890454a6452",
+            "bffe04f2074cf7490d8d37645e2cd02d",
+            "7caf108c144f927a990d8d24e46f1fa9",
+            "b4fafd4c8f06feb91ecac9ceeff55874",
+            "f8313110a92ffb44cd6abef1fcf9b100",
+            "5fb5e22b1f6dc64b436d5f8d8667fa18",
+            "c6481d125ebb834065c9c3c8741de446",
+            "4f0daddd37dfadc3a4297e6da49ffdc7",
+            "4ff897f7e27b3a9cbcf35cf976159d3f",
+            "dea8d6dc7092b4448d76a53b96a8add5",
+            "2781820933070bb10291105313be2ac1",
+            "a0b4b7dc13a7285afd4a5a1c285be352",
+            "67abcc343d3687cfb9cd30fdba44834c",
+            "ff0b95d23dfd9b6708ae250d411f708a",
+            "b6962b120549bfb0d16020521e97b7a0",
+            "bb3dcc889410898cefe95dec36a7babe",
+            "6d8df3ad7bb0c8b9c5a1b8718a5d24c6",
+            "322fe1c29090fce6e3255d4ce19448bc",
+            "9be85e7ca3048c27d5201575c9f52d69",
+            "43bc32410d8e64b870893be4670f5497",
+            "f42dbf18e68782869396a9679c8030a1",
+            "bc4cb0def4b635490e88876a4f010990",
+            "fade88447e2986d2cb992dcafbcfeb1b",
+            "4be179650e422f19bc16f9bb0e45bdf1",
+            "869c0f672a160c6624f7f692ed3605ec",
+            "098ac9b3ce60f1525c6ed59344a5df07",
+            "b398b68fcc74d995b7910b23fb1f12a3",
+            "5136af11f4917826dfd9e4334b9038cc",
+            "7990a4479f92b2f1c0e6400ceaa090b3",
+            "e48c9dc0ce32882d6c888d1c88951660",
+            "904baf2f8dc79dde07d2954df1ecb5ab",
+            "d9bf4f523eb01fbddf75dd9923019c8f",
+            "0b22e0ced478701b45e43430df22e6a9",
+            "46e21fe8b368e975c82d18e1c8d88c57",
+            "4dc71fd4742afd2fa4b0d78ac4d90c24",
+            "875cf4d282f2df97e7f047605aafcf0f",
+            "38e742bee06278b013cd653f0f659c18",
+            "4b2b4cd6129fd756ab45de14f725c472",
+            "9d8d64916ecbe7155f8a7682a5bb82af",
+            "5c3efc7ed8a4e04fedac3ba8bcf63dbd",
+            "a1504023f9d3679b80b4a090b575c890",
+            "a671daf982813ca86b2edd70e339b3df",
+            "2eeb412508b2e79680644c2c67aa253e",
+            "fc025828e7d026841f7e0ec89a516701",
+            "725e275a6a6e1e8d61fcd6e5e8c06ae5",
+            "4139fb4c94dafa1cd059d51bf8928d22",
+            "04f625762203efd0ad5b8dc87330891c",
+            "ed2def67ea1ef9e282fdf40888e68fcc",
+            "016444590c16603efb4048cf77349b3a",
+            "762f91ff69a4cd7c653cb8e5974be64c"
+        ],
+        "nstds": 65,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N200005102",
+            "N200006102"
+        ]
+    },
+    "N810001102": {
+        "STADS_ID": "N810001101",
+        "NAT_code": "SU802",
+        "title": "Medicinsk neurobiologi",
+        "Administrationsenhed": "SUND",
+        "EKA": "N810001102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "sund",
+        "students": [
+            "bc7e2295fa099509d6b92e21253b09ef",
+            "4bfd2acc45da00825ef86bec18aef69a",
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "ba4b2ff345b03169ca1743268fca8634",
+            "ef0e1ca93867960464aeb643ece32966",
+            "401e2c75de31ea3246c724b8a1213992",
+            "1d0720840ee2144233ed892a4951638c",
+            "15f5b72a37010bde0d7cd0094404a493",
+            "eb6d196ce77b5c99871a46353900aa5d",
+            "3f95978f746d507ce58cc9cdaa9589e7",
+            "9707c9c6372fe8fb82a04f6b29dbaae9",
+            "35f92cf4ee6118749fd7ac174c50ff9c",
+            "0bc749728d2409b2722b60cb8823adb2",
+            "4e3d649c9f7879709114bc1cab8054a0",
+            "b570825bd6d693d58d0f4586e43ed44c",
+            "25ef28690cad9459da1006dc5029fade",
+            "bfb44b882adb2b5fd03c718740a1b1bb",
+            "caac2c8e40e70ba3d3e43546b7f655f5",
+            "e48cae9015e44fff5a38c3bc2b08790c",
+            "b62b67f63cc52e4afb8574312a77345a",
+            "ff70a8873a55e433cc6b1bbc9e67bcc2",
+            "de957da9f805e306657817176371f421",
+            "0540e62b0e8e5e6a385175d12b05b2a9",
+            "574e771b7ad9a96ce7b8aa42187d0f76",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "d268192a201b955e8ac005690f71afbb",
+            "0c55756f609294aab451221469a980bb",
+            "ed5d556a7c0bd7550c6d67022c1a624e",
+            "ab859cb4b4653a777a6c05e8a6a6eb0f",
+            "c67433cf0494d3e1b06839094213e51c",
+            "ef786e313b8599e90b1fe5aa20b296f0",
+            "4bd6be8af50fe0ea2cbd3de00d46bb05",
+            "63e884255d5624b9c5dfcbffc11d0320",
+            "b6c23dddd3d601b7b9bb09eb7b3f24c4",
+            "7f73c39df409051fd453ad04b91bd064",
+            "21615aab817a3035b5952bc8648f3912",
+            "aa0d6b827e3d83cf934ba78a1d973bfc",
+            "53b0805e3f53754230249c92f86481b9",
+            "335ba9814e4051a3b32de1d03fee20c0",
+            "97ac682f4c6975678c09e961743bf60b",
+            "dbefd2f9872f8f7fdface5e3fd43563b",
+            "97f64b77e8e8edf653bf88b0fa989a44",
+            "f3e4803f4fa9904872bfcf768b5d51ac",
+            "30739443697de4fe4d7d3cf0671b70f1"
+        ],
+        "nstds": 44,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N810006102",
+            "N810006112",
+            "N210059102",
+            "N210058102"
+        ]
+    },
+    "N810006102": {
+        "STADS_ID": "N810006101",
+        "NAT_code": "SU803",
+        "title": "Farmakologi B",
+        "Administrationsenhed": "SUND",
+        "EKA": "N810006102",
+        "Prøveform": "Skriftlig stedprøve",
+        "ECTS/prøve": 5.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "s",
+        "institute": "sund",
+        "students": [
+            "4bfd2acc45da00825ef86bec18aef69a",
+            "5e3a97361c21350b0dbd058aefb7d26e",
+            "f82b904b63010ac95eadb081a3e8b462",
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "ef0e1ca93867960464aeb643ece32966",
+            "401e2c75de31ea3246c724b8a1213992",
+            "1d0720840ee2144233ed892a4951638c",
+            "15f5b72a37010bde0d7cd0094404a493",
+            "fcc33e621ef2f5cbf82ad7b2722ad0f0",
+            "956eddecac12c74e53aa493377ffaacd",
+            "dc7bba1e73658aca2d26e8835e1af8ac",
+            "eb6d196ce77b5c99871a46353900aa5d",
+            "c0f340f53bc9c23f93324b3b16914398",
+            "3f95978f746d507ce58cc9cdaa9589e7",
+            "9707c9c6372fe8fb82a04f6b29dbaae9",
+            "35f92cf4ee6118749fd7ac174c50ff9c",
+            "0bc749728d2409b2722b60cb8823adb2",
+            "4e3d649c9f7879709114bc1cab8054a0",
+            "b570825bd6d693d58d0f4586e43ed44c",
+            "25ef28690cad9459da1006dc5029fade",
+            "bfb44b882adb2b5fd03c718740a1b1bb",
+            "caac2c8e40e70ba3d3e43546b7f655f5",
+            "e48cae9015e44fff5a38c3bc2b08790c",
+            "b62b67f63cc52e4afb8574312a77345a",
+            "ff70a8873a55e433cc6b1bbc9e67bcc2",
+            "de957da9f805e306657817176371f421",
+            "0540e62b0e8e5e6a385175d12b05b2a9",
+            "574e771b7ad9a96ce7b8aa42187d0f76",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "d268192a201b955e8ac005690f71afbb",
+            "0c55756f609294aab451221469a980bb",
+            "ed5d556a7c0bd7550c6d67022c1a624e",
+            "ab859cb4b4653a777a6c05e8a6a6eb0f",
+            "c67433cf0494d3e1b06839094213e51c",
+            "ef786e313b8599e90b1fe5aa20b296f0",
+            "4bd6be8af50fe0ea2cbd3de00d46bb05",
+            "63e884255d5624b9c5dfcbffc11d0320",
+            "b6c23dddd3d601b7b9bb09eb7b3f24c4",
+            "7f73c39df409051fd453ad04b91bd064",
+            "21615aab817a3035b5952bc8648f3912",
+            "aa0d6b827e3d83cf934ba78a1d973bfc",
+            "53b0805e3f53754230249c92f86481b9",
+            "335ba9814e4051a3b32de1d03fee20c0",
+            "97ac682f4c6975678c09e961743bf60b",
+            "dbefd2f9872f8f7fdface5e3fd43563b",
+            "97f64b77e8e8edf653bf88b0fa989a44",
+            "f3e4803f4fa9904872bfcf768b5d51ac",
+            "30739443697de4fe4d7d3cf0671b70f1"
+        ],
+        "nstds": 48,
+        "rdays": 1,
+        "available": [
+            [
+                3,
+                "2024-01-03"
+            ],
+            [
+                4,
+                "2024-01-04"
+            ],
+            [
+                5,
+                "2024-01-05"
+            ],
+            [
+                8,
+                "2024-01-08"
+            ],
+            [
+                9,
+                "2024-01-09"
+            ],
+            [
+                10,
+                "2024-01-10"
+            ],
+            [
+                11,
+                "2024-01-11"
+            ],
+            [
+                12,
+                "2024-01-12"
+            ],
+            [
+                16,
+                "2024-01-16"
+            ],
+            [
+                17,
+                "2024-01-17"
+            ],
+            [
+                18,
+                "2024-01-18"
+            ],
+            [
+                19,
+                "2024-01-19"
+            ]
+        ],
+        "conflicting": [
+            "N810001102",
+            "N810006112",
+            "N210059102",
+            "N210058102"
+        ]
+    },
+    "N810006112": {
+        "STADS_ID": "N810006101",
+        "NAT_code": "SU803",
+        "title": "Farmakologi B",
+        "Administrationsenhed": "SUND",
+        "EKA": "N810006112",
+        "Prøveform": "Mundtlig prøve",
+        "ECTS/prøve": 0.0,
+        "Eksamensperiode": "Ordinær/reeksamen",
+        "Faste datoer": "",
+        "stype": "m",
+        "institute": "sund",
+        "students": [
+            "f82b904b63010ac95eadb081a3e8b462",
+            "84f52a2da9746dbfcd3371fdc030fa31",
+            "401e2c75de31ea3246c724b8a1213992",
+            "1d0720840ee2144233ed892a4951638c",
+            "eb6d196ce77b5c99871a46353900aa5d",
+            "c0f340f53bc9c23f93324b3b16914398",
+            "3f95978f746d507ce58cc9cdaa9589e7",
+            "9707c9c6372fe8fb82a04f6b29dbaae9",
+            "35f92cf4ee6118749fd7ac174c50ff9c",
+            "0bc749728d2409b2722b60cb8823adb2",
+            "4e3d649c9f7879709114bc1cab8054a0",
+            "b570825bd6d693d58d0f4586e43ed44c",
+            "25ef28690cad9459da1006dc5029fade",
+            "bfb44b882adb2b5fd03c718740a1b1bb",
+            "caac2c8e40e70ba3d3e43546b7f655f5",
+            "e48cae9015e44fff5a38c3bc2b08790c",
+            "b62b67f63cc52e4afb8574312a77345a",
+            "ff70a8873a55e433cc6b1bbc9e67bcc2",
+            "de957da9f805e306657817176371f421",
+            "0540e62b0e8e5e6a385175d12b05b2a9",
+            "574e771b7ad9a96ce7b8aa42187d0f76",
+            "076088fb35c4ef5acd58630eb7633c73",
+            "d268192a201b955e8ac005690f71afbb",
+            "0c55756f609294aab451221469a980bb",
+            "ed5d556a7c0bd7550c6d67022c1a624e",
+            "ab859cb4b4653a777a6c05e8a6a6eb0f",
+            "c67433cf0494d3e1b06839094213e51c",
+            "ef786e313b8599e90b1fe5aa20b296f0",
+            "4bd6be8af50fe0ea2cbd3de00d46bb05",
+            "63e884255d5624b9c5dfcbffc11d0320",
+            "b6c23dddd3d601b7b9bb09eb7b3f24c4",
+            "7f73c39df409051fd453ad04b91bd064",
+            "21615aab817a3035b5952bc8648f3912",
+            "aa0d6b827e3d83cf934ba78a1d973bfc",
+            "53b0805e3f53754230249c92f86481b9",
+            "335ba9814e4051a3b32de1d03fee20c0",
+            "97ac682f4c6975678c09e961743bf60b",
+            "dbefd2f9872f8f7fdface5e3fd43563b",
+            "97f64b77e8e8edf653bf88b0fa989a44",
+            "f3e4803f4fa9904872bfcf768b5d51ac",
+            "30739443697de4fe4d7d3cf0671b70f1"
+        ],
+        "nstds": 41,
+        "rdays": 3,
+        "conflicting": [
+            "N810001102",
+            "N810006102",
+            "N210059102",
+            "N210058102"
+        ]
+    }
+}
