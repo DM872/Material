@@ -117,7 +117,7 @@ class Preanalysis:
                 # Group the filtered DataFrame by the categorical column 'C' and aggregate the results
                 #grouped = filtered_df.groupby('Room')['Room'].apply(list)
                 # Add the results to the dictionary
-                result_dict[group_name][bin_interval] = set(filtered_df["Room"]) #grouped.to_dict()
+                result_dict[group_name][bin_interval] = list(filtered_df["Room"]) #grouped.to_dict()
 
 
             # Count the number of outcomes in each interval
@@ -133,8 +133,14 @@ class Preanalysis:
             result_dfs.append(binned_counts_df)
 
         # Concatenate all the result DataFrames into a single DataFrame
-        final_result_df = pd.concat(result_dfs).reset_index().rename(columns={'index': 'Interval'})
-        #print(final_result_df)
+        #print(result_dfs[0].reset_index(drop=True))
+        
+        #print(pd.concat(result_dfs))
+        #raise SystemError
+        final_result_df = pd.concat(result_dfs)
+        final_result_df.index.names = ['Interval']
+        
+        # print(final_result_df)
         #print(result_dict)
         #print(binned_exams)
         random.seed(2024)
@@ -147,7 +153,7 @@ class Preanalysis:
                 room_scenarios[scenario][day]=[]
                 for index, value in binned_exams.items():
                     sample_size = min(len(result_dict[day][index]), value)
-                    #print(len(result_dict[day][index]), value)
+                    #print(result_dict[day][index], value)
                     if sample_size>0:
                         room_scenarios[scenario][day]+=random.sample(result_dict[day][index], sample_size)
         #print(room_scenarios)
