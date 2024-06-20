@@ -159,8 +159,10 @@ class Preanalysis:
                         room_scenarios[scenario][day]+=random.sample(result_dict[day][index], sample_size)
                         #room_scenarios[scenario][day]+=result_dict[day][index]
                     if first_bin: # condition and its body to be commented out if line 159 is commented out               
-                        room_scenarios[scenario][day]+=random.sample(result_dict[day][index], oral_exams)
                         first_bin=False
+                        sample_size = min(len(result_dict[day][index]), oral_exams)
+                        room_scenarios[scenario][day]+=random.sample(result_dict[day][index], sample_size)
+                        
             
         #print(room_scenarios)
         return room_scenarios
