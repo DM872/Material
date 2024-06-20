@@ -82,9 +82,9 @@ class Preanalysis:
         print(binned_counts)
         print("Oral exams: ",counts, "average per day ",round(counts/len(self.config["DAYS"]),2))
 
-        return binned_counts
+        return binned_counts, counts
 
-    def sample_rooms(self, binned_exams, room_details, config):
+    def sample_rooms(self, binned_exams, oral_exams, room_details, config):
         counts_dict = {}
         raw_rooms_df = []
         for day in config["DAYS"]:            
@@ -151,11 +151,17 @@ class Preanalysis:
             for day in self.config["DAYS"]:
                 # Loop through each category
                 room_scenarios[scenario][day]=[]
-                for index, value in binned_exams.items():
+                first_bin=True
+                for index, value in binned_exams.items():                   
                     sample_size = min(len(result_dict[day][index]), value)
                     #print(result_dict[day][index], value)
                     if sample_size>0:
                         room_scenarios[scenario][day]+=random.sample(result_dict[day][index], sample_size)
+                        #room_scenarios[scenario][day]+=result_dict[day][index]
+                    if first_bin: # condition and its body to be commented out if line 159 is commented out               
+                        room_scenarios[scenario][day]+=random.sample(result_dict[day][index], oral_exams)
+                        first_bin=False
+            
         #print(room_scenarios)
         return room_scenarios
 
