@@ -43,6 +43,8 @@ class Data(Preanalysis):
                 del exams[key]
             elif exams[key]["stype"]=="u" or exams[key]["stype"]=="o":
                 del exams[key]
+            elif exams[key]["rdays"]>5:
+                del exams[key]
         return(exams)
 
     def read_rooms(self, dirname: str) -> dict:
