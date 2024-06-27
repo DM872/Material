@@ -11,10 +11,10 @@ class Data(Preanalysis):
         self.adj, self.shared = self.create_adj(self.exams)
         self.room_details = self.read_rooms(dirname)        
         self.preanalysis(self.exams)
-        binned_exams = self.preanalysis_exams()        
-        self.room_scenarios = self.sample_rooms(binned_exams, self.room_details, self.config)
+        binned_exams, self.oral_exams = self.preanalysis_exams()        
+        self.room_scenarios = self.sample_rooms(binned_exams, self.oral_exams, self.room_details, self.config)
         #binned_rooms = self.preanalysis_rooms()
-        self.preanalysis_room_scenario(self.room_scenarios,0,self.room_details, self.config)
+        final_results_df = self.preanalysis_room_scenario(self.room_scenarios, 0, self.room_details, self.config)
 
     def read_config(self, dirname: str) -> dict:
         filename = os.path.join(dirname, "config.json")
@@ -42,6 +42,8 @@ class Data(Preanalysis):
             if exams[key]["nstds"]==0 and len(exams[key]["students"])==0: ## TODO would be better not here but in the output to here
                 del exams[key]
             elif exams[key]["stype"]=="u" or exams[key]["stype"]=="o":
+                del exams[key]
+            elif exams[key]["rdays"]>5:
                 del exams[key]
         return(exams)
 
