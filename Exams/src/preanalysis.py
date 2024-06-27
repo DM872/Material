@@ -156,6 +156,7 @@ class Preanalysis:
                     #print(result_dict[day][index], value)
                     if sample_size>0:
                         room_scenarios[scenario][day]+=random.sample(result_dict[day][index], sample_size)
+                        #room_scenarios[scenario][day]+=result_dict[day][index]
         #print(room_scenarios)
         return room_scenarios
 
